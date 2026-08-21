@@ -1,0 +1,801 @@
+Date,Region,Category,Product,Salesperson,Units,Revenue,Cost
+2024-01-01,West,Laptops,ThinkPad X1,Nadia Farouk,3,3770.43,2781.13
+2024-01-02,Midwest,Accessories,Phone Case,Nadia Farouk,5,686.2,481.57
+2024-01-03,West,Laptops,Dell XPS 13,Nadia Farouk,4,138.96,94.91
+2024-01-04,Midwest,Accessories,USB-C Cable,Nadia Farouk,4,2329.72,1337.93
+2024-01-04,West,Phones,Galaxy S24,Julia Park,3,2564.55,1744.51
+2024-01-05,Southeast,Accessories,Wireless Mouse,Nadia Farouk,2,3231.28,1805.98
+2024-01-06,West,Laptops,MacBook Air,Owen Fitzgerald,5,1901.45,1387.54
+2024-01-06,Southeast,Laptops,MacBook Air,Carlos Mendes,5,4234.55,3094.97
+2024-01-08,Midwest,Phones,Galaxy S24,Owen Fitzgerald,8,2460.08,1795.82
+2024-01-09,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,4,7111.56,5677.86
+2024-01-10,Midwest,Phones,Galaxy S24,Nadia Farouk,6,9282.18,6473.34
+2024-01-11,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,2,3201.96,2302.82
+2024-01-11,Southeast,Phones,Galaxy S24,Julia Park,5,6859.25,4134.47
+2024-01-11,Northeast,Accessories,Phone Case,Carlos Mendes,4,6823.32,3759.35
+2024-01-12,Southeast,Accessories,Phone Case,Carlos Mendes,5,4552.5,2753.03
+2024-01-13,Southeast,Phones,Galaxy S24,Owen Fitzgerald,8,4119.76,2693.87
+2024-01-13,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,4,7116.52,5042.74
+2024-01-14,Southeast,Laptops,MacBook Air,Owen Fitzgerald,7,10429.37,6512.31
+2024-01-15,Northeast,Laptops,Dell XPS 13,Carlos Mendes,6,2467.14,1932.11
+2024-01-15,West,Laptops,ThinkPad X1,Owen Fitzgerald,6,7745.22,5398.05
+2024-01-15,Southeast,Phones,iPhone 15,Julia Park,7,7691.53,5359.71
+2024-01-16,Midwest,Accessories,Wireless Mouse,Carlos Mendes,3,1561.35,1166.06
+2024-01-16,West,Accessories,Wireless Mouse,Nadia Farouk,5,4671.65,2608.89
+2024-01-18,Southeast,Accessories,Phone Case,Carlos Mendes,7,2437.26,1890.82
+2024-01-18,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,4,447.6,282.09
+2024-01-19,West,Accessories,Wireless Mouse,Owen Fitzgerald,6,8180.76,5257.25
+2024-01-19,Midwest,Phones,Pixel 8,Carlos Mendes,6,4228.5,3077.03
+2024-01-20,West,Laptops,ThinkPad X1,Owen Fitzgerald,8,10984.56,8078.72
+2024-01-21,Northeast,Phones,iPhone 15,Carlos Mendes,2,2939.78,1687.81
+2024-01-21,Midwest,Laptops,MacBook Air,Julia Park,7,7952.98,6114.36
+2024-01-22,Midwest,Phones,Galaxy S24,Julia Park,4,6003.92,4036.65
+2024-01-22,Southeast,Accessories,USB-C Cable,Carlos Mendes,7,6021.68,4128.31
+2024-01-22,Southeast,Laptops,Dell XPS 13,Carlos Mendes,4,4690.36,3399.61
+2024-01-23,West,Laptops,Dell XPS 13,Owen Fitzgerald,5,7183.6,4620.19
+2024-01-23,Southeast,Phones,Galaxy S24,Nadia Farouk,1,968.35,680.02
+2024-01-23,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,3575.92,2692.3
+2024-01-24,West,Phones,iPhone 15,Nadia Farouk,3,2320.89,1592.13
+2024-01-25,Southeast,Laptops,MacBook Air,Julia Park,1,202.43,137.41
+2024-01-25,Midwest,Laptops,MacBook Air,Carlos Mendes,8,12455.84,6976.08
+2024-01-25,Northeast,Accessories,USB-C Cable,Carlos Mendes,4,4294.64,2856.06
+2024-01-26,Northeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,3374.48,2153.24
+2024-01-27,Southeast,Laptops,Dell XPS 13,Carlos Mendes,2,1762.06,1032.87
+2024-01-28,Northeast,Phones,Galaxy S24,Julia Park,8,1026.24,760.09
+2024-01-29,Northeast,Laptops,ThinkPad X1,Julia Park,2,3055.82,2021.58
+2024-01-29,West,Laptops,Dell XPS 13,Nadia Farouk,6,7290.48,5753.63
+2024-01-30,Midwest,Phones,Pixel 8,Nadia Farouk,3,2791.29,1836.73
+2024-01-30,Southeast,Laptops,MacBook Air,Carlos Mendes,8,11191.76,6432.33
+2024-01-31,Southeast,Laptops,Dell XPS 13,Julia Park,2,2074.28,1621.45
+2024-02-01,Northeast,Laptops,Dell XPS 13,Nadia Farouk,1,1619.77,1265.51
+2024-02-01,Southeast,Phones,Galaxy S24,Carlos Mendes,4,1710.04,1001.36
+2024-02-01,Northeast,Phones,Galaxy S24,Nadia Farouk,8,3727.84,2638.65
+2024-02-01,Northeast,Phones,Galaxy S24,Nadia Farouk,3,1965.66,1552.03
+2024-02-01,Southeast,Phones,Galaxy S24,Carlos Mendes,6,7144.68,5226.07
+2024-02-02,Midwest,Accessories,Phone Case,Julia Park,5,457.35,342.46
+2024-02-03,Southeast,Phones,Galaxy S24,Carlos Mendes,8,830.96,563.42
+2024-02-03,Southeast,Accessories,Phone Case,Carlos Mendes,4,1950.76,1516.35
+2024-02-05,Northeast,Laptops,MacBook Air,Owen Fitzgerald,7,8972.53,6605.84
+2024-02-05,West,Accessories,Phone Case,Owen Fitzgerald,4,3157.4,2398.94
+2024-02-05,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,3188.22,2240.43
+2024-02-06,Midwest,Laptops,ThinkPad X1,Julia Park,3,781.92,445.63
+2024-02-06,Northeast,Laptops,MacBook Air,Owen Fitzgerald,3,2686.29,1755.04
+2024-02-08,Midwest,Laptops,MacBook Air,Julia Park,3,1821.9,1084.25
+2024-02-08,West,Phones,Pixel 8,Nadia Farouk,7,1850.87,1201.75
+2024-02-10,Midwest,Phones,Pixel 8,Nadia Farouk,3,1277.16,771.83
+2024-02-10,West,Accessories,Wireless Mouse,Owen Fitzgerald,4,5216.48,3246.83
+2024-02-10,Midwest,Laptops,ThinkPad X1,Carlos Mendes,2,683.9,524.52
+2024-02-11,Southeast,Phones,Pixel 8,Carlos Mendes,6,6364.98,4056.64
+2024-02-11,Southeast,Laptops,MacBook Air,Julia Park,6,5802.66,3460.0
+2024-02-11,Northeast,Laptops,ThinkPad X1,Carlos Mendes,4,1024.72,773.26
+2024-02-12,Northeast,Phones,Pixel 8,Owen Fitzgerald,1,1140.39,735.14
+2024-02-13,Northeast,Phones,Galaxy S24,Carlos Mendes,3,2517.15,1745.71
+2024-02-14,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,5,8269.85,4867.4
+2024-02-15,Northeast,Accessories,Wireless Mouse,Carlos Mendes,5,7946.3,6283.41
+2024-02-16,Northeast,Phones,iPhone 15,Nadia Farouk,1,1060.75,677.4
+2024-02-16,Southeast,Accessories,USB-C Cable,Nadia Farouk,6,1281.42,869.2
+2024-02-16,Midwest,Laptops,MacBook Air,Julia Park,7,10460.59,8043.42
+2024-02-17,Midwest,Laptops,ThinkPad X1,Carlos Mendes,5,8164.05,6029.92
+2024-02-18,Southeast,Laptops,MacBook Air,Owen Fitzgerald,5,532.55,350.34
+2024-02-19,Southeast,Laptops,MacBook Air,Owen Fitzgerald,5,389.9,290.56
+2024-02-19,West,Accessories,Phone Case,Nadia Farouk,6,4947.3,3645.94
+2024-02-20,West,Laptops,ThinkPad X1,Owen Fitzgerald,4,6384.88,3583.73
+2024-02-23,Northeast,Laptops,Dell XPS 13,Julia Park,6,4716.06,3325.56
+2024-02-24,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,3,2553.69,1506.03
+2024-02-26,Midwest,Laptops,Dell XPS 13,Carlos Mendes,7,10184.51,6768.94
+2024-02-27,Southeast,Phones,Pixel 8,Owen Fitzgerald,7,8401.61,5765.6
+2024-02-28,Southeast,Phones,Pixel 8,Nadia Farouk,7,8003.94,6323.9
+2024-02-29,Southeast,Phones,iPhone 15,Julia Park,2,805.5,563.97
+2024-03-01,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,6,1567.32,888.79
+2024-03-01,West,Laptops,MacBook Air,Julia Park,4,3906.92,2220.36
+2024-03-02,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,3,2674.59,2101.93
+2024-03-03,Northeast,Laptops,Dell XPS 13,Julia Park,2,2829.68,1827.82
+2024-03-03,Southeast,Phones,Galaxy S24,Nadia Farouk,5,5588.3,4131.12
+2024-03-04,West,Phones,iPhone 15,Nadia Farouk,3,3830.01,2981.63
+2024-03-05,Midwest,Phones,Galaxy S24,Julia Park,7,6632.64,3809.42
+2024-03-05,Midwest,Phones,Galaxy S24,Carlos Mendes,6,2656.86,2103.85
+2024-03-06,Southeast,Phones,Galaxy S24,Carlos Mendes,4,2883.2,2301.79
+2024-03-06,Southeast,Phones,Pixel 8,Carlos Mendes,7,4374.93,2687.1
+2024-03-07,Northeast,Phones,iPhone 15,Nadia Farouk,6,9793.56,7293.65
+2024-03-09,Midwest,Phones,Galaxy S24,Julia Park,8,7903.28,6136.37
+2024-03-10,Northeast,Accessories,Phone Case,Owen Fitzgerald,2,2185.48,1602.47
+2024-03-10,Midwest,Accessories,Wireless Mouse,Julia Park,6,9374.28,5971.59
+2024-03-11,Midwest,Phones,iPhone 15,Carlos Mendes,2,879.98,644.82
+2024-03-12,Northeast,Accessories,Wireless Mouse,Nadia Farouk,5,2372.95,1313.82
+2024-03-12,Northeast,Phones,iPhone 15,Julia Park,3,2514.69,1849.03
+2024-03-12,Midwest,Laptops,MacBook Air,Nadia Farouk,8,7360.4,4355.42
+2024-03-13,Southeast,Accessories,Wireless Mouse,Carlos Mendes,6,10007.4,7654.12
+2024-03-13,Southeast,Phones,Galaxy S24,Nadia Farouk,2,1453.34,989.12
+2024-03-13,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,5,4181.85,2422.58
+2024-03-14,Midwest,Phones,Galaxy S24,Owen Fitzgerald,6,224.76,135.51
+2024-03-15,West,Phones,iPhone 15,Nadia Farouk,7,7752.08,4810.83
+2024-03-15,Northeast,Accessories,Wireless Mouse,Carlos Mendes,3,1800.72,1375.73
+2024-03-15,Southeast,Phones,Pixel 8,Nadia Farouk,5,6708.95,5232.34
+2024-03-15,West,Laptops,ThinkPad X1,Julia Park,5,7402.45,4688.93
+2024-03-16,Northeast,Laptops,MacBook Air,Nadia Farouk,3,4938.48,3722.19
+2024-03-17,Northeast,Accessories,Phone Case,Owen Fitzgerald,3,2781.84,2145.84
+2024-03-17,West,Laptops,ThinkPad X1,Julia Park,8,6835.28,4067.24
+2024-03-17,Midwest,Phones,Pixel 8,Carlos Mendes,6,9983.04,6879.08
+2024-03-19,Southeast,Laptops,MacBook Air,Carlos Mendes,8,13988.08,8542.85
+2024-03-19,West,Laptops,ThinkPad X1,Julia Park,2,3194.62,2317.12
+2024-03-19,Northeast,Phones,iPhone 15,Nadia Farouk,4,1928.12,1498.48
+2024-03-21,Northeast,Phones,iPhone 15,Julia Park,4,2108.44,1280.95
+2024-03-22,Northeast,Accessories,Phone Case,Nadia Farouk,2,2691.06,1809.72
+2024-03-24,Northeast,Laptops,Dell XPS 13,Nadia Farouk,7,5128.13,4066.37
+2024-03-24,Midwest,Laptops,Dell XPS 13,Julia Park,2,2287.06,1711.35
+2024-03-24,Southeast,Accessories,USB-C Cable,Owen Fitzgerald,4,3420.96,1942.14
+2024-03-26,Southeast,Laptops,Dell XPS 13,Carlos Mendes,1,71.1,44.71
+2024-03-26,Midwest,Accessories,Phone Case,Carlos Mendes,7,3962.84,2560.93
+2024-03-27,Northeast,Laptops,MacBook Air,Nadia Farouk,1,670.45,393.97
+2024-03-28,Midwest,Accessories,Wireless Mouse,Nadia Farouk,5,6193.1,4012.67
+2024-03-28,Southeast,Laptops,MacBook Air,Carlos Mendes,1,1683.03,1017.26
+2024-03-29,Midwest,Phones,Pixel 8,Owen Fitzgerald,3,2892.57,2142.82
+2024-04-01,Southeast,Accessories,Phone Case,Nadia Farouk,3,4188.12,2616.58
+2024-04-01,West,Laptops,ThinkPad X1,Julia Park,5,1695.7,1172.98
+2024-04-02,Midwest,Laptops,MacBook Air,Nadia Farouk,3,1199.97,778.84
+2024-04-02,Northeast,Phones,iPhone 15,Julia Park,1,410.97,278.48
+2024-04-02,West,Phones,Galaxy S24,Carlos Mendes,2,1862.82,1211.16
+2024-04-03,Midwest,Accessories,Wireless Mouse,Nadia Farouk,2,306.7,181.75
+2024-04-03,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,3,5252.07,4019.22
+2024-04-03,West,Phones,iPhone 15,Nadia Farouk,2,771.88,459.1
+2024-04-03,Northeast,Accessories,Wireless Mouse,Nadia Farouk,1,1113.89,703.82
+2024-04-04,Northeast,Accessories,Phone Case,Owen Fitzgerald,7,3385.83,2276.27
+2024-04-05,Northeast,Laptops,MacBook Air,Nadia Farouk,1,123.11,97.75
+2024-04-06,Midwest,Laptops,ThinkPad X1,Carlos Mendes,1,1464.88,1164.07
+2024-04-06,Southeast,Laptops,ThinkPad X1,Julia Park,4,5461.84,3615.08
+2024-04-07,West,Phones,Galaxy S24,Owen Fitzgerald,3,3885.03,2980.63
+2024-04-08,Midwest,Phones,Pixel 8,Julia Park,1,1305.99,817.56
+2024-04-08,West,Phones,Pixel 8,Nadia Farouk,6,917.88,728.87
+2024-04-10,Northeast,Accessories,Phone Case,Nadia Farouk,8,7275.68,4977.98
+2024-04-11,Northeast,Laptops,Dell XPS 13,Nadia Farouk,6,9612.9,5531.36
+2024-04-11,Northeast,Laptops,ThinkPad X1,Nadia Farouk,7,3062.22,2086.44
+2024-04-12,Southeast,Laptops,ThinkPad X1,Nadia Farouk,8,3601.28,2139.3
+2024-04-12,Northeast,Laptops,MacBook Air,Nadia Farouk,4,4112.08,3096.75
+2024-04-12,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,8,2762.4,2208.22
+2024-04-13,Southeast,Phones,Galaxy S24,Carlos Mendes,3,2480.28,1722.18
+2024-04-13,Southeast,Phones,Pixel 8,Julia Park,8,11881.36,8514.07
+2024-04-13,Midwest,Accessories,USB-C Cable,Carlos Mendes,2,950.78,754.09
+2024-04-14,Southeast,Phones,Pixel 8,Owen Fitzgerald,8,8508.48,5849.57
+2024-04-15,West,Accessories,Phone Case,Nadia Farouk,8,4132.16,2458.58
+2024-04-16,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,1,709.8,517.58
+2024-04-16,Southeast,Accessories,Wireless Mouse,Julia Park,6,6410.76,4614.69
+2024-04-17,West,Accessories,Phone Case,Owen Fitzgerald,2,2139.88,1303.92
+2024-04-18,Northeast,Phones,Pixel 8,Julia Park,8,13400.72,7968.8
+2024-04-19,Midwest,Phones,Pixel 8,Owen Fitzgerald,5,8719.7,6493.25
+2024-04-20,Midwest,Accessories,Phone Case,Owen Fitzgerald,1,1118.18,730.99
+2024-04-20,Midwest,Accessories,USB-C Cable,Carlos Mendes,8,1353.12,950.83
+2024-04-20,Southeast,Phones,iPhone 15,Julia Park,3,1585.11,883.76
+2024-04-21,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,2,3005.38,1765.7
+2024-04-22,West,Accessories,USB-C Cable,Nadia Farouk,4,4952.88,3091.79
+2024-04-23,Northeast,Phones,iPhone 15,Carlos Mendes,1,664.01,405.33
+2024-04-24,Midwest,Phones,Pixel 8,Nadia Farouk,7,5255.18,3562.2
+2024-04-25,West,Laptops,MacBook Air,Carlos Mendes,5,5178.1,3086.03
+2024-04-26,Midwest,Laptops,MacBook Air,Nadia Farouk,8,1797.12,1087.51
+2024-04-26,Southeast,Laptops,ThinkPad X1,Nadia Farouk,5,1333.0,900.39
+2024-04-27,Southeast,Laptops,Dell XPS 13,Nadia Farouk,5,8965.1,6943.89
+2024-04-27,Northeast,Laptops,Dell XPS 13,Nadia Farouk,5,6777.45,4208.95
+2024-04-27,West,Laptops,ThinkPad X1,Carlos Mendes,4,1207.32,798.56
+2024-04-28,Southeast,Phones,iPhone 15,Carlos Mendes,6,4949.04,3098.38
+2024-04-28,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,117.82,80.98
+2024-04-29,Southeast,Laptops,Dell XPS 13,Carlos Mendes,5,5429.65,4220.47
+2024-04-30,Northeast,Laptops,Dell XPS 13,Carlos Mendes,6,3032.1,2235.22
+2024-04-30,West,Laptops,MacBook Air,Owen Fitzgerald,5,8952.25,5192.68
+2024-04-30,Northeast,Phones,Pixel 8,Carlos Mendes,6,7080.06,4196.02
+2024-04-30,Southeast,Laptops,ThinkPad X1,Nadia Farouk,5,3429.35,2154.67
+2024-04-30,West,Phones,Pixel 8,Nadia Farouk,7,9265.83,6700.15
+2024-05-02,Southeast,Laptops,Dell XPS 13,Owen Fitzgerald,5,4718.1,3562.64
+2024-05-03,Southeast,Phones,iPhone 15,Julia Park,1,1022.27,737.25
+2024-05-04,West,Accessories,USB-C Cable,Julia Park,1,1630.02,919.31
+2024-05-06,Midwest,Laptops,Dell XPS 13,Julia Park,8,2803.52,1730.43
+2024-05-06,Southeast,Accessories,USB-C Cable,Julia Park,4,4347.76,2458.36
+2024-05-08,Midwest,Phones,Pixel 8,Julia Park,6,323.46,192.48
+2024-05-08,Midwest,Laptops,MacBook Air,Julia Park,8,4743.52,2867.03
+2024-05-08,Southeast,Accessories,Wireless Mouse,Carlos Mendes,3,2080.71,1634.75
+2024-05-09,Midwest,Laptops,Dell XPS 13,Julia Park,3,1607.43,1205.3
+2024-05-09,Midwest,Phones,Pixel 8,Nadia Farouk,8,6336.0,4543.94
+2024-05-09,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,3,4841.94,3235.03
+2024-05-11,Southeast,Laptops,Dell XPS 13,Nadia Farouk,8,14161.84,10431.93
+2024-05-12,Midwest,Accessories,Wireless Mouse,Julia Park,8,3789.76,2139.55
+2024-05-12,West,Phones,Galaxy S24,Owen Fitzgerald,4,5451.04,3603.02
+2024-05-12,Northeast,Accessories,Wireless Mouse,Julia Park,2,617.14,487.6
+2024-05-13,Northeast,Phones,Pixel 8,Nadia Farouk,8,6970.8,4837.65
+2024-05-13,Southeast,Phones,iPhone 15,Nadia Farouk,7,1542.66,992.82
+2024-05-13,Northeast,Phones,Galaxy S24,Owen Fitzgerald,5,7653.45,4457.49
+2024-05-13,Southeast,Phones,iPhone 15,Nadia Farouk,6,1924.74,1440.04
+2024-05-16,West,Accessories,USB-C Cable,Carlos Mendes,8,1116.0,836.0
+2024-05-17,Midwest,Accessories,Phone Case,Julia Park,1,1616.34,1225.03
+2024-05-18,Southeast,Accessories,USB-C Cable,Nadia Farouk,3,699.93,487.32
+2024-05-18,West,Phones,iPhone 15,Carlos Mendes,6,6586.14,4671.98
+2024-05-19,West,Laptops,ThinkPad X1,Carlos Mendes,2,148.04,111.47
+2024-05-21,Midwest,Laptops,MacBook Air,Owen Fitzgerald,3,1235.34,709.04
+2024-05-21,Northeast,Accessories,USB-C Cable,Carlos Mendes,4,5512.48,3196.55
+2024-05-21,Northeast,Laptops,MacBook Air,Nadia Farouk,3,1840.8,1188.78
+2024-05-21,Northeast,Laptops,Dell XPS 13,Nadia Farouk,4,7141.36,5626.45
+2024-05-22,Southeast,Accessories,Phone Case,Carlos Mendes,1,1291.78,847.4
+2024-05-24,Midwest,Phones,Pixel 8,Nadia Farouk,4,5583.92,3818.66
+2024-05-25,Midwest,Laptops,MacBook Air,Carlos Mendes,2,2114.9,1676.87
+2024-05-28,Southeast,Accessories,Phone Case,Julia Park,6,3174.12,2186.41
+2024-05-29,Southeast,Laptops,MacBook Air,Julia Park,5,5144.65,3950.59
+2024-05-30,Southeast,Laptops,Dell XPS 13,Carlos Mendes,3,5348.73,3997.09
+2024-05-31,Southeast,Phones,Galaxy S24,Julia Park,3,3539.64,2079.55
+2024-05-31,Midwest,Phones,Pixel 8,Carlos Mendes,4,3509.0,2381.44
+2024-06-02,Northeast,Accessories,Wireless Mouse,Carlos Mendes,6,8374.08,6106.81
+2024-06-03,West,Accessories,Phone Case,Nadia Farouk,3,2196.75,1351.79
+2024-06-04,Northeast,Accessories,USB-C Cable,Carlos Mendes,2,2818.28,1667.35
+2024-06-04,Southeast,Accessories,Wireless Mouse,Nadia Farouk,6,5632.98,3896.38
+2024-06-06,West,Laptops,MacBook Air,Julia Park,5,989.6,571.11
+2024-06-08,Southeast,Laptops,MacBook Air,Julia Park,2,3358.82,2599.3
+2024-06-08,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,2,3503.54,2124.1
+2024-06-09,Southeast,Laptops,MacBook Air,Carlos Mendes,6,1115.88,727.51
+2024-06-10,West,Accessories,Wireless Mouse,Julia Park,2,2896.72,1896.65
+2024-06-11,Midwest,Accessories,Phone Case,Nadia Farouk,6,670.92,490.76
+2024-06-11,West,Phones,Galaxy S24,Nadia Farouk,1,987.94,630.29
+2024-06-12,Northeast,Accessories,Phone Case,Owen Fitzgerald,3,2109.99,1391.2
+2024-06-12,Southeast,Laptops,MacBook Air,Nadia Farouk,1,110.71,61.41
+2024-06-12,West,Accessories,Wireless Mouse,Owen Fitzgerald,7,10196.55,8079.27
+2024-06-13,Midwest,Laptops,ThinkPad X1,Carlos Mendes,6,1952.1,1491.36
+2024-06-14,West,Laptops,Dell XPS 13,Carlos Mendes,5,522.95,401.95
+2024-06-14,Southeast,Phones,Galaxy S24,Julia Park,6,2796.24,1540.16
+2024-06-15,Southeast,Accessories,USB-C Cable,Carlos Mendes,6,477.72,375.22
+2024-06-16,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,4,4600.72,3127.33
+2024-06-17,Southeast,Accessories,Wireless Mouse,Nadia Farouk,2,2054.7,1196.78
+2024-06-17,Southeast,Accessories,Wireless Mouse,Nadia Farouk,7,2818.97,1593.91
+2024-06-17,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,2,3236.24,2551.28
+2024-06-18,Midwest,Phones,iPhone 15,Owen Fitzgerald,2,492.82,275.17
+2024-06-18,West,Accessories,Phone Case,Owen Fitzgerald,4,1830.08,1048.56
+2024-06-19,West,Phones,Pixel 8,Carlos Mendes,7,6090.77,4467.24
+2024-06-20,West,Laptops,Dell XPS 13,Owen Fitzgerald,4,3696.84,2226.56
+2024-06-20,Northeast,Accessories,USB-C Cable,Julia Park,4,5994.28,3555.9
+2024-06-21,Northeast,Laptops,ThinkPad X1,Julia Park,1,933.35,613.08
+2024-06-21,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,7,7708.68,4687.98
+2024-06-21,Northeast,Phones,Pixel 8,Carlos Mendes,2,2390.58,1684.1
+2024-06-21,Midwest,Laptops,MacBook Air,Carlos Mendes,3,1149.69,739.65
+2024-06-21,Northeast,Phones,iPhone 15,Julia Park,4,152.28,95.46
+2024-06-22,West,Laptops,ThinkPad X1,Nadia Farouk,2,498.22,379.65
+2024-06-22,Southeast,Accessories,USB-C Cable,Julia Park,3,3018.45,2233.07
+2024-06-23,Southeast,Accessories,USB-C Cable,Julia Park,2,2799.08,2194.08
+2024-06-23,Northeast,Accessories,Phone Case,Owen Fitzgerald,5,3901.85,2709.46
+2024-06-24,Southeast,Accessories,USB-C Cable,Nadia Farouk,6,1391.58,897.57
+2024-06-24,Midwest,Phones,iPhone 15,Owen Fitzgerald,3,3902.61,3062.69
+2024-06-25,Midwest,Phones,Pixel 8,Carlos Mendes,3,2988.03,2365.19
+2024-06-25,Northeast,Phones,Galaxy S24,Nadia Farouk,7,1942.5,1364.79
+2024-06-25,Northeast,Laptops,ThinkPad X1,Julia Park,6,527.64,392.83
+2024-06-26,Northeast,Accessories,USB-C Cable,Nadia Farouk,7,9447.48,7421.68
+2024-06-26,Midwest,Laptops,Dell XPS 13,Nadia Farouk,6,7428.0,4847.48
+2024-06-26,West,Accessories,Wireless Mouse,Nadia Farouk,2,1786.84,1188.8
+2024-06-28,Northeast,Phones,Pixel 8,Nadia Farouk,5,3978.25,2430.68
+2024-06-29,Northeast,Accessories,Phone Case,Owen Fitzgerald,5,1731.65,1046.86
+2024-06-30,Midwest,Laptops,ThinkPad X1,Owen Fitzgerald,7,10375.68,8289.26
+2024-06-30,Southeast,Phones,Galaxy S24,Julia Park,4,3969.84,2715.33
+2024-06-30,West,Accessories,USB-C Cable,Carlos Mendes,7,11777.85,8945.63
+2024-07-01,Northeast,Laptops,Dell XPS 13,Nadia Farouk,3,294.66,198.69
+2024-07-01,Northeast,Accessories,USB-C Cable,Julia Park,8,8660.48,6339.92
+2024-07-02,West,Accessories,Wireless Mouse,Julia Park,6,6669.96,5217.69
+2024-07-04,Midwest,Phones,Pixel 8,Nadia Farouk,2,2772.48,1695.82
+2024-07-06,West,Phones,iPhone 15,Carlos Mendes,8,1733.76,1019.48
+2024-07-08,West,Laptops,MacBook Air,Owen Fitzgerald,8,454.16,261.68
+2024-07-09,Southeast,Accessories,USB-C Cable,Julia Park,1,917.02,625.52
+2024-07-10,Northeast,Accessories,Wireless Mouse,Nadia Farouk,1,1059.12,763.52
+2024-07-10,Southeast,Laptops,Dell XPS 13,Julia Park,4,4156.04,2330.99
+2024-07-11,Northeast,Laptops,Dell XPS 13,Julia Park,7,1632.05,1127.15
+2024-07-11,West,Phones,iPhone 15,Nadia Farouk,2,2971.02,1723.06
+2024-07-13,Northeast,Laptops,MacBook Air,Julia Park,5,4813.7,3082.88
+2024-07-13,Midwest,Laptops,Dell XPS 13,Carlos Mendes,8,2544.08,1416.62
+2024-07-13,Northeast,Accessories,Phone Case,Carlos Mendes,7,3905.93,2402.4
+2024-07-13,Southeast,Accessories,USB-C Cable,Carlos Mendes,4,4082.44,2456.26
+2024-07-15,Northeast,Phones,Pixel 8,Nadia Farouk,6,9961.68,5598.52
+2024-07-17,West,Accessories,USB-C Cable,Julia Park,4,5684.0,4523.77
+2024-07-19,Northeast,Phones,Pixel 8,Carlos Mendes,7,6251.91,3657.61
+2024-07-21,Northeast,Laptops,ThinkPad X1,Nadia Farouk,7,3932.32,2379.81
+2024-07-22,West,Accessories,Wireless Mouse,Nadia Farouk,2,1246.36,784.73
+2024-07-22,Northeast,Laptops,ThinkPad X1,Julia Park,2,1926.24,1068.1
+2024-07-23,Southeast,Accessories,Phone Case,Nadia Farouk,8,14287.28,10726.33
+2024-07-23,West,Accessories,USB-C Cable,Owen Fitzgerald,8,10893.92,7321.96
+2024-07-23,Northeast,Laptops,Dell XPS 13,Carlos Mendes,8,4132.56,2439.82
+2024-07-24,Midwest,Laptops,Dell XPS 13,Julia Park,6,8406.3,4988.14
+2024-07-24,West,Accessories,Phone Case,Owen Fitzgerald,3,4083.51,2393.19
+2024-07-24,West,Laptops,MacBook Air,Nadia Farouk,2,3263.86,2208.37
+2024-07-27,Southeast,Accessories,Phone Case,Nadia Farouk,4,6360.16,4872.65
+2024-07-27,Northeast,Phones,Galaxy S24,Julia Park,1,538.64,340.06
+2024-07-27,West,Phones,Pixel 8,Carlos Mendes,8,2956.8,2095.54
+2024-07-28,Midwest,Phones,Galaxy S24,Carlos Mendes,3,4142.13,2303.44
+2024-07-29,Southeast,Accessories,Phone Case,Nadia Farouk,7,1654.73,1284.91
+2024-07-29,West,Laptops,Dell XPS 13,Nadia Farouk,8,4877.36,2799.64
+2024-07-29,Midwest,Phones,Galaxy S24,Julia Park,1,1181.79,657.69
+2024-07-29,Northeast,Laptops,MacBook Air,Julia Park,4,3352.92,2238.21
+2024-07-30,West,Laptops,Dell XPS 13,Julia Park,8,13556.08,10278.8
+2024-07-30,Northeast,Phones,Pixel 8,Julia Park,6,1814.52,1070.79
+2024-07-30,Midwest,Laptops,ThinkPad X1,Julia Park,2,335.26,249.58
+2024-07-31,Midwest,Phones,iPhone 15,Nadia Farouk,3,1864.38,1246.73
+2024-07-31,West,Phones,iPhone 15,Carlos Mendes,2,1707.64,1250.65
+2024-07-31,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,1,602.52,337.76
+2024-08-01,Northeast,Phones,iPhone 15,Owen Fitzgerald,3,2491.98,1923.64
+2024-08-01,Northeast,Phones,Galaxy S24,Owen Fitzgerald,8,3432.08,2159.28
+2024-08-02,Northeast,Phones,iPhone 15,Julia Park,5,6216.45,4293.66
+2024-08-02,Midwest,Accessories,Wireless Mouse,Julia Park,7,10994.41,8033.04
+2024-08-04,Midwest,Phones,Galaxy S24,Nadia Farouk,2,3412.64,2096.33
+2024-08-05,West,Laptops,Dell XPS 13,Carlos Mendes,5,7837.45,6176.16
+2024-08-05,Northeast,Laptops,ThinkPad X1,Carlos Mendes,7,3685.43,2826.76
+2024-08-06,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,3,1176.27,855.39
+2024-08-06,Southeast,Phones,iPhone 15,Carlos Mendes,6,1234.5,788.51
+2024-08-06,Southeast,Phones,Galaxy S24,Nadia Farouk,8,11806.8,8763.66
+2024-08-08,West,Laptops,MacBook Air,Owen Fitzgerald,3,1486.83,971.27
+2024-08-09,West,Laptops,MacBook Air,Carlos Mendes,8,13678.72,8897.68
+2024-08-09,West,Accessories,Wireless Mouse,Julia Park,8,1507.28,905.36
+2024-08-10,Midwest,Accessories,Phone Case,Julia Park,7,5972.12,4046.78
+2024-08-10,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,4,531.48,380.8
+2024-08-12,Midwest,Phones,Pixel 8,Carlos Mendes,6,10007.7,7927.81
+2024-08-12,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,3,4431.06,2485.11
+2024-08-13,Midwest,Accessories,USB-C Cable,Julia Park,3,5125.32,2860.74
+2024-08-13,Southeast,Accessories,USB-C Cable,Carlos Mendes,8,13640.96,9091.11
+2024-08-15,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,7,10542.98,7752.04
+2024-08-15,Midwest,Accessories,Phone Case,Julia Park,1,458.41,317.21
+2024-08-15,Southeast,Phones,Galaxy S24,Nadia Farouk,6,9369.24,5899.07
+2024-08-16,West,Accessories,Wireless Mouse,Nadia Farouk,3,927.06,527.36
+2024-08-17,Northeast,Accessories,Wireless Mouse,Julia Park,2,925.86,623.03
+2024-08-18,West,Accessories,Phone Case,Owen Fitzgerald,2,893.4,664.0
+2024-08-18,Southeast,Phones,iPhone 15,Julia Park,7,2888.06,1935.75
+2024-08-19,West,Phones,Pixel 8,Carlos Mendes,8,13364.64,8582.85
+2024-08-20,Southeast,Laptops,MacBook Air,Carlos Mendes,2,2323.52,1556.13
+2024-08-20,Northeast,Accessories,Phone Case,Carlos Mendes,8,13655.28,7820.5
+2024-08-21,West,Phones,Galaxy S24,Julia Park,6,9859.14,7328.86
+2024-08-22,West,Accessories,Wireless Mouse,Owen Fitzgerald,7,7650.51,5319.13
+2024-08-23,Northeast,Laptops,Dell XPS 13,Nadia Farouk,4,1120.56,778.85
+2024-08-24,West,Accessories,Phone Case,Carlos Mendes,4,5695.64,4020.49
+2024-08-25,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,4,3607.2,2235.05
+2024-08-25,West,Laptops,MacBook Air,Julia Park,7,1874.88,1193.22
+2024-08-25,Midwest,Accessories,USB-C Cable,Julia Park,7,3746.12,2900.63
+2024-08-26,Southeast,Accessories,Wireless Mouse,Julia Park,2,570.92,401.59
+2024-08-26,Southeast,Phones,Galaxy S24,Nadia Farouk,2,1414.92,961.29
+2024-08-27,West,Phones,Pixel 8,Owen Fitzgerald,2,2870.48,1891.28
+2024-08-28,Midwest,Phones,Pixel 8,Nadia Farouk,1,98.89,75.51
+2024-08-28,Northeast,Accessories,USB-C Cable,Nadia Farouk,4,5559.76,3923.12
+2024-08-29,West,Phones,Galaxy S24,Julia Park,4,5738.44,4113.44
+2024-08-30,West,Phones,iPhone 15,Owen Fitzgerald,5,4391.85,3208.21
+2024-09-01,Northeast,Accessories,Phone Case,Carlos Mendes,7,4989.32,3040.38
+2024-09-02,Southeast,Phones,Pixel 8,Carlos Mendes,3,2506.59,1717.23
+2024-09-03,West,Laptops,MacBook Air,Julia Park,1,151.35,94.63
+2024-09-03,West,Phones,Galaxy S24,Owen Fitzgerald,7,5641.16,4279.98
+2024-09-04,Northeast,Phones,iPhone 15,Owen Fitzgerald,1,1570.86,989.77
+2024-09-05,West,Phones,Pixel 8,Owen Fitzgerald,3,3673.14,2779.51
+2024-09-05,West,Laptops,ThinkPad X1,Julia Park,5,7075.2,3983.4
+2024-09-05,West,Laptops,ThinkPad X1,Julia Park,8,11349.84,8827.27
+2024-09-06,Northeast,Phones,Galaxy S24,Nadia Farouk,7,1965.95,1251.72
+2024-09-07,Northeast,Phones,Pixel 8,Carlos Mendes,5,3555.15,2066.29
+2024-09-07,West,Accessories,Phone Case,Carlos Mendes,7,11555.88,7368.21
+2024-09-08,West,Phones,Galaxy S24,Owen Fitzgerald,7,10405.71,6155.47
+2024-09-08,Midwest,Laptops,ThinkPad X1,Carlos Mendes,5,8239.9,4691.6
+2024-09-08,West,Phones,Pixel 8,Julia Park,6,3045.72,2106.04
+2024-09-09,Midwest,Laptops,MacBook Air,Nadia Farouk,4,5900.84,3896.6
+2024-09-10,Northeast,Laptops,ThinkPad X1,Nadia Farouk,7,3946.25,2463.74
+2024-09-10,Midwest,Phones,Galaxy S24,Carlos Mendes,1,205.88,158.94
+2024-09-11,West,Accessories,Wireless Mouse,Carlos Mendes,5,420.4,335.63
+2024-09-11,Southeast,Accessories,USB-C Cable,Nadia Farouk,2,842.08,540.03
+2024-09-12,Southeast,Phones,Pixel 8,Nadia Farouk,3,247.47,168.78
+2024-09-13,West,Laptops,ThinkPad X1,Julia Park,1,159.37,120.81
+2024-09-13,West,Accessories,Wireless Mouse,Owen Fitzgerald,7,2518.46,1524.98
+2024-09-13,West,Laptops,ThinkPad X1,Owen Fitzgerald,8,11447.68,8316.32
+2024-09-13,West,Accessories,USB-C Cable,Carlos Mendes,8,3257.68,2525.92
+2024-09-13,Southeast,Accessories,Wireless Mouse,Carlos Mendes,8,11632.64,7487.07
+2024-09-14,West,Laptops,MacBook Air,Carlos Mendes,8,1127.12,869.1
+2024-09-15,Midwest,Phones,iPhone 15,Owen Fitzgerald,8,13409.52,7526.32
+2024-09-15,Northeast,Phones,Galaxy S24,Owen Fitzgerald,4,977.8,702.29
+2024-09-16,Southeast,Laptops,MacBook Air,Carlos Mendes,2,1615.38,1208.89
+2024-09-16,Northeast,Phones,iPhone 15,Owen Fitzgerald,5,6386.65,5041.18
+2024-09-17,West,Laptops,Dell XPS 13,Carlos Mendes,4,6599.32,3895.65
+2024-09-18,Midwest,Accessories,USB-C Cable,Nadia Farouk,1,554.88,416.02
+2024-09-18,Southeast,Phones,iPhone 15,Julia Park,5,5002.45,3553.13
+2024-09-18,Midwest,Phones,Galaxy S24,Owen Fitzgerald,1,565.46,313.12
+2024-09-18,Southeast,Laptops,Dell XPS 13,Nadia Farouk,8,6448.88,3635.13
+2024-09-18,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,1,273.26,168.49
+2024-09-21,Northeast,Phones,iPhone 15,Owen Fitzgerald,3,1684.35,1265.8
+2024-09-21,Midwest,Laptops,Dell XPS 13,Nadia Farouk,4,2120.52,1314.87
+2024-09-21,Midwest,Phones,iPhone 15,Owen Fitzgerald,7,795.34,539.39
+2024-09-21,West,Phones,Galaxy S24,Julia Park,7,2470.93,1705.34
+2024-09-22,Midwest,Accessories,Wireless Mouse,Nadia Farouk,3,1469.61,1091.19
+2024-09-22,Southeast,Laptops,Dell XPS 13,Julia Park,4,467.44,293.53
+2024-09-22,Northeast,Accessories,Phone Case,Carlos Mendes,7,1661.8,1196.32
+2024-09-22,Midwest,Phones,Galaxy S24,Owen Fitzgerald,7,7751.1,5541.01
+2024-09-23,Midwest,Laptops,MacBook Air,Carlos Mendes,2,1664.8,961.76
+2024-09-23,Midwest,Accessories,USB-C Cable,Nadia Farouk,6,5859.84,4066.53
+2024-09-23,Southeast,Accessories,USB-C Cable,Owen Fitzgerald,5,3182.35,2358.58
+2024-09-24,Southeast,Phones,Pixel 8,Nadia Farouk,6,5679.42,3150.16
+2024-09-25,Southeast,Phones,iPhone 15,Carlos Mendes,6,2729.88,1803.49
+2024-09-27,West,Accessories,Wireless Mouse,Owen Fitzgerald,2,1513.3,1143.52
+2024-09-29,Midwest,Phones,Galaxy S24,Owen Fitzgerald,1,982.57,742.3
+2024-09-29,Southeast,Phones,Galaxy S24,Julia Park,8,584.8,389.15
+2024-09-30,West,Phones,Galaxy S24,Carlos Mendes,3,383.88,248.43
+2024-09-30,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,8,698.56,495.4
+2024-09-30,Northeast,Accessories,USB-C Cable,Nadia Farouk,2,2834.02,1720.68
+2024-10-01,Southeast,Accessories,Phone Case,Carlos Mendes,2,52.78,34.73
+2024-10-01,Northeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,1644.1,904.53
+2024-10-01,Midwest,Accessories,Phone Case,Carlos Mendes,3,2730.57,1712.64
+2024-10-02,Northeast,Laptops,ThinkPad X1,Julia Park,3,3215.97,1872.64
+2024-10-02,Northeast,Laptops,MacBook Air,Julia Park,8,7363.92,4648.29
+2024-10-02,Midwest,Phones,Galaxy S24,Carlos Mendes,4,6592.56,4250.07
+2024-10-02,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,1,1270.94,757.01
+2024-10-03,Midwest,Phones,iPhone 15,Nadia Farouk,5,4521.8,3036.98
+2024-10-03,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,3,1576.95,1250.73
+2024-10-03,West,Accessories,USB-C Cable,Carlos Mendes,1,1489.42,1032.84
+2024-10-04,Midwest,Laptops,MacBook Air,Owen Fitzgerald,8,8244.0,6105.44
+2024-10-06,West,Laptops,Dell XPS 13,Carlos Mendes,7,5378.66,3666.1
+2024-10-06,West,Accessories,Phone Case,Nadia Farouk,7,6921.18,4924.93
+2024-10-07,Southeast,Accessories,USB-C Cable,Carlos Mendes,7,8360.45,5670.4
+2024-10-08,West,Accessories,Wireless Mouse,Carlos Mendes,2,2866.12,2042.46
+2024-10-08,Midwest,Laptops,MacBook Air,Nadia Farouk,3,823.62,522.33
+2024-10-09,Northeast,Phones,Galaxy S24,Nadia Farouk,3,976.98,769.88
+2024-10-10,Northeast,Phones,Pixel 8,Julia Park,1,689.26,389.75
+2024-10-10,Southeast,Phones,Pixel 8,Carlos Mendes,3,3207.54,1979.4
+2024-10-11,Northeast,Phones,Pixel 8,Owen Fitzgerald,8,11758.88,6793.45
+2024-10-11,Northeast,Accessories,USB-C Cable,Nadia Farouk,2,3512.64,2367.29
+2024-10-12,Northeast,Phones,iPhone 15,Carlos Mendes,3,981.99,730.39
+2024-10-14,Northeast,Laptops,MacBook Air,Julia Park,3,1412.7,971.92
+2024-10-14,Southeast,Phones,Pixel 8,Owen Fitzgerald,2,1932.06,1293.16
+2024-10-15,Southeast,Laptops,ThinkPad X1,Julia Park,6,6573.12,4897.17
+2024-10-17,West,Phones,Galaxy S24,Carlos Mendes,3,3296.91,2530.7
+2024-10-17,West,Phones,Galaxy S24,Nadia Farouk,2,871.26,650.1
+2024-10-17,Midwest,Accessories,USB-C Cable,Nadia Farouk,1,386.43,248.88
+2024-10-18,Southeast,Laptops,ThinkPad X1,Carlos Mendes,8,11678.48,8866.79
+2024-10-21,Northeast,Accessories,Wireless Mouse,Nadia Farouk,2,1151.9,893.14
+2024-10-23,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,5,6385.75,4169.32
+2024-10-24,Midwest,Accessories,Phone Case,Owen Fitzgerald,8,8757.04,5178.42
+2024-10-24,Southeast,Accessories,USB-C Cable,Nadia Farouk,4,5120.96,3434.23
+2024-10-24,West,Laptops,ThinkPad X1,Julia Park,4,1051.16,617.55
+2024-10-25,Midwest,Phones,Galaxy S24,Julia Park,8,10550.08,8203.99
+2024-10-27,Midwest,Laptops,MacBook Air,Nadia Farouk,5,4571.65,3498.62
+2024-10-28,Southeast,Phones,Galaxy S24,Julia Park,4,4407.96,3104.89
+2024-10-28,Midwest,Accessories,USB-C Cable,Carlos Mendes,3,3025.68,2077.07
+2024-10-29,Northeast,Phones,Pixel 8,Carlos Mendes,5,8496.45,6589.16
+2024-10-29,Midwest,Accessories,Wireless Mouse,Julia Park,6,9264.54,5491.86
+2024-10-29,West,Phones,Pixel 8,Julia Park,3,2355.36,1478.93
+2024-10-29,Southeast,Accessories,Phone Case,Carlos Mendes,5,6227.6,4287.96
+2024-10-30,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,8,7000.96,4057.77
+2024-10-30,Northeast,Laptops,MacBook Air,Owen Fitzgerald,8,2343.44,1350.69
+2024-10-30,Southeast,Phones,Galaxy S24,Nadia Farouk,2,1105.74,635.92
+2024-10-31,Southeast,Phones,Pixel 8,Owen Fitzgerald,8,2070.16,1396.81
+2024-11-01,Northeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,1752.08,1145.66
+2024-11-01,West,Accessories,USB-C Cable,Julia Park,8,5822.88,3764.5
+2024-11-01,Southeast,Phones,Pixel 8,Nadia Farouk,7,7205.1,3981.53
+2024-11-02,West,Laptops,Dell XPS 13,Julia Park,1,1798.09,1138.92
+2024-11-02,Southeast,Accessories,USB-C Cable,Julia Park,6,948.54,663.49
+2024-11-05,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,4,4453.72,2780.27
+2024-11-06,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,4,748.28,473.07
+2024-11-06,West,Accessories,Phone Case,Carlos Mendes,7,9637.67,6139.77
+2024-11-06,Southeast,Accessories,Wireless Mouse,Owen Fitzgerald,7,10877.37,6885.49
+2024-11-06,West,Laptops,ThinkPad X1,Owen Fitzgerald,5,2162.8,1457.97
+2024-11-07,Northeast,Accessories,Phone Case,Julia Park,6,7674.36,5331.06
+2024-11-07,West,Laptops,Dell XPS 13,Nadia Farouk,1,384.28,220.85
+2024-11-08,Southeast,Accessories,Wireless Mouse,Nadia Farouk,8,1568.0,1221.97
+2024-11-08,West,Laptops,Dell XPS 13,Owen Fitzgerald,5,620.25,471.83
+2024-11-08,West,Laptops,Dell XPS 13,Owen Fitzgerald,7,2027.83,1182.62
+2024-11-08,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,3,2991.72,2026.96
+2024-11-09,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,8,8362.72,5871.78
+2024-11-10,Southeast,Phones,Galaxy S24,Owen Fitzgerald,1,962.13,743.05
+2024-11-10,Northeast,Accessories,Wireless Mouse,Owen Fitzgerald,2,2559.8,1704.42
+2024-11-11,Southeast,Phones,Galaxy S24,Nadia Farouk,7,10243.45,7438.49
+2024-11-13,West,Accessories,USB-C Cable,Owen Fitzgerald,1,944.45,630.82
+2024-11-13,Southeast,Accessories,USB-C Cable,Carlos Mendes,3,2697.63,1903.65
+2024-11-14,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,3,3638.73,2181.23
+2024-11-14,West,Accessories,USB-C Cable,Nadia Farouk,4,3155.4,2316.82
+2024-11-15,West,Laptops,MacBook Air,Carlos Mendes,2,816.96,586.67
+2024-11-15,West,Laptops,Dell XPS 13,Julia Park,8,715.84,413.54
+2024-11-16,Northeast,Accessories,Phone Case,Carlos Mendes,2,2043.18,1411.08
+2024-11-16,Southeast,Accessories,USB-C Cable,Nadia Farouk,6,501.9,382.33
+2024-11-16,Midwest,Accessories,Wireless Mouse,Nadia Farouk,4,6911.24,3815.77
+2024-11-16,West,Phones,iPhone 15,Julia Park,3,2255.1,1725.41
+2024-11-18,Northeast,Accessories,Wireless Mouse,Nadia Farouk,5,232.25,174.24
+2024-11-19,Southeast,Phones,Galaxy S24,Carlos Mendes,4,4529.4,3079.0
+2024-11-20,Southeast,Laptops,MacBook Air,Carlos Mendes,3,1770.24,1174.64
+2024-11-20,Northeast,Laptops,ThinkPad X1,Carlos Mendes,2,3093.46,2470.47
+2024-11-20,Southeast,Accessories,USB-C Cable,Carlos Mendes,5,4480.55,2533.39
+2024-11-20,West,Laptops,ThinkPad X1,Julia Park,1,1416.13,965.67
+2024-11-21,Midwest,Accessories,USB-C Cable,Nadia Farouk,7,9312.24,6439.2
+2024-11-21,West,Accessories,USB-C Cable,Julia Park,8,3860.16,2513.04
+2024-11-23,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,7,485.17,327.64
+2024-11-23,Southeast,Laptops,ThinkPad X1,Nadia Farouk,1,141.07,82.97
+2024-11-23,Southeast,Accessories,Phone Case,Carlos Mendes,5,3434.55,2183.85
+2024-11-24,Southeast,Accessories,Phone Case,Owen Fitzgerald,4,700.0,497.67
+2024-11-24,Midwest,Phones,Pixel 8,Julia Park,2,2910.6,1686.18
+2024-11-25,Southeast,Phones,Pixel 8,Carlos Mendes,5,4054.0,2402.88
+2024-11-25,West,Accessories,USB-C Cable,Owen Fitzgerald,2,244.34,143.39
+2024-11-27,Northeast,Accessories,Wireless Mouse,Carlos Mendes,5,1714.0,1228.07
+2024-11-29,West,Laptops,MacBook Air,Julia Park,6,3959.64,2771.99
+2024-11-29,Southeast,Laptops,Dell XPS 13,Carlos Mendes,3,4331.04,3351.33
+2024-11-29,Southeast,Accessories,USB-C Cable,Julia Park,2,2317.02,1503.83
+2024-12-01,Southeast,Accessories,Phone Case,Julia Park,5,8485.65,5109.55
+2024-12-01,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,1,1256.18,828.8
+2024-12-01,Northeast,Phones,iPhone 15,Owen Fitzgerald,5,8317.15,6449.8
+2024-12-03,Southeast,Accessories,Phone Case,Nadia Farouk,5,2250.0,1468.06
+2024-12-03,West,Laptops,MacBook Air,Carlos Mendes,6,5711.94,4102.5
+2024-12-04,Southeast,Accessories,Phone Case,Nadia Farouk,7,10146.99,7351.19
+2024-12-04,Southeast,Phones,Galaxy S24,Julia Park,5,8812.65,5789.87
+2024-12-05,Northeast,Laptops,ThinkPad X1,Carlos Mendes,1,1044.65,604.2
+2024-12-06,Northeast,Accessories,Phone Case,Owen Fitzgerald,5,3858.15,2126.07
+2024-12-06,West,Laptops,Dell XPS 13,Carlos Mendes,1,1040.79,718.27
+2024-12-07,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,4,1327.08,968.21
+2024-12-08,West,Accessories,Phone Case,Nadia Farouk,5,6696.45,3741.51
+2024-12-10,Midwest,Accessories,Phone Case,Julia Park,5,1171.7,753.34
+2024-12-11,Northeast,Phones,Galaxy S24,Carlos Mendes,2,3491.04,2417.47
+2024-12-12,Midwest,Accessories,Phone Case,Carlos Mendes,7,6088.46,4308.04
+2024-12-12,Midwest,Accessories,USB-C Cable,Nadia Farouk,7,3401.44,2051.31
+2024-12-12,Midwest,Laptops,ThinkPad X1,Carlos Mendes,5,6189.35,4755.05
+2024-12-13,Southeast,Phones,Galaxy S24,Julia Park,6,6471.06,3592.62
+2024-12-13,Northeast,Accessories,Wireless Mouse,Julia Park,8,12980.8,7402.72
+2024-12-13,Southeast,Phones,Pixel 8,Carlos Mendes,1,733.7,438.73
+2024-12-14,Midwest,Phones,iPhone 15,Owen Fitzgerald,8,14011.52,10833.39
+2024-12-15,Northeast,Accessories,Phone Case,Nadia Farouk,7,1475.67,1064.22
+2024-12-16,Southeast,Phones,Galaxy S24,Carlos Mendes,6,4408.32,2936.24
+2024-12-17,Midwest,Accessories,USB-C Cable,Julia Park,8,3009.6,1877.51
+2024-12-18,Southeast,Phones,iPhone 15,Nadia Farouk,5,2110.65,1198.04
+2024-12-18,West,Laptops,MacBook Air,Nadia Farouk,7,2573.34,1746.15
+2024-12-18,West,Accessories,Wireless Mouse,Nadia Farouk,3,2362.47,1682.11
+2024-12-19,Midwest,Accessories,Wireless Mouse,Nadia Farouk,7,9400.02,7367.62
+2024-12-20,Midwest,Accessories,Wireless Mouse,Julia Park,1,779.74,543.61
+2024-12-21,Southeast,Phones,Pixel 8,Nadia Farouk,1,1441.49,816.22
+2024-12-22,Northeast,Accessories,Phone Case,Carlos Mendes,1,308.91,214.7
+2024-12-23,Midwest,Phones,Pixel 8,Nadia Farouk,6,1448.1,1007.52
+2024-12-24,Northeast,Accessories,Wireless Mouse,Carlos Mendes,6,10495.92,6754.46
+2024-12-24,Southeast,Accessories,USB-C Cable,Owen Fitzgerald,5,475.25,291.51
+2024-12-27,Southeast,Accessories,USB-C Cable,Carlos Mendes,3,3017.91,1955.09
+2024-12-27,West,Phones,iPhone 15,Owen Fitzgerald,1,1776.81,978.98
+2024-12-29,Southeast,Phones,Galaxy S24,Nadia Farouk,1,792.06,475.45
+2024-12-29,Southeast,Accessories,Wireless Mouse,Julia Park,8,13041.68,10414.01
+2024-12-30,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,4,1964.88,1499.31
+2024-12-30,Southeast,Laptops,MacBook Air,Carlos Mendes,2,3079.42,1856.12
+2024-12-31,West,Phones,Galaxy S24,Carlos Mendes,8,773.12,522.06
+2024-12-31,Southeast,Phones,iPhone 15,Owen Fitzgerald,2,2949.34,2269.1
+2024-12-31,West,Phones,iPhone 15,Julia Park,4,1493.16,1188.96
+2025-01-02,Midwest,Accessories,Wireless Mouse,Carlos Mendes,7,11354.49,7493.94
+2025-01-03,Northeast,Laptops,MacBook Air,Nadia Farouk,5,4424.7,2868.18
+2025-01-04,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,7,7455.21,4448.22
+2025-01-04,West,Laptops,MacBook Air,Owen Fitzgerald,2,3040.3,1719.73
+2025-01-08,Southeast,Laptops,ThinkPad X1,Julia Park,7,5105.87,3438.77
+2025-01-08,Northeast,Phones,Pixel 8,Owen Fitzgerald,5,4361.15,2859.04
+2025-01-10,West,Phones,Galaxy S24,Nadia Farouk,7,3579.73,2300.11
+2025-01-11,West,Laptops,Dell XPS 13,Nadia Farouk,3,1774.02,1407.46
+2025-01-12,Southeast,Accessories,USB-C Cable,Owen Fitzgerald,5,6640.3,5208.6
+2025-01-12,Midwest,Laptops,MacBook Air,Owen Fitzgerald,7,2058.14,1257.47
+2025-01-14,Midwest,Accessories,USB-C Cable,Julia Park,2,924.14,733.51
+2025-01-14,West,Phones,Galaxy S24,Carlos Mendes,6,5385.06,3734.02
+2025-01-15,Midwest,Phones,Galaxy S24,Julia Park,3,3323.79,2436.27
+2025-01-17,Midwest,Laptops,MacBook Air,Carlos Mendes,1,457.22,264.61
+2025-01-18,Northeast,Phones,iPhone 15,Carlos Mendes,8,11254.96,8008.14
+2025-01-21,West,Accessories,USB-C Cable,Julia Park,3,3860.52,2899.94
+2025-01-21,West,Phones,Galaxy S24,Carlos Mendes,3,818.46,457.65
+2025-01-21,West,Laptops,MacBook Air,Nadia Farouk,8,4151.92,2469.0
+2025-01-22,West,Accessories,Phone Case,Nadia Farouk,1,1065.13,837.95
+2025-01-22,Southeast,Accessories,USB-C Cable,Julia Park,7,5834.99,4471.06
+2025-01-22,West,Phones,Galaxy S24,Carlos Mendes,7,649.04,423.24
+2025-01-22,Southeast,Laptops,Dell XPS 13,Owen Fitzgerald,4,1955.84,1442.06
+2025-01-23,Midwest,Laptops,ThinkPad X1,Julia Park,6,4419.48,2944.01
+2025-01-23,West,Phones,iPhone 15,Nadia Farouk,2,3126.68,1979.08
+2025-01-23,Northeast,Accessories,USB-C Cable,Nadia Farouk,1,1380.69,776.87
+2025-01-24,West,Laptops,MacBook Air,Nadia Farouk,3,1206.96,868.7
+2025-01-24,Southeast,Accessories,USB-C Cable,Julia Park,2,1981.92,1253.41
+2025-01-25,West,Laptops,ThinkPad X1,Owen Fitzgerald,5,6681.75,4829.77
+2025-01-26,West,Accessories,Wireless Mouse,Nadia Farouk,7,12523.91,8899.93
+2025-01-26,West,Laptops,MacBook Air,Nadia Farouk,5,3779.25,2180.1
+2025-01-27,West,Accessories,USB-C Cable,Owen Fitzgerald,4,2200.64,1289.47
+2025-01-27,West,Accessories,Phone Case,Carlos Mendes,5,5962.0,4455.01
+2025-01-27,Southeast,Laptops,Dell XPS 13,Nadia Farouk,3,3270.78,2465.05
+2025-01-28,West,Laptops,ThinkPad X1,Julia Park,2,3378.28,2454.6
+2025-01-28,Midwest,Phones,Galaxy S24,Nadia Farouk,8,10442.64,6175.29
+2025-01-30,Northeast,Phones,iPhone 15,Carlos Mendes,1,82.08,52.1
+2025-01-31,Southeast,Accessories,USB-C Cable,Carlos Mendes,2,2436.16,1662.93
+2025-02-02,Midwest,Laptops,MacBook Air,Nadia Farouk,1,357.18,232.04
+2025-02-02,Southeast,Phones,iPhone 15,Julia Park,8,6725.12,4278.62
+2025-02-03,Southeast,Accessories,Wireless Mouse,Nadia Farouk,4,6425.92,4495.06
+2025-02-03,Southeast,Accessories,Phone Case,Carlos Mendes,7,4041.8,2983.85
+2025-02-03,Midwest,Phones,Galaxy S24,Owen Fitzgerald,4,5208.56,3388.5
+2025-02-03,Southeast,Phones,iPhone 15,Julia Park,1,1047.13,626.61
+2025-02-04,West,Laptops,ThinkPad X1,Nadia Farouk,2,646.76,415.86
+2025-02-04,Northeast,Phones,iPhone 15,Carlos Mendes,8,9001.2,6001.68
+2025-02-05,Southeast,Accessories,Phone Case,Julia Park,2,2761.72,1992.61
+2025-02-06,Midwest,Phones,iPhone 15,Owen Fitzgerald,7,3560.2,1975.9
+2025-02-06,Southeast,Accessories,USB-C Cable,Nadia Farouk,8,12937.6,8355.23
+2025-02-07,Southeast,Phones,Pixel 8,Owen Fitzgerald,4,7072.96,5494.36
+2025-02-07,Southeast,Phones,Galaxy S24,Owen Fitzgerald,7,8465.31,6091.91
+2025-02-08,Northeast,Phones,Galaxy S24,Julia Park,6,2084.58,1554.76
+2025-02-08,Midwest,Accessories,Phone Case,Julia Park,8,9471.92,5949.69
+2025-02-09,Southeast,Phones,iPhone 15,Carlos Mendes,5,1601.65,1009.87
+2025-02-10,Midwest,Laptops,Dell XPS 13,Julia Park,7,12077.94,8186.54
+2025-02-10,Northeast,Laptops,Dell XPS 13,Julia Park,6,8178.66,5711.15
+2025-02-10,Midwest,Phones,Pixel 8,Julia Park,7,6932.38,5014.93
+2025-02-10,Southeast,Phones,Galaxy S24,Carlos Mendes,4,3037.24,1958.64
+2025-02-11,West,Phones,iPhone 15,Julia Park,7,2838.78,1839.94
+2025-02-12,West,Phones,Galaxy S24,Owen Fitzgerald,1,498.35,296.06
+2025-02-12,West,Phones,Galaxy S24,Julia Park,6,9029.82,5933.31
+2025-02-13,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,7,9754.29,6139.43
+2025-02-13,Southeast,Phones,Galaxy S24,Carlos Mendes,2,2452.46,1635.93
+2025-02-13,Southeast,Accessories,Phone Case,Carlos Mendes,8,8291.52,5676.68
+2025-02-14,Southeast,Accessories,USB-C Cable,Julia Park,8,3617.2,2055.26
+2025-02-14,West,Phones,Galaxy S24,Julia Park,1,904.37,647.12
+2025-02-15,Southeast,Laptops,MacBook Air,Carlos Mendes,6,4364.64,3162.85
+2025-02-15,Southeast,Accessories,Phone Case,Owen Fitzgerald,4,1213.72,841.75
+2025-02-15,Southeast,Laptops,MacBook Air,Julia Park,2,2706.12,1896.72
+2025-02-16,West,Accessories,Wireless Mouse,Julia Park,7,9830.73,5587.11
+2025-02-17,West,Laptops,Dell XPS 13,Nadia Farouk,3,890.94,667.12
+2025-02-18,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,3,4228.2,2983.04
+2025-02-18,West,Laptops,MacBook Air,Owen Fitzgerald,5,7457.35,4754.02
+2025-02-20,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,3,1586.76,1194.95
+2025-02-20,West,Accessories,Wireless Mouse,Owen Fitzgerald,5,6073.25,4043.95
+2025-02-22,Midwest,Laptops,ThinkPad X1,Nadia Farouk,7,10050.25,7846.02
+2025-02-22,West,Accessories,Wireless Mouse,Nadia Farouk,6,10075.92,6566.32
+2025-02-25,Southeast,Accessories,Wireless Mouse,Nadia Farouk,8,5826.08,3997.63
+2025-02-26,West,Phones,iPhone 15,Julia Park,6,6981.24,4360.98
+2025-02-26,Southeast,Phones,Pixel 8,Julia Park,4,5247.4,3702.77
+2025-02-27,Midwest,Phones,iPhone 15,Julia Park,4,6113.12,3950.3
+2025-02-27,Northeast,Laptops,MacBook Air,Owen Fitzgerald,3,941.07,647.73
+2025-02-28,Northeast,Phones,Pixel 8,Carlos Mendes,3,1500.51,1075.45
+2025-02-28,West,Laptops,ThinkPad X1,Carlos Mendes,5,3610.0,2802.9
+2025-03-02,Southeast,Laptops,Dell XPS 13,Nadia Farouk,8,10062.8,6206.38
+2025-03-02,Midwest,Phones,Pixel 8,Julia Park,5,7676.8,5070.26
+2025-03-02,West,Accessories,Phone Case,Nadia Farouk,8,11329.92,8541.64
+2025-03-06,West,Accessories,USB-C Cable,Owen Fitzgerald,7,1138.62,659.06
+2025-03-07,West,Phones,iPhone 15,Carlos Mendes,7,11192.02,6823.19
+2025-03-07,Midwest,Phones,Galaxy S24,Owen Fitzgerald,4,3775.32,2354.07
+2025-03-08,Northeast,Phones,iPhone 15,Carlos Mendes,4,6961.6,4227.83
+2025-03-08,Southeast,Accessories,Phone Case,Carlos Mendes,7,428.12,270.77
+2025-03-08,Southeast,Laptops,MacBook Air,Nadia Farouk,2,109.64,62.41
+2025-03-10,Southeast,Accessories,Phone Case,Carlos Mendes,8,8288.4,5686.51
+2025-03-11,West,Accessories,Wireless Mouse,Carlos Mendes,5,166.95,125.72
+2025-03-12,Northeast,Accessories,Phone Case,Carlos Mendes,3,4406.19,3060.48
+2025-03-12,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,6,5542.74,4254.49
+2025-03-12,Northeast,Phones,Pixel 8,Carlos Mendes,1,407.28,314.59
+2025-03-12,West,Phones,iPhone 15,Carlos Mendes,2,1301.18,775.74
+2025-03-12,Midwest,Laptops,MacBook Air,Nadia Farouk,7,1142.68,636.1
+2025-03-14,West,Phones,Galaxy S24,Owen Fitzgerald,7,1440.18,879.13
+2025-03-14,Southeast,Laptops,MacBook Air,Julia Park,1,885.76,579.83
+2025-03-15,Northeast,Phones,Pixel 8,Julia Park,8,8596.4,4801.66
+2025-03-16,Southeast,Accessories,USB-C Cable,Carlos Mendes,1,959.35,711.02
+2025-03-17,Southeast,Phones,iPhone 15,Nadia Farouk,3,1418.13,1095.53
+2025-03-18,West,Laptops,Dell XPS 13,Nadia Farouk,6,4971.54,3821.02
+2025-03-18,Northeast,Laptops,ThinkPad X1,Julia Park,8,11614.88,7667.82
+2025-03-18,Midwest,Accessories,Phone Case,Julia Park,2,2051.38,1182.79
+2025-03-19,West,Laptops,ThinkPad X1,Carlos Mendes,6,5935.02,4666.02
+2025-03-19,Midwest,Accessories,Phone Case,Julia Park,8,7358.72,4635.09
+2025-03-19,Southeast,Accessories,Phone Case,Julia Park,2,1238.22,877.38
+2025-03-19,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,4,1836.28,1236.58
+2025-03-21,Midwest,Phones,Pixel 8,Julia Park,4,3824.4,2597.89
+2025-03-23,Midwest,Laptops,ThinkPad X1,Julia Park,8,5444.48,3271.57
+2025-03-24,Northeast,Phones,Galaxy S24,Nadia Farouk,1,1419.83,1021.14
+2025-03-24,West,Laptops,MacBook Air,Julia Park,2,640.3,360.33
+2025-03-24,West,Accessories,USB-C Cable,Julia Park,8,9487.84,5953.75
+2025-03-25,Northeast,Laptops,ThinkPad X1,Owen Fitzgerald,4,6684.04,4715.24
+2025-03-25,West,Accessories,Phone Case,Julia Park,5,1807.1,1263.09
+2025-03-25,Southeast,Phones,iPhone 15,Owen Fitzgerald,1,1429.28,818.04
+2025-03-27,West,Laptops,MacBook Air,Carlos Mendes,2,1115.36,841.19
+2025-03-28,Midwest,Phones,Galaxy S24,Carlos Mendes,3,4047.72,2631.91
+2025-03-28,West,Phones,iPhone 15,Owen Fitzgerald,5,6171.7,4537.33
+2025-03-29,Midwest,Phones,Galaxy S24,Carlos Mendes,8,2278.72,1365.5
+2025-03-29,Midwest,Laptops,Dell XPS 13,Carlos Mendes,3,4684.74,3300.61
+2025-03-30,Northeast,Laptops,ThinkPad X1,Nadia Farouk,8,13853.28,10914.91
+2025-03-31,Southeast,Phones,Galaxy S24,Nadia Farouk,5,7775.15,5180.36
+2025-04-01,West,Phones,Galaxy S24,Carlos Mendes,7,639.87,488.08
+2025-04-01,Southeast,Laptops,MacBook Air,Owen Fitzgerald,6,9586.2,7468.55
+2025-04-01,West,Laptops,ThinkPad X1,Julia Park,6,8887.5,6571.79
+2025-04-02,Southeast,Phones,Pixel 8,Nadia Farouk,7,6753.46,4933.7
+2025-04-02,West,Laptops,ThinkPad X1,Owen Fitzgerald,4,4827.92,3000.19
+2025-04-03,Northeast,Laptops,Dell XPS 13,Carlos Mendes,6,7637.82,4265.89
+2025-04-03,Midwest,Laptops,ThinkPad X1,Carlos Mendes,1,510.54,338.06
+2025-04-04,Northeast,Laptops,MacBook Air,Julia Park,3,5381.49,3351.0
+2025-04-05,Northeast,Laptops,Dell XPS 13,Carlos Mendes,6,10026.96,7945.74
+2025-04-05,Southeast,Laptops,MacBook Air,Julia Park,2,1195.62,811.37
+2025-04-05,Midwest,Phones,Pixel 8,Owen Fitzgerald,8,11566.8,8755.87
+2025-04-05,West,Accessories,Wireless Mouse,Julia Park,6,5407.44,3578.19
+2025-04-05,Southeast,Accessories,Wireless Mouse,Carlos Mendes,3,4093.08,2643.85
+2025-04-06,Southeast,Phones,Galaxy S24,Owen Fitzgerald,1,367.7,291.94
+2025-04-06,Northeast,Phones,iPhone 15,Nadia Farouk,4,4611.52,2692.75
+2025-04-07,West,Laptops,ThinkPad X1,Julia Park,8,14014.0,9430.82
+2025-04-08,Northeast,Accessories,USB-C Cable,Owen Fitzgerald,2,2608.7,1733.7
+2025-04-09,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,5,8050.7,5861.98
+2025-04-10,Midwest,Accessories,Wireless Mouse,Owen Fitzgerald,7,2758.42,1621.94
+2025-04-11,West,Laptops,MacBook Air,Julia Park,5,6093.3,4830.86
+2025-04-13,West,Accessories,Wireless Mouse,Nadia Farouk,1,872.51,636.67
+2025-04-14,Midwest,Laptops,Dell XPS 13,Carlos Mendes,6,8133.06,4543.25
+2025-04-15,Northeast,Accessories,Phone Case,Julia Park,8,4430.08,3437.96
+2025-04-15,West,Accessories,USB-C Cable,Nadia Farouk,3,4258.26,2403.28
+2025-04-15,Northeast,Laptops,MacBook Air,Julia Park,2,2480.74,1404.41
+2025-04-16,Midwest,Accessories,Phone Case,Julia Park,5,5369.15,4010.08
+2025-04-17,Southeast,Accessories,Phone Case,Julia Park,6,5245.68,3079.69
+2025-04-18,Northeast,Laptops,Dell XPS 13,Nadia Farouk,1,308.05,203.25
+2025-04-18,Midwest,Phones,Pixel 8,Owen Fitzgerald,7,1241.1,835.71
+2025-04-18,West,Phones,Galaxy S24,Carlos Mendes,2,1581.54,1107.6
+2025-04-20,West,Laptops,MacBook Air,Nadia Farouk,3,3800.91,2098.74
+2025-04-23,Midwest,Phones,iPhone 15,Nadia Farouk,8,8124.16,5398.44
+2025-04-24,Midwest,Accessories,Phone Case,Nadia Farouk,8,12394.4,7180.49
+2025-04-25,Northeast,Phones,Galaxy S24,Julia Park,7,1497.79,833.6
+2025-04-25,Midwest,Laptops,ThinkPad X1,Julia Park,8,12550.48,8633.16
+2025-04-25,Southeast,Laptops,Dell XPS 13,Nadia Farouk,1,1796.26,1334.73
+2025-04-25,Midwest,Phones,Galaxy S24,Julia Park,1,545.07,419.87
+2025-04-28,Southeast,Phones,iPhone 15,Owen Fitzgerald,8,8356.64,6669.64
+2025-04-30,West,Accessories,Phone Case,Carlos Mendes,5,7312.55,5233.35
+2025-05-03,Southeast,Phones,Pixel 8,Carlos Mendes,3,1287.6,776.08
+2025-05-05,West,Accessories,USB-C Cable,Owen Fitzgerald,2,2519.24,1627.11
+2025-05-06,Southeast,Accessories,Phone Case,Julia Park,1,1121.9,741.99
+2025-05-06,Northeast,Laptops,Dell XPS 13,Julia Park,2,269.7,172.15
+2025-05-07,Southeast,Phones,Pixel 8,Nadia Farouk,3,3646.2,2845.28
+2025-05-07,Midwest,Laptops,Dell XPS 13,Nadia Farouk,5,1803.5,1298.53
+2025-05-10,Northeast,Phones,Pixel 8,Carlos Mendes,8,5913.04,3331.51
+2025-05-11,Northeast,Phones,Galaxy S24,Julia Park,2,1254.1,706.0
+2025-05-11,Southeast,Laptops,Dell XPS 13,Carlos Mendes,4,1472.96,863.46
+2025-05-11,Southeast,Phones,iPhone 15,Owen Fitzgerald,8,9406.72,7393.19
+2025-05-12,Midwest,Accessories,USB-C Cable,Carlos Mendes,6,1631.22,922.12
+2025-05-12,Southeast,Phones,Galaxy S24,Carlos Mendes,7,4283.72,2963.5
+2025-05-14,Northeast,Phones,Galaxy S24,Carlos Mendes,2,2290.42,1561.14
+2025-05-14,West,Accessories,Wireless Mouse,Nadia Farouk,4,5545.6,3424.75
+2025-05-15,Northeast,Laptops,MacBook Air,Nadia Farouk,5,6551.35,4425.26
+2025-05-16,Southeast,Accessories,Wireless Mouse,Nadia Farouk,8,5422.4,3865.4
+2025-05-17,Midwest,Phones,iPhone 15,Julia Park,7,4347.98,2694.16
+2025-05-19,Midwest,Phones,Pixel 8,Owen Fitzgerald,2,1553.72,1030.74
+2025-05-19,Southeast,Accessories,USB-C Cable,Carlos Mendes,7,5394.06,3307.78
+2025-05-19,Midwest,Laptops,MacBook Air,Owen Fitzgerald,7,11351.13,7079.99
+2025-05-19,Southeast,Phones,Pixel 8,Nadia Farouk,3,932.55,632.41
+2025-05-20,Southeast,Accessories,Wireless Mouse,Nadia Farouk,6,2246.1,1352.27
+2025-05-21,West,Accessories,USB-C Cable,Carlos Mendes,8,2244.24,1375.51
+2025-05-21,Midwest,Laptops,Dell XPS 13,Carlos Mendes,8,5095.44,2954.56
+2025-05-21,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,7,8064.42,5802.26
+2025-05-21,Midwest,Laptops,ThinkPad X1,Carlos Mendes,2,616.1,339.75
+2025-05-22,West,Phones,Galaxy S24,Owen Fitzgerald,6,8500.68,5893.33
+2025-05-22,West,Phones,Pixel 8,Carlos Mendes,8,4350.08,2944.81
+2025-05-23,Midwest,Laptops,Dell XPS 13,Carlos Mendes,6,9458.34,6415.61
+2025-05-23,Northeast,Laptops,Dell XPS 13,Owen Fitzgerald,8,4566.88,3600.76
+2025-05-26,West,Accessories,Phone Case,Owen Fitzgerald,8,8197.6,5606.67
+2025-05-26,Southeast,Laptops,ThinkPad X1,Julia Park,7,10403.89,8082.97
+2025-05-26,Northeast,Phones,iPhone 15,Owen Fitzgerald,5,1643.5,1154.12
+2025-05-27,Midwest,Accessories,USB-C Cable,Owen Fitzgerald,2,2685.26,1664.98
+2025-05-27,West,Laptops,ThinkPad X1,Owen Fitzgerald,5,5630.0,3699.84
+2025-05-27,Southeast,Accessories,Phone Case,Owen Fitzgerald,4,1061.08,768.82
+2025-05-28,Midwest,Phones,Galaxy S24,Julia Park,6,9063.42,5724.74
+2025-05-28,Northeast,Laptops,MacBook Air,Carlos Mendes,4,1064.6,609.76
+2025-05-29,Northeast,Accessories,Phone Case,Carlos Mendes,2,922.58,687.2
+2025-05-29,Northeast,Laptops,MacBook Air,Owen Fitzgerald,7,6497.33,4226.52
+2025-05-30,Southeast,Accessories,Phone Case,Owen Fitzgerald,2,2843.34,2191.59
+2025-05-31,West,Phones,iPhone 15,Nadia Farouk,2,2454.1,1375.93
+2025-05-31,West,Laptops,Dell XPS 13,Owen Fitzgerald,6,7848.54,4944.2
+2025-06-01,Northeast,Phones,Pixel 8,Julia Park,5,4987.2,2810.21
+2025-06-02,Northeast,Phones,Pixel 8,Julia Park,3,2620.95,1464.44
+2025-06-02,West,Accessories,Phone Case,Julia Park,1,512.64,361.47
+2025-06-03,Northeast,Laptops,MacBook Air,Owen Fitzgerald,1,637.66,365.35
+2025-06-03,Midwest,Phones,iPhone 15,Nadia Farouk,3,2487.63,1446.41
+2025-06-04,Midwest,Phones,iPhone 15,Owen Fitzgerald,1,1651.09,1037.59
+2025-06-05,Northeast,Laptops,ThinkPad X1,Carlos Mendes,8,5340.08,3212.62
+2025-06-05,Northeast,Accessories,Wireless Mouse,Carlos Mendes,6,8159.28,6050.64
+2025-06-05,West,Accessories,Phone Case,Julia Park,6,4657.32,3055.21
+2025-06-06,Southeast,Phones,iPhone 15,Owen Fitzgerald,1,1348.17,780.57
+2025-06-06,West,Accessories,Wireless Mouse,Owen Fitzgerald,1,1759.81,1361.54
+2025-06-06,Midwest,Phones,Pixel 8,Nadia Farouk,2,2573.6,1676.04
+2025-06-07,West,Accessories,USB-C Cable,Owen Fitzgerald,2,1625.34,1236.04
+2025-06-07,Midwest,Laptops,ThinkPad X1,Carlos Mendes,1,493.37,344.58
+2025-06-07,Midwest,Laptops,ThinkPad X1,Owen Fitzgerald,3,4234.17,2758.81
+2025-06-07,Southeast,Laptops,ThinkPad X1,Owen Fitzgerald,7,11191.11,7795.93
+2025-06-08,Midwest,Phones,Pixel 8,Carlos Mendes,5,1958.65,1304.19
+2025-06-09,Midwest,Phones,iPhone 15,Nadia Farouk,7,11745.65,8310.64
+2025-06-10,West,Phones,Galaxy S24,Carlos Mendes,5,2345.25,1515.19
+2025-06-10,Midwest,Phones,Galaxy S24,Julia Park,5,4336.3,2858.06
+2025-06-10,West,Accessories,USB-C Cable,Carlos Mendes,8,1010.0,557.4
+2025-06-11,Midwest,Laptops,Dell XPS 13,Owen Fitzgerald,1,270.79,203.44
+2025-06-12,Midwest,Phones,iPhone 15,Carlos Mendes,5,3010.9,1959.31
+2025-06-13,Midwest,Laptops,MacBook Air,Owen Fitzgerald,2,1307.6,961.39
+2025-06-15,Southeast,Phones,Pixel 8,Julia Park,2,440.56,290.25
+2025-06-17,Midwest,Accessories,USB-C Cable,Carlos Mendes,3,2959.8,2091.03
+2025-06-18,Northeast,Laptops,Dell XPS 13,Nadia Farouk,2,1855.14,1237.59
+2025-06-19,Southeast,Phones,Pixel 8,Carlos Mendes,7,2778.44,2185.04
+2025-06-20,Southeast,Accessories,Phone Case,Nadia Farouk,8,2764.24,2117.52
+2025-06-20,West,Phones,Galaxy S24,Nadia Farouk,4,1780.48,1213.8
+2025-06-20,Southeast,Accessories,USB-C Cable,Owen Fitzgerald,7,3729.81,2187.37
+2025-06-21,Southeast,Phones,Pixel 8,Julia Park,5,2454.1,1374.64
+2025-06-21,Northeast,Accessories,Phone Case,Nadia Farouk,5,482.55,334.12
+2025-06-22,West,Laptops,Dell XPS 13,Carlos Mendes,3,1779.54,1070.38
+2025-06-23,Midwest,Laptops,MacBook Air,Carlos Mendes,8,6369.68,3972.15
+2025-06-24,Midwest,Phones,Galaxy S24,Carlos Mendes,1,998.28,682.45
+2025-06-24,Northeast,Accessories,USB-C Cable,Julia Park,4,5182.08,3275.91
+2025-06-24,Northeast,Phones,Galaxy S24,Owen Fitzgerald,7,3443.3,1909.52
+2025-06-25,Southeast,Accessories,USB-C Cable,Nadia Farouk,5,1041.75,746.05
+2025-06-25,Northeast,Accessories,Phone Case,Nadia Farouk,1,768.23,581.2
+2025-06-25,Northeast,Laptops,Dell XPS 13,Julia Park,6,10545.42,6413.39
+2025-06-25,Southeast,Laptops,MacBook Air,Carlos Mendes,7,8413.09,5768.6
+2025-06-27,Midwest,Phones,Galaxy S24,Julia Park,2,2470.18,1706.04
+2025-06-28,Midwest,Accessories,Phone Case,Julia Park,4,1959.8,1429.02
+2025-06-29,Northeast,Phones,Pixel 8,Carlos Mendes,7,5831.21,4106.12
+2025-06-30,Northeast,Phones,Pixel 8,Julia Park,7,5100.2,2978.52

@@ -1,0 +1,751 @@
+Date,Region,Category,Product,Salesperson,Units,Revenue,Cost
+2024-06-01,Australia,Menswear,Chino Pants,Online Store,3,212.37,107.12
+2024-06-01,USA,Footwear,Leather Sneakers,Online Store,2,219.26,107.92
+2024-06-02,Canada,Menswear,Bomber Jacket,Online Store,2,191.72,88.76
+2024-06-03,Canada,Menswear,Oxford Shirt,Online Store,2,219.06,102.77
+2024-06-04,Canada,Womenswear,Denim Jacket,Online Store,2,155.56,85.16
+2024-06-04,USA,Accessories,Tote Bag,Online Store,2,41.22,18.73
+2024-06-04,UK,Accessories,Leather Belt,Online Store,1,205.0,74.63
+2024-06-05,Germany,Accessories,Leather Belt,Online Store,4,72.12,25.95
+2024-06-05,Australia,Womenswear,Floral Dress,Online Store,4,380.04,180.87
+2024-06-06,UK,Footwear,Sandals,Online Store,1,44.63,16.92
+2024-06-07,Canada,Accessories,Tote Bag,Online Store,2,146.32,76.67
+2024-06-07,Australia,Accessories,Tote Bag,Online Store,2,413.26,222.48
+2024-06-08,UK,Accessories,Sunglasses,Online Store,4,653.04,296.07
+2024-06-09,USA,Womenswear,Denim Jacket,Online Store,2,199.86,73.96
+2024-06-10,UK,Footwear,Sandals,Online Store,3,287.34,102.0
+2024-06-11,Germany,Womenswear,Denim Jacket,Online Store,2,415.26,177.7
+2024-06-12,Germany,Footwear,Leather Sneakers,Online Store,3,168.6,83.82
+2024-06-12,Australia,Menswear,Chino Pants,Online Store,2,145.5,76.54
+2024-06-12,Canada,Accessories,Leather Belt,Online Store,2,295.18,150.14
+2024-06-13,UK,Menswear,Bomber Jacket,Online Store,1,69.15,31.13
+2024-06-13,Australia,Accessories,Leather Belt,Online Store,2,387.28,159.77
+2024-06-14,USA,Footwear,Leather Sneakers,Online Store,4,345.44,150.76
+2024-06-16,USA,Accessories,Leather Belt,Online Store,4,812.6,438.51
+2024-06-16,Canada,Footwear,Ankle Boots,Online Store,4,619.52,231.0
+2024-06-18,UK,Accessories,Tote Bag,Online Store,1,193.82,104.06
+2024-06-18,Australia,Accessories,Sunglasses,Online Store,1,122.23,66.19
+2024-06-18,Canada,Womenswear,Floral Dress,Online Store,3,621.96,264.55
+2024-06-19,UK,Womenswear,Floral Dress,Online Store,1,166.17,64.57
+2024-06-21,Australia,Accessories,Sunglasses,Online Store,3,280.56,153.3
+2024-06-21,UK,Womenswear,Denim Jacket,Online Store,4,182.64,99.47
+2024-06-22,Germany,Accessories,Tote Bag,Online Store,2,148.3,61.38
+2024-06-22,UK,Accessories,Tote Bag,Online Store,4,674.4,239.44
+2024-06-22,USA,Footwear,Sandals,Online Store,4,101.52,41.65
+2024-06-23,Canada,Accessories,Leather Belt,Online Store,1,194.17,77.72
+2024-06-24,UK,Accessories,Tote Bag,Online Store,1,67.04,34.01
+2024-06-24,USA,Accessories,Leather Belt,Online Store,1,32.09,16.54
+2024-06-24,UK,Accessories,Sunglasses,Online Store,4,397.56,184.49
+2024-06-24,Australia,Womenswear,Floral Dress,Online Store,4,509.72,181.8
+2024-06-26,USA,Footwear,Ankle Boots,Online Store,2,95.64,49.55
+2024-06-27,USA,Womenswear,Floral Dress,Online Store,2,91.28,49.67
+2024-06-27,Canada,Footwear,Leather Sneakers,Online Store,1,166.07,86.49
+2024-06-28,Australia,Accessories,Leather Belt,Online Store,3,611.13,259.8
+2024-06-28,Canada,Menswear,Chino Pants,Online Store,4,413.76,206.4
+2024-06-29,Australia,Footwear,Ankle Boots,Online Store,4,228.44,118.08
+2024-06-29,Canada,Accessories,Leather Belt,Online Store,1,132.21,54.81
+2024-06-29,Canada,Accessories,Leather Belt,Online Store,3,413.22,160.25
+2024-06-29,UK,Accessories,Sunglasses,Online Store,4,787.68,359.33
+2024-06-30,Germany,Accessories,Sunglasses,Online Store,2,354.22,146.86
+2024-07-01,Australia,Womenswear,Denim Jacket,Online Store,1,62.09,25.48
+2024-07-01,UK,Womenswear,Floral Dress,Online Store,1,179.35,73.53
+2024-07-01,Australia,Accessories,Tote Bag,Online Store,2,36.24,13.78
+2024-07-02,USA,Womenswear,Floral Dress,Online Store,1,145.26,69.82
+2024-07-02,Canada,Accessories,Sunglasses,Online Store,1,54.39,27.64
+2024-07-03,UK,Accessories,Leather Belt,Online Store,1,107.11,39.55
+2024-07-03,USA,Footwear,Ankle Boots,Online Store,2,60.28,24.81
+2024-07-05,Australia,Footwear,Leather Sneakers,Online Store,4,147.12,57.14
+2024-07-06,USA,Footwear,Sandals,Online Store,2,205.2,107.64
+2024-07-06,USA,Menswear,Oxford Shirt,Online Store,1,152.62,59.43
+2024-07-06,Australia,Footwear,Leather Sneakers,Online Store,3,426.54,199.9
+2024-07-06,Australia,Footwear,Leather Sneakers,Online Store,2,174.6,93.89
+2024-07-07,USA,Accessories,Sunglasses,Online Store,3,517.8,232.98
+2024-07-07,Germany,Footwear,Sandals,Online Store,2,129.42,62.92
+2024-07-08,Germany,Womenswear,Floral Dress,Online Store,2,131.24,57.27
+2024-07-08,Australia,Womenswear,Wide-Leg Trousers,Online Store,1,173.45,65.31
+2024-07-08,Australia,Womenswear,Wide-Leg Trousers,Online Store,4,870.28,465.3
+2024-07-09,Germany,Footwear,Leather Sneakers,Online Store,1,177.15,89.13
+2024-07-10,Australia,Accessories,Leather Belt,Online Store,4,701.4,368.07
+2024-07-10,Australia,Womenswear,Wide-Leg Trousers,Online Store,2,251.5,116.0
+2024-07-10,Australia,Menswear,Chino Pants,Online Store,3,124.71,67.26
+2024-07-11,Australia,Footwear,Sandals,Online Store,2,180.16,64.68
+2024-07-12,Australia,Footwear,Ankle Boots,Online Store,3,97.14,35.52
+2024-07-12,Canada,Womenswear,Denim Jacket,Online Store,4,253.36,137.57
+2024-07-14,UK,Accessories,Sunglasses,Online Store,1,81.22,33.22
+2024-07-14,UK,Footwear,Ankle Boots,Online Store,3,433.44,175.06
+2024-07-16,Australia,Menswear,Bomber Jacket,Online Store,4,856.8,427.84
+2024-07-16,Canada,Womenswear,Denim Jacket,Online Store,3,205.35,108.35
+2024-07-17,USA,Footwear,Ankle Boots,Online Store,4,521.88,204.38
+2024-07-17,USA,Menswear,Oxford Shirt,Online Store,2,357.46,133.54
+2024-07-17,Canada,Footwear,Leather Sneakers,Online Store,3,153.36,81.27
+2024-07-18,UK,Womenswear,Wide-Leg Trousers,Online Store,1,191.3,104.63
+2024-07-18,Australia,Menswear,Bomber Jacket,Online Store,2,237.1,111.81
+2024-07-18,UK,Menswear,Bomber Jacket,Online Store,3,337.29,180.85
+2024-07-19,Australia,Womenswear,Floral Dress,Online Store,1,213.65,108.33
+2024-07-20,USA,Accessories,Tote Bag,Online Store,4,555.72,288.19
+2024-07-20,Australia,Womenswear,Denim Jacket,Online Store,4,141.16,65.45
+2024-07-20,UK,Accessories,Sunglasses,Online Store,4,364.6,179.36
+2024-07-20,USA,Accessories,Leather Belt,Online Store,4,649.92,275.16
+2024-07-21,Australia,Womenswear,Floral Dress,Online Store,3,352.02,152.68
+2024-07-22,Canada,Womenswear,Floral Dress,Online Store,3,417.81,213.79
+2024-07-22,Australia,Womenswear,Floral Dress,Online Store,2,219.34,119.28
+2024-07-22,Australia,Menswear,Bomber Jacket,Online Store,2,394.58,147.0
+2024-07-23,Germany,Accessories,Leather Belt,Online Store,4,264.68,106.83
+2024-07-24,UK,Womenswear,Wide-Leg Trousers,Online Store,4,351.96,125.28
+2024-07-24,Canada,Footwear,Sandals,Online Store,1,184.8,93.24
+2024-07-24,Germany,Footwear,Sandals,Online Store,4,471.16,247.23
+2024-07-24,UK,Menswear,Bomber Jacket,Online Store,4,82.16,40.46
+2024-07-25,Australia,Accessories,Leather Belt,Online Store,1,162.21,88.41
+2024-07-26,Germany,Accessories,Sunglasses,Online Store,2,164.86,73.51
+2024-07-26,Germany,Menswear,Oxford Shirt,Online Store,3,599.61,238.28
+2024-07-27,USA,Menswear,Bomber Jacket,Online Store,1,149.55,71.58
+2024-07-27,Australia,Accessories,Tote Bag,Online Store,2,91.54,37.81
+2024-07-28,Canada,Footwear,Sandals,Online Store,2,186.8,88.2
+2024-07-28,UK,Menswear,Bomber Jacket,Online Store,3,620.97,292.38
+2024-07-29,Germany,Footwear,Leather Sneakers,Online Store,2,33.32,15.5
+2024-07-29,Canada,Footwear,Sandals,Online Store,2,353.88,175.27
+2024-07-31,Canada,Menswear,Chino Pants,Online Store,2,431.94,177.37
+2024-08-01,Canada,Womenswear,Denim Jacket,Online Store,4,339.52,125.48
+2024-08-02,Australia,Menswear,Chino Pants,Online Store,3,411.93,172.97
+2024-08-02,USA,Menswear,Bomber Jacket,Online Store,3,428.19,196.52
+2024-08-02,USA,Accessories,Leather Belt,Online Store,2,331.6,136.53
+2024-08-02,Germany,Footwear,Leather Sneakers,Online Store,4,669.84,360.39
+2024-08-02,Australia,Footwear,Sandals,Online Store,3,273.87,97.65
+2024-08-03,Canada,Footwear,Leather Sneakers,Online Store,1,174.36,82.21
+2024-08-05,UK,Accessories,Leather Belt,Online Store,1,29.33,13.76
+2024-08-05,Australia,Womenswear,Floral Dress,Online Store,3,513.93,278.05
+2024-08-06,UK,Menswear,Bomber Jacket,Online Store,2,45.22,23.79
+2024-08-06,Australia,Accessories,Sunglasses,Online Store,3,182.67,77.83
+2024-08-06,Australia,Footwear,Sandals,Online Store,4,369.84,164.39
+2024-08-07,Canada,Menswear,Bomber Jacket,Online Store,3,274.41,110.31
+2024-08-08,Canada,Footwear,Leather Sneakers,Online Store,4,662.52,328.5
+2024-08-10,UK,Accessories,Leather Belt,Online Store,1,67.81,26.67
+2024-08-10,Canada,Womenswear,Denim Jacket,Online Store,2,418.94,167.42
+2024-08-10,Germany,Footwear,Ankle Boots,Online Store,4,536.96,218.77
+2024-08-11,USA,Womenswear,Floral Dress,Online Store,3,360.36,128.87
+2024-08-11,Australia,Accessories,Sunglasses,Online Store,4,149.36,74.92
+2024-08-12,Canada,Womenswear,Floral Dress,Online Store,3,185.88,85.03
+2024-08-13,Australia,Menswear,Bomber Jacket,Online Store,1,60.72,26.86
+2024-08-13,Canada,Accessories,Tote Bag,Online Store,4,368.76,196.17
+2024-08-14,Canada,Footwear,Ankle Boots,Online Store,2,311.3,129.02
+2024-08-15,UK,Accessories,Sunglasses,Online Store,3,255.87,108.1
+2024-08-15,Germany,Menswear,Bomber Jacket,Online Store,1,31.22,11.57
+2024-08-17,Canada,Womenswear,Wide-Leg Trousers,Online Store,1,81.07,30.41
+2024-08-17,Canada,Accessories,Sunglasses,Online Store,4,206.08,72.2
+2024-08-18,Germany,Footwear,Ankle Boots,Online Store,3,317.64,150.29
+2024-08-19,UK,Footwear,Leather Sneakers,Online Store,1,98.08,34.48
+2024-08-19,USA,Accessories,Leather Belt,Online Store,4,74.12,34.83
+2024-08-21,UK,Menswear,Bomber Jacket,Online Store,2,360.6,137.31
+2024-08-21,USA,Footwear,Sandals,Online Store,3,631.38,259.72
+2024-08-22,Germany,Footwear,Sandals,Online Store,1,133.65,69.67
+2024-08-22,UK,Footwear,Sandals,Online Store,3,140.31,70.58
+2024-08-22,Australia,Accessories,Sunglasses,Online Store,4,276.28,114.46
+2024-08-24,Canada,Menswear,Chino Pants,Online Store,1,128.2,53.35
+2024-08-24,UK,Footwear,Ankle Boots,Online Store,2,34.08,15.95
+2024-08-24,USA,Womenswear,Wide-Leg Trousers,Online Store,3,638.49,345.2
+2024-08-24,Canada,Womenswear,Floral Dress,Online Store,3,349.86,137.05
+2024-08-25,Germany,Menswear,Chino Pants,Online Store,1,97.82,36.08
+2024-08-26,Australia,Footwear,Leather Sneakers,Online Store,2,349.8,171.32
+2024-08-26,UK,Accessories,Tote Bag,Online Store,3,353.55,175.02
+2024-08-28,Canada,Accessories,Leather Belt,Online Store,2,410.66,216.45
+2024-08-28,UK,Footwear,Sandals,Online Store,1,79.87,41.96
+2024-08-29,USA,Footwear,Sandals,Online Store,4,369.28,188.85
+2024-08-31,Australia,Menswear,Chino Pants,Online Store,1,201.04,81.37
+2024-09-01,Canada,Menswear,Oxford Shirt,Online Store,2,44.06,18.33
+2024-09-01,Australia,Womenswear,Wide-Leg Trousers,Online Store,2,183.28,73.87
+2024-09-02,UK,Accessories,Leather Belt,Online Store,2,41.88,22.53
+2024-09-02,Australia,Womenswear,Floral Dress,Online Store,4,472.52,245.22
+2024-09-02,Australia,Footwear,Sandals,Online Store,4,248.4,114.95
+2024-09-03,Germany,Footwear,Leather Sneakers,Online Store,1,46.81,17.93
+2024-09-03,Germany,Menswear,Bomber Jacket,Online Store,4,773.36,416.38
+2024-09-04,USA,Footwear,Sandals,Online Store,4,552.52,235.29
+2024-09-04,Canada,Accessories,Tote Bag,Online Store,1,17.08,8.47
+2024-09-05,USA,Accessories,Tote Bag,Online Store,2,73.52,32.13
+2024-09-05,Germany,Womenswear,Floral Dress,Online Store,2,438.7,178.08
+2024-09-07,UK,Womenswear,Floral Dress,Online Store,1,70.5,37.35
+2024-09-08,Canada,Menswear,Bomber Jacket,Online Store,3,402.9,210.02
+2024-09-08,Canada,Footwear,Ankle Boots,Online Store,2,96.78,42.94
+2024-09-09,USA,Accessories,Tote Bag,Online Store,3,318.57,141.34
+2024-09-10,UK,Footwear,Sandals,Online Store,2,96.3,37.65
+2024-09-10,Australia,Footwear,Leather Sneakers,Online Store,4,816.76,432.38
+2024-09-13,USA,Menswear,Oxford Shirt,Online Store,3,412.89,190.56
+2024-09-14,Germany,Accessories,Sunglasses,Online Store,1,117.17,60.88
+2024-09-16,USA,Accessories,Sunglasses,Online Store,2,120.1,63.4
+2024-09-16,USA,Menswear,Bomber Jacket,Online Store,4,876.96,471.21
+2024-09-17,Canada,Womenswear,Denim Jacket,Online Store,1,113.82,58.41
+2024-09-17,USA,Womenswear,Floral Dress,Online Store,3,163.98,76.82
+2024-09-18,USA,Womenswear,Wide-Leg Trousers,Online Store,3,463.89,199.01
+2024-09-18,Germany,Footwear,Sandals,Online Store,4,822.08,445.26
+2024-09-20,Canada,Womenswear,Floral Dress,Online Store,4,446.72,205.71
+2024-09-20,UK,Footwear,Leather Sneakers,Online Store,3,462.15,245.54
+2024-09-20,Canada,Accessories,Tote Bag,Online Store,4,204.76,108.67
+2024-09-20,UK,Menswear,Chino Pants,Online Store,3,418.8,209.65
+2024-09-21,USA,Footwear,Leather Sneakers,Online Store,1,31.92,11.62
+2024-09-21,USA,Womenswear,Denim Jacket,Online Store,2,233.22,82.25
+2024-09-22,Australia,Footwear,Leather Sneakers,Online Store,2,70.14,27.67
+2024-09-22,Australia,Womenswear,Denim Jacket,Online Store,3,631.8,282.86
+2024-09-22,Canada,Womenswear,Wide-Leg Trousers,Online Store,3,62.07,33.76
+2024-09-23,Australia,Accessories,Tote Bag,Online Store,1,137.52,73.93
+2024-09-24,UK,Womenswear,Wide-Leg Trousers,Online Store,4,687.12,375.47
+2024-09-24,Canada,Footwear,Sandals,Online Store,3,455.58,223.54
+2024-09-24,USA,Accessories,Leather Belt,Online Store,2,334.3,167.08
+2024-09-24,Canada,Footwear,Sandals,Online Store,2,221.02,111.21
+2024-09-26,USA,Womenswear,Denim Jacket,Online Store,2,433.5,160.25
+2024-09-28,Germany,Womenswear,Wide-Leg Trousers,Online Store,1,77.62,31.42
+2024-09-28,USA,Womenswear,Floral Dress,Online Store,1,178.22,79.69
+2024-09-28,USA,Womenswear,Floral Dress,Online Store,2,224.58,109.73
+2024-09-29,Canada,Menswear,Oxford Shirt,Online Store,2,233.38,95.71
+2024-09-30,Germany,Menswear,Oxford Shirt,Online Store,3,243.36,110.54
+2024-10-01,Australia,Footwear,Ankle Boots,Online Store,2,304.36,165.38
+2024-10-02,UK,Womenswear,Denim Jacket,Online Store,4,551.4,281.55
+2024-10-02,Germany,Footwear,Leather Sneakers,Online Store,1,34.32,16.31
+2024-10-02,Canada,Womenswear,Floral Dress,Online Store,3,655.02,267.63
+2024-10-03,UK,Footwear,Sandals,Online Store,3,55.53,26.67
+2024-10-03,Germany,Footwear,Ankle Boots,Online Store,3,529.98,198.3
+2024-10-03,Australia,Menswear,Oxford Shirt,Online Store,3,224.67,88.15
+2024-10-03,Canada,Footwear,Ankle Boots,Online Store,4,263.16,117.38
+2024-10-04,Germany,Menswear,Oxford Shirt,Online Store,2,234.18,120.53
+2024-10-04,Australia,Accessories,Leather Belt,Online Store,2,103.28,56.1
+2024-10-05,Australia,Accessories,Sunglasses,Online Store,2,255.4,90.7
+2024-10-05,Australia,Accessories,Leather Belt,Online Store,3,184.2,86.56
+2024-10-06,USA,Accessories,Tote Bag,Online Store,1,208.95,101.29
+2024-10-07,USA,Footwear,Ankle Boots,Online Store,3,95.7,48.81
+2024-10-07,Germany,Womenswear,Floral Dress,Online Store,2,116.22,62.19
+2024-10-07,USA,Footwear,Sandals,Online Store,2,340.84,135.15
+2024-10-07,Canada,Accessories,Leather Belt,Online Store,4,288.2,143.36
+2024-10-08,Canada,Footwear,Sandals,Online Store,4,662.88,315.69
+2024-10-08,Canada,Accessories,Tote Bag,Online Store,4,762.56,415.96
+2024-10-08,Germany,Accessories,Leather Belt,Online Store,2,351.0,123.14
+2024-10-09,UK,Footwear,Sandals,Online Store,2,187.4,68.12
+2024-10-09,UK,Womenswear,Wide-Leg Trousers,Online Store,1,102.69,45.42
+2024-10-09,UK,Menswear,Chino Pants,Online Store,2,276.16,104.06
+2024-10-10,UK,Accessories,Leather Belt,Online Store,4,283.72,154.93
+2024-10-10,Germany,Womenswear,Denim Jacket,Online Store,3,369.42,144.06
+2024-10-10,Germany,Accessories,Sunglasses,Online Store,1,134.38,65.37
+2024-10-11,Germany,Accessories,Sunglasses,Online Store,3,503.04,220.73
+2024-10-11,UK,Womenswear,Denim Jacket,Online Store,3,629.7,342.09
+2024-10-11,USA,Menswear,Bomber Jacket,Online Store,2,252.1,132.58
+2024-10-12,Australia,Footwear,Ankle Boots,Online Store,3,68.37,25.56
+2024-10-12,Germany,Accessories,Sunglasses,Online Store,2,70.94,35.19
+2024-10-14,Germany,Accessories,Leather Belt,Online Store,4,406.08,160.4
+2024-10-14,Germany,Accessories,Leather Belt,Online Store,1,166.52,86.15
+2024-10-15,UK,Menswear,Chino Pants,Online Store,3,325.47,153.39
+2024-10-16,Germany,Accessories,Leather Belt,Online Store,3,454.02,244.63
+2024-10-16,Australia,Footwear,Leather Sneakers,Online Store,4,367.6,198.94
+2024-10-17,Australia,Footwear,Leather Sneakers,Online Store,2,330.52,153.66
+2024-10-18,Canada,Menswear,Chino Pants,Online Store,4,275.76,147.76
+2024-10-18,Germany,Menswear,Chino Pants,Online Store,2,413.48,176.94
+2024-10-18,Canada,Footwear,Ankle Boots,Online Store,3,366.54,167.47
+2024-10-21,Canada,Womenswear,Wide-Leg Trousers,Online Store,2,277.24,133.31
+2024-10-21,Australia,Footwear,Sandals,Online Store,4,750.16,321.43
+2024-10-21,Germany,Menswear,Oxford Shirt,Online Store,1,50.52,18.68
+2024-10-22,Canada,Accessories,Sunglasses,Online Store,2,151.66,66.16
+2024-10-23,Germany,Accessories,Tote Bag,Online Store,4,198.72,100.74
+2024-10-23,Australia,Womenswear,Denim Jacket,Online Store,2,44.42,18.26
+2024-10-23,USA,Menswear,Chino Pants,Online Store,1,142.01,53.36
+2024-10-24,UK,Womenswear,Wide-Leg Trousers,Online Store,2,358.1,190.56
+2024-10-24,USA,Womenswear,Wide-Leg Trousers,Online Store,2,307.32,167.33
+2024-10-25,USA,Footwear,Leather Sneakers,Online Store,2,310.28,121.2
+2024-10-25,Canada,Accessories,Tote Bag,Online Store,1,47.6,22.05
+2024-10-26,USA,Womenswear,Wide-Leg Trousers,Online Store,1,109.26,57.77
+2024-10-28,UK,Footwear,Ankle Boots,Online Store,3,499.62,183.71
+2024-10-29,Germany,Womenswear,Floral Dress,Online Store,3,403.17,169.74
+2024-10-29,UK,Womenswear,Floral Dress,Online Store,4,443.08,238.66
+2024-10-31,Australia,Accessories,Leather Belt,Online Store,4,803.4,425.75
+2024-11-01,UK,Accessories,Sunglasses,Online Store,4,288.08,152.02
+2024-11-01,Canada,Menswear,Chino Pants,Online Store,3,637.8,325.36
+2024-11-02,UK,Accessories,Tote Bag,Online Store,2,251.68,94.68
+2024-11-02,Australia,Womenswear,Wide-Leg Trousers,Online Store,2,404.92,155.54
+2024-11-02,UK,Womenswear,Wide-Leg Trousers,Online Store,4,122.68,47.39
+2024-11-03,USA,Footwear,Sandals,Online Store,3,181.59,70.54
+2024-11-03,Germany,Footwear,Sandals,Online Store,1,49.2,20.43
+2024-11-04,Germany,Womenswear,Denim Jacket,Online Store,4,871.28,471.52
+2024-11-05,Germany,Accessories,Sunglasses,Online Store,3,249.75,102.7
+2024-11-06,Germany,Footwear,Sandals,Online Store,2,299.2,143.96
+2024-11-06,UK,Womenswear,Wide-Leg Trousers,Online Store,2,262.36,99.6
+2024-11-07,Germany,Womenswear,Denim Jacket,Online Store,2,106.98,39.27
+2024-11-07,Canada,Womenswear,Floral Dress,Online Store,1,94.64,34.34
+2024-11-07,Germany,Footwear,Sandals,Online Store,1,45.11,21.96
+2024-11-07,Australia,Accessories,Tote Bag,Online Store,1,182.73,99.9
+2024-11-08,UK,Womenswear,Floral Dress,Online Store,2,45.46,21.85
+2024-11-08,Australia,Womenswear,Denim Jacket,Online Store,3,360.15,169.87
+2024-11-08,Australia,Menswear,Chino Pants,Online Store,2,417.74,180.43
+2024-11-09,USA,Menswear,Chino Pants,Online Store,3,331.74,162.64
+2024-11-09,Germany,Menswear,Bomber Jacket,Online Store,1,177.95,80.58
+2024-11-09,UK,Womenswear,Floral Dress,Online Store,3,66.78,31.05
+2024-11-09,Canada,Womenswear,Wide-Leg Trousers,Online Store,1,73.97,29.21
+2024-11-09,USA,Menswear,Bomber Jacket,Online Store,1,204.03,89.37
+2024-11-10,UK,Menswear,Chino Pants,Online Store,2,430.52,232.44
+2024-11-10,Germany,Footwear,Ankle Boots,Online Store,4,603.48,231.34
+2024-11-11,Germany,Footwear,Sandals,Online Store,2,151.24,67.15
+2024-11-11,Canada,Footwear,Sandals,Online Store,2,216.84,118.91
+2024-11-11,Canada,Footwear,Leather Sneakers,Online Store,1,38.48,14.31
+2024-11-12,UK,Menswear,Chino Pants,Online Store,2,31.84,16.78
+2024-11-13,UK,Accessories,Leather Belt,Online Store,3,393.6,206.45
+2024-11-15,USA,Accessories,Tote Bag,Online Store,4,577.32,283.81
+2024-11-16,UK,Footwear,Sandals,Online Store,3,410.85,197.52
+2024-11-16,Canada,Footwear,Leather Sneakers,Online Store,2,331.98,154.06
+2024-11-17,Canada,Accessories,Leather Belt,Online Store,1,34.49,13.9
+2024-11-17,Germany,Accessories,Leather Belt,Online Store,3,558.0,240.33
+2024-11-17,UK,Footwear,Leather Sneakers,Online Store,1,145.98,72.06
+2024-11-24,UK,Menswear,Chino Pants,Online Store,2,422.48,218.06
+2024-11-25,Australia,Womenswear,Floral Dress,Online Store,3,508.65,218.49
+2024-11-25,Canada,Menswear,Bomber Jacket,Online Store,3,438.66,235.44
+2024-11-25,Germany,Accessories,Tote Bag,Online Store,1,117.04,58.14
+2024-11-26,Australia,Accessories,Leather Belt,Online Store,1,51.81,18.73
+2024-11-26,USA,Accessories,Tote Bag,Online Store,2,367.0,182.98
+2024-11-27,UK,Womenswear,Wide-Leg Trousers,Online Store,2,259.58,139.8
+2024-11-27,Australia,Accessories,Leather Belt,Online Store,4,467.56,182.55
+2024-11-28,USA,Womenswear,Floral Dress,Online Store,2,192.04,77.1
+2024-11-28,UK,Accessories,Sunglasses,Online Store,3,154.14,81.35
+2024-11-28,Germany,Womenswear,Floral Dress,Online Store,2,251.88,101.06
+2024-11-29,Canada,Footwear,Leather Sneakers,Online Store,1,172.66,93.34
+2024-11-29,Australia,Footwear,Ankle Boots,Online Store,2,327.62,163.95
+2024-11-29,Australia,Womenswear,Wide-Leg Trousers,Online Store,4,838.92,380.92
+2024-11-30,USA,Accessories,Tote Bag,Online Store,4,243.48,91.1
+2024-11-30,Canada,Footwear,Sandals,Online Store,2,294.3,110.65
+2024-12-02,USA,Accessories,Leather Belt,Online Store,4,839.28,344.14
+2024-12-02,UK,Womenswear,Floral Dress,Online Store,1,163.05,65.28
+2024-12-03,Germany,Footwear,Sandals,Online Store,2,398.0,170.51
+2024-12-04,Germany,Womenswear,Floral Dress,Online Store,4,582.64,226.96
+2024-12-04,Germany,Menswear,Oxford Shirt,Online Store,3,637.98,324.68
+2024-12-05,UK,Menswear,Chino Pants,Online Store,1,201.96,85.77
+2024-12-06,USA,Menswear,Bomber Jacket,Online Store,3,210.27,111.83
+2024-12-07,Germany,Menswear,Oxford Shirt,Online Store,4,269.04,127.61
+2024-12-07,Australia,Accessories,Leather Belt,Online Store,4,304.48,147.88
+2024-12-07,Canada,Menswear,Chino Pants,Online Store,3,531.0,253.93
+2024-12-10,USA,Accessories,Sunglasses,Online Store,4,829.04,419.77
+2024-12-10,Australia,Accessories,Sunglasses,Online Store,2,291.74,142.4
+2024-12-11,USA,Womenswear,Denim Jacket,Online Store,2,57.48,31.1
+2024-12-11,Australia,Footwear,Ankle Boots,Online Store,1,136.1,52.57
+2024-12-12,UK,Menswear,Oxford Shirt,Online Store,2,232.32,127.12
+2024-12-13,Germany,Menswear,Chino Pants,Online Store,4,412.96,172.19
+2024-12-14,USA,Menswear,Oxford Shirt,Online Store,2,140.4,53.2
+2024-12-14,UK,Accessories,Leather Belt,Online Store,3,187.44,83.44
+2024-12-14,Australia,Womenswear,Floral Dress,Online Store,3,266.52,144.54
+2024-12-15,Australia,Footwear,Ankle Boots,Online Store,4,570.12,294.94
+2024-12-15,Canada,Accessories,Leather Belt,Online Store,1,141.46,76.72
+2024-12-17,Canada,Accessories,Tote Bag,Online Store,3,387.63,187.49
+2024-12-18,Canada,Accessories,Sunglasses,Online Store,3,144.96,60.44
+2024-12-19,Australia,Accessories,Tote Bag,Online Store,1,84.73,31.83
+2024-12-19,USA,Womenswear,Wide-Leg Trousers,Online Store,2,140.86,73.93
+2024-12-19,Canada,Accessories,Leather Belt,Online Store,3,57.18,23.1
+2024-12-20,Canada,Accessories,Sunglasses,Online Store,2,194.18,95.66
+2024-12-21,Australia,Womenswear,Floral Dress,Online Store,2,31.26,14.67
+2024-12-21,Canada,Footwear,Sandals,Online Store,4,876.0,400.09
+2024-12-23,Canada,Menswear,Bomber Jacket,Online Store,2,147.32,75.12
+2024-12-23,Australia,Footwear,Sandals,Online Store,2,416.94,195.76
+2024-12-25,UK,Footwear,Sandals,Online Store,4,157.44,66.91
+2024-12-26,USA,Womenswear,Floral Dress,Online Store,1,58.44,21.2
+2024-12-26,Australia,Womenswear,Denim Jacket,Online Store,4,380.24,140.49
+2024-12-26,Germany,Womenswear,Denim Jacket,Online Store,3,595.86,282.66
+2024-12-27,USA,Womenswear,Floral Dress,Online Store,3,224.49,104.52
+2024-12-28,Australia,Accessories,Sunglasses,Online Store,1,88.73,44.27
+2024-12-28,UK,Accessories,Sunglasses,Online Store,3,184.56,67.25
+2024-12-28,USA,Menswear,Oxford Shirt,Online Store,1,69.91,32.61
+2024-12-29,Australia,Footwear,Ankle Boots,Online Store,1,78.54,27.72
+2024-12-29,USA,Womenswear,Denim Jacket,Online Store,1,215.99,88.67
+2024-12-29,UK,Accessories,Leather Belt,Online Store,3,426.93,232.42
+2024-12-29,Germany,Menswear,Oxford Shirt,Online Store,4,350.2,132.96
+2024-12-30,Germany,Footwear,Leather Sneakers,Online Store,1,68.63,36.91
+2024-12-30,Australia,Accessories,Leather Belt,Online Store,1,209.08,109.24
+2024-12-30,Australia,Footwear,Leather Sneakers,Online Store,2,299.96,128.71
+2024-12-30,UK,Menswear,Oxford Shirt,Online Store,1,47.41,19.25
+2024-12-30,Australia,Womenswear,Floral Dress,Online Store,2,290.76,145.57
+2024-12-30,UK,Footwear,Ankle Boots,Online Store,2,217.8,91.89
+2024-12-30,Germany,Footwear,Ankle Boots,Online Store,1,196.43,79.66
+2024-12-31,USA,Menswear,Oxford Shirt,Online Store,2,163.64,69.02
+2024-12-31,Canada,Womenswear,Floral Dress,Online Store,2,206.6,89.95
+2024-12-31,UK,Womenswear,Denim Jacket,Online Store,4,808.48,373.5
+2024-12-31,Australia,Footwear,Ankle Boots,Online Store,3,568.23,295.97
+2025-01-01,Canada,Womenswear,Wide-Leg Trousers,Online Store,4,352.96,161.95
+2025-01-01,Germany,Menswear,Bomber Jacket,Online Store,3,433.44,154.63
+2025-01-01,Germany,Womenswear,Floral Dress,Online Store,4,870.52,385.74
+2025-01-02,Canada,Menswear,Chino Pants,Online Store,4,515.64,244.06
+2025-01-02,Germany,Menswear,Bomber Jacket,Online Store,1,219.43,82.11
+2025-01-03,Germany,Menswear,Chino Pants,Online Store,1,189.14,69.37
+2025-01-04,UK,Womenswear,Denim Jacket,Online Store,2,266.5,136.53
+2025-01-04,UK,Womenswear,Denim Jacket,Online Store,4,587.96,317.34
+2025-01-05,Germany,Menswear,Oxford Shirt,Online Store,4,246.6,96.84
+2025-01-05,Canada,Accessories,Leather Belt,Online Store,1,110.73,47.21
+2025-01-07,Canada,Menswear,Oxford Shirt,Online Store,1,33.04,13.39
+2025-01-07,UK,Footwear,Sandals,Online Store,2,68.1,36.95
+2025-01-07,UK,Footwear,Ankle Boots,Online Store,4,235.24,120.33
+2025-01-10,Australia,Womenswear,Floral Dress,Online Store,3,135.33,66.69
+2025-01-11,UK,Womenswear,Denim Jacket,Online Store,2,213.32,101.76
+2025-01-11,Germany,Footwear,Ankle Boots,Online Store,3,464.85,252.18
+2025-01-12,Australia,Menswear,Chino Pants,Online Store,2,196.9,91.98
+2025-01-13,Australia,Footwear,Leather Sneakers,Online Store,2,342.44,169.33
+2025-01-13,UK,Womenswear,Wide-Leg Trousers,Online Store,4,367.76,132.8
+2025-01-14,Germany,Womenswear,Floral Dress,Online Store,4,683.92,261.73
+2025-01-14,Australia,Footwear,Ankle Boots,Online Store,3,86.61,43.99
+2025-01-15,Germany,Footwear,Sandals,Online Store,2,177.04,81.36
+2025-01-16,Germany,Menswear,Bomber Jacket,Online Store,4,514.6,272.91
+2025-01-16,Germany,Accessories,Tote Bag,Online Store,3,315.6,162.7
+2025-01-17,Canada,Footwear,Sandals,Online Store,1,24.21,10.66
+2025-01-19,UK,Accessories,Sunglasses,Online Store,2,246.52,116.8
+2025-01-20,Germany,Womenswear,Floral Dress,Online Store,3,500.88,187.22
+2025-01-20,Australia,Accessories,Tote Bag,Online Store,3,420.21,228.97
+2025-01-20,Australia,Womenswear,Floral Dress,Online Store,4,568.04,309.68
+2025-01-21,Germany,Womenswear,Wide-Leg Trousers,Online Store,4,349.32,127.52
+2025-01-22,USA,Womenswear,Denim Jacket,Online Store,3,649.5,261.05
+2025-01-22,USA,Menswear,Bomber Jacket,Online Store,2,189.2,83.45
+2025-01-23,Canada,Footwear,Leather Sneakers,Online Store,2,102.28,41.23
+2025-01-23,Germany,Womenswear,Floral Dress,Online Store,2,370.7,188.62
+2025-01-24,UK,Menswear,Oxford Shirt,Online Store,4,648.52,343.08
+2025-01-25,Canada,Accessories,Leather Belt,Online Store,4,120.56,60.29
+2025-01-26,UK,Footwear,Sandals,Online Store,2,176.4,77.08
+2025-01-27,Australia,Menswear,Bomber Jacket,Online Store,1,105.38,55.78
+2025-01-27,UK,Footwear,Sandals,Online Store,4,112.32,43.73
+2025-01-28,Australia,Menswear,Oxford Shirt,Online Store,1,165.12,83.92
+2025-01-28,Australia,Accessories,Leather Belt,Online Store,1,23.53,12.52
+2025-01-28,UK,Womenswear,Denim Jacket,Online Store,1,130.28,71.54
+2025-01-28,USA,Accessories,Sunglasses,Online Store,1,20.13,8.03
+2025-01-29,UK,Menswear,Chino Pants,Online Store,1,119.11,61.88
+2025-01-30,Germany,Accessories,Leather Belt,Online Store,1,141.86,75.51
+2025-01-31,Australia,Footwear,Ankle Boots,Online Store,1,48.42,18.75
+2025-01-31,Australia,Menswear,Oxford Shirt,Online Store,1,157.44,68.6
+2025-02-01,USA,Accessories,Leather Belt,Online Store,1,52.72,19.74
+2025-02-01,USA,Menswear,Oxford Shirt,Online Store,1,216.58,115.05
+2025-02-02,USA,Womenswear,Floral Dress,Online Store,1,106.36,37.56
+2025-02-04,USA,Footwear,Sandals,Online Store,3,338.19,141.88
+2025-02-05,UK,Womenswear,Floral Dress,Online Store,1,36.35,18.9
+2025-02-05,Germany,Womenswear,Wide-Leg Trousers,Online Store,3,447.09,216.85
+2025-02-06,Germany,Footwear,Leather Sneakers,Online Store,3,456.6,237.11
+2025-02-06,USA,Womenswear,Floral Dress,Online Store,1,196.42,86.26
+2025-02-07,Canada,Womenswear,Floral Dress,Online Store,1,88.43,47.99
+2025-02-07,Australia,Footwear,Sandals,Online Store,4,435.96,214.92
+2025-02-08,Australia,Accessories,Sunglasses,Online Store,4,256.64,103.12
+2025-02-08,Australia,Accessories,Leather Belt,Online Store,4,376.56,138.64
+2025-02-09,Canada,Womenswear,Wide-Leg Trousers,Online Store,2,287.98,142.45
+2025-02-10,Canada,Accessories,Sunglasses,Online Store,1,55.82,23.02
+2025-02-11,UK,Womenswear,Floral Dress,Online Store,4,302.44,108.21
+2025-02-11,Australia,Womenswear,Wide-Leg Trousers,Online Store,2,259.18,117.05
+2025-02-11,UK,Womenswear,Denim Jacket,Online Store,1,148.87,76.22
+2025-02-11,USA,Womenswear,Wide-Leg Trousers,Online Store,3,657.57,316.17
+2025-02-12,UK,Womenswear,Wide-Leg Trousers,Online Store,2,421.0,188.03
+2025-02-12,Australia,Accessories,Sunglasses,Online Store,3,465.84,177.75
+2025-02-13,UK,Menswear,Bomber Jacket,Online Store,2,68.86,33.31
+2025-02-13,Canada,Menswear,Oxford Shirt,Online Store,1,74.81,31.31
+2025-02-15,Australia,Footwear,Ankle Boots,Online Store,1,90.46,49.72
+2025-02-15,Germany,Womenswear,Floral Dress,Online Store,1,178.48,91.02
+2025-02-16,Canada,Womenswear,Denim Jacket,Online Store,2,291.32,115.68
+2025-02-16,UK,Footwear,Ankle Boots,Online Store,2,318.94,132.17
+2025-02-16,Canada,Footwear,Sandals,Online Store,4,871.08,352.43
+2025-02-17,Canada,Menswear,Chino Pants,Online Store,3,233.31,88.13
+2025-02-18,Canada,Footwear,Sandals,Online Store,1,170.91,87.11
+2025-02-19,Australia,Footwear,Sandals,Online Store,3,506.25,239.99
+2025-02-19,Australia,Womenswear,Floral Dress,Online Store,1,103.27,41.04
+2025-02-19,UK,Menswear,Bomber Jacket,Online Store,4,507.12,181.76
+2025-02-19,USA,Accessories,Tote Bag,Online Store,2,169.76,85.55
+2025-02-19,Australia,Footwear,Leather Sneakers,Online Store,3,498.27,178.13
+2025-02-19,Australia,Accessories,Leather Belt,Online Store,1,146.53,55.29
+2025-02-20,Germany,Footwear,Ankle Boots,Online Store,2,35.24,16.89
+2025-02-20,UK,Womenswear,Floral Dress,Online Store,1,165.32,74.33
+2025-02-20,Canada,Menswear,Bomber Jacket,Online Store,1,17.81,6.51
+2025-02-20,USA,Accessories,Sunglasses,Online Store,3,58.92,21.83
+2025-02-21,USA,Womenswear,Denim Jacket,Online Store,3,296.73,150.39
+2025-02-22,USA,Footwear,Sandals,Online Store,1,90.43,32.86
+2025-02-23,UK,Menswear,Oxford Shirt,Online Store,3,445.02,217.48
+2025-02-24,UK,Menswear,Bomber Jacket,Online Store,2,34.08,14.61
+2025-02-26,Canada,Footwear,Leather Sneakers,Online Store,2,346.08,166.11
+2025-02-26,Australia,Womenswear,Wide-Leg Trousers,Online Store,4,763.12,273.58
+2025-02-26,Canada,Accessories,Tote Bag,Online Store,1,165.68,60.49
+2025-02-27,UK,Footwear,Ankle Boots,Online Store,3,631.23,279.53
+2025-02-27,Germany,Footwear,Sandals,Online Store,3,90.48,34.1
+2025-02-27,UK,Womenswear,Denim Jacket,Online Store,1,191.37,74.73
+2025-02-28,Canada,Menswear,Chino Pants,Online Store,4,536.44,202.01
+2025-03-01,UK,Menswear,Bomber Jacket,Online Store,4,188.24,101.91
+2025-03-01,Canada,Footwear,Sandals,Online Store,4,661.0,359.99
+2025-03-02,Germany,Accessories,Tote Bag,Online Store,2,60.36,29.71
+2025-03-02,Germany,Footwear,Sandals,Online Store,4,314.48,134.03
+2025-03-03,Germany,Footwear,Ankle Boots,Online Store,1,190.18,88.84
+2025-03-03,USA,Footwear,Leather Sneakers,Online Store,1,49.98,19.52
+2025-03-03,USA,Womenswear,Denim Jacket,Online Store,1,105.94,47.02
+2025-03-04,UK,Accessories,Sunglasses,Online Store,3,400.26,154.89
+2025-03-04,USA,Accessories,Leather Belt,Online Store,4,622.16,221.26
+2025-03-05,Canada,Menswear,Oxford Shirt,Online Store,2,86.42,42.32
+2025-03-05,Australia,Accessories,Leather Belt,Online Store,1,178.03,81.62
+2025-03-05,UK,Footwear,Leather Sneakers,Online Store,2,146.38,61.62
+2025-03-06,Germany,Menswear,Chino Pants,Online Store,3,409.98,166.9
+2025-03-06,Australia,Menswear,Chino Pants,Online Store,3,590.64,254.46
+2025-03-07,Australia,Menswear,Bomber Jacket,Online Store,2,67.36,32.74
+2025-03-07,USA,Womenswear,Floral Dress,Online Store,2,57.08,22.73
+2025-03-08,Canada,Menswear,Bomber Jacket,Online Store,3,513.69,254.01
+2025-03-09,Canada,Footwear,Leather Sneakers,Online Store,1,61.05,23.29
+2025-03-09,Germany,Accessories,Leather Belt,Online Store,2,33.18,15.87
+2025-03-10,Australia,Womenswear,Floral Dress,Online Store,3,406.92,186.59
+2025-03-11,Canada,Footwear,Ankle Boots,Online Store,2,374.58,170.04
+2025-03-11,UK,Footwear,Leather Sneakers,Online Store,2,89.88,38.79
+2025-03-11,Canada,Accessories,Leather Belt,Online Store,4,588.68,209.32
+2025-03-12,Australia,Menswear,Chino Pants,Online Store,2,260.76,106.54
+2025-03-13,Canada,Footwear,Sandals,Online Store,1,50.55,26.66
+2025-03-13,Canada,Menswear,Chino Pants,Online Store,2,289.7,104.0
+2025-03-13,Australia,Womenswear,Floral Dress,Online Store,4,320.24,119.86
+2025-03-14,UK,Accessories,Leather Belt,Online Store,1,46.92,21.99
+2025-03-14,USA,Footwear,Leather Sneakers,Online Store,3,570.51,225.35
+2025-03-14,UK,Menswear,Bomber Jacket,Online Store,4,405.96,182.61
+2025-03-14,Canada,Womenswear,Wide-Leg Trousers,Online Store,1,216.0,118.1
+2025-03-15,Australia,Menswear,Bomber Jacket,Online Store,1,108.16,50.45
+2025-03-15,USA,Accessories,Sunglasses,Online Store,3,159.06,62.73
+2025-03-15,Germany,Accessories,Sunglasses,Online Store,4,779.2,383.79
+2025-03-16,Canada,Accessories,Sunglasses,Online Store,1,204.56,111.88
+2025-03-17,UK,Womenswear,Floral Dress,Online Store,1,157.24,84.0
+2025-03-17,Germany,Menswear,Chino Pants,Online Store,1,138.65,71.58
+2025-03-17,USA,Footwear,Leather Sneakers,Online Store,1,30.03,12.04
+2025-03-18,UK,Womenswear,Denim Jacket,Online Store,2,149.2,59.0
+2025-03-18,UK,Womenswear,Denim Jacket,Online Store,3,509.34,234.73
+2025-03-19,UK,Menswear,Chino Pants,Online Store,4,726.6,270.72
+2025-03-20,Germany,Footwear,Sandals,Online Store,4,314.4,165.03
+2025-03-20,Canada,Footwear,Leather Sneakers,Online Store,4,805.4,312.97
+2025-03-21,Australia,Menswear,Oxford Shirt,Online Store,3,244.41,117.9
+2025-03-21,USA,Menswear,Bomber Jacket,Online Store,3,594.99,227.18
+2025-03-21,Australia,Menswear,Chino Pants,Online Store,1,33.12,16.67
+2025-03-23,UK,Womenswear,Wide-Leg Trousers,Online Store,2,191.84,92.76
+2025-03-24,Germany,Menswear,Chino Pants,Online Store,2,159.82,85.38
+2025-03-24,Canada,Accessories,Sunglasses,Online Store,4,803.12,326.53
+2025-03-24,USA,Accessories,Leather Belt,Online Store,3,67.17,30.63
+2025-03-24,USA,Footwear,Ankle Boots,Online Store,2,294.86,145.12
+2025-03-25,Germany,Footwear,Ankle Boots,Online Store,1,134.36,50.71
+2025-03-25,Canada,Footwear,Sandals,Online Store,4,753.68,351.11
+2025-03-25,Australia,Accessories,Sunglasses,Online Store,4,533.36,218.24
+2025-03-27,Germany,Menswear,Chino Pants,Online Store,1,114.08,62.22
+2025-03-27,UK,Footwear,Sandals,Online Store,2,107.06,47.54
+2025-03-27,Australia,Accessories,Leather Belt,Online Store,2,75.46,29.21
+2025-03-28,UK,Footwear,Ankle Boots,Online Store,4,744.36,387.73
+2025-03-28,USA,Womenswear,Floral Dress,Online Store,4,518.4,245.42
+2025-03-30,USA,Menswear,Chino Pants,Online Store,1,194.32,72.35
+2025-03-31,UK,Accessories,Sunglasses,Online Store,4,248.4,120.55
+2025-03-31,Germany,Womenswear,Denim Jacket,Online Store,2,353.76,160.44
+2025-04-01,Canada,Womenswear,Floral Dress,Online Store,4,265.8,144.41
+2025-04-01,UK,Accessories,Tote Bag,Online Store,4,332.08,181.83
+2025-04-02,UK,Menswear,Bomber Jacket,Online Store,4,403.68,173.46
+2025-04-02,Germany,Womenswear,Wide-Leg Trousers,Online Store,2,118.26,55.58
+2025-04-03,USA,Womenswear,Denim Jacket,Online Store,4,265.56,127.5
+2025-04-03,UK,Footwear,Sandals,Online Store,4,211.04,95.54
+2025-04-03,Australia,Menswear,Oxford Shirt,Online Store,2,412.96,218.36
+2025-04-03,Germany,Menswear,Chino Pants,Online Store,3,54.69,19.14
+2025-04-03,Australia,Footwear,Leather Sneakers,Online Store,4,138.68,54.08
+2025-04-04,UK,Accessories,Leather Belt,Online Store,2,31.48,12.38
+2025-04-05,Australia,Footwear,Ankle Boots,Online Store,1,25.25,13.46
+2025-04-05,Canada,Womenswear,Denim Jacket,Online Store,1,187.34,72.1
+2025-04-05,USA,Accessories,Leather Belt,Online Store,3,557.97,256.36
+2025-04-05,Canada,Menswear,Chino Pants,Online Store,1,76.05,35.55
+2025-04-05,Australia,Accessories,Leather Belt,Online Store,4,561.8,287.46
+2025-04-06,Germany,Accessories,Sunglasses,Online Store,2,38.28,14.39
+2025-04-06,Germany,Footwear,Sandals,Online Store,1,106.19,57.24
+2025-04-07,Canada,Footwear,Ankle Boots,Online Store,2,182.66,72.1
+2025-04-07,Australia,Menswear,Oxford Shirt,Online Store,2,154.0,67.55
+2025-04-07,Canada,Womenswear,Floral Dress,Online Store,1,162.33,81.86
+2025-04-07,Germany,Footwear,Ankle Boots,Online Store,2,156.92,68.01
+2025-04-08,Germany,Womenswear,Denim Jacket,Online Store,3,380.34,188.71
+2025-04-08,Canada,Accessories,Tote Bag,Online Store,4,199.08,90.91
+2025-04-08,Germany,Accessories,Leather Belt,Online Store,2,133.16,58.51
+2025-04-08,Germany,Menswear,Bomber Jacket,Online Store,4,704.24,282.29
+2025-04-08,UK,Womenswear,Wide-Leg Trousers,Online Store,1,218.2,95.98
+2025-04-09,USA,Footwear,Sandals,Online Store,4,212.08,82.42
+2025-04-10,UK,Footwear,Leather Sneakers,Online Store,2,97.22,37.97
+2025-04-11,UK,Footwear,Sandals,Online Store,2,369.88,132.93
+2025-04-12,Germany,Accessories,Tote Bag,Online Store,3,268.32,137.05
+2025-04-13,USA,Womenswear,Floral Dress,Online Store,1,48.76,18.71
+2025-04-13,Canada,Footwear,Sandals,Online Store,4,587.56,295.5
+2025-04-14,USA,Menswear,Oxford Shirt,Online Store,1,184.0,73.73
+2025-04-14,Germany,Footwear,Ankle Boots,Online Store,1,180.28,81.97
+2025-04-14,Canada,Footwear,Sandals,Online Store,3,409.32,184.66
+2025-04-15,USA,Footwear,Leather Sneakers,Online Store,2,221.22,81.02
+2025-04-15,Germany,Menswear,Bomber Jacket,Online Store,2,92.92,49.15
+2025-04-15,Canada,Menswear,Oxford Shirt,Online Store,2,319.54,174.71
+2025-04-15,UK,Menswear,Bomber Jacket,Online Store,3,534.48,190.73
+2025-04-16,USA,Menswear,Bomber Jacket,Online Store,3,300.93,120.36
+2025-04-16,USA,Accessories,Leather Belt,Online Store,1,51.57,20.15
+2025-04-17,USA,Menswear,Oxford Shirt,Online Store,4,823.28,437.56
+2025-04-17,Canada,Womenswear,Denim Jacket,Online Store,4,688.44,323.22
+2025-04-17,Australia,Footwear,Leather Sneakers,Online Store,4,388.04,187.98
+2025-04-18,UK,Accessories,Leather Belt,Online Store,4,848.72,430.69
+2025-04-19,Germany,Menswear,Chino Pants,Online Store,3,501.87,181.82
+2025-04-19,UK,Footwear,Leather Sneakers,Online Store,4,198.4,108.6
+2025-04-19,UK,Menswear,Oxford Shirt,Online Store,4,711.88,294.57
+2025-04-20,UK,Accessories,Sunglasses,Online Store,2,116.8,54.96
+2025-04-20,Canada,Menswear,Bomber Jacket,Online Store,3,272.79,137.19
+2025-04-20,USA,Menswear,Bomber Jacket,Online Store,4,620.8,274.35
+2025-04-22,Australia,Womenswear,Denim Jacket,Online Store,3,559.38,290.47
+2025-04-23,Germany,Womenswear,Floral Dress,Online Store,2,297.2,140.32
+2025-04-24,USA,Footwear,Leather Sneakers,Online Store,4,318.08,145.03
+2025-04-24,UK,Menswear,Chino Pants,Online Store,1,20.39,10.81
+2025-04-25,Canada,Menswear,Bomber Jacket,Online Store,1,117.23,51.05
+2025-04-25,USA,Footwear,Leather Sneakers,Online Store,2,408.08,216.06
+2025-04-25,Germany,Accessories,Tote Bag,Online Store,2,380.48,188.3
+2025-04-25,Australia,Footwear,Ankle Boots,Online Store,2,167.6,83.29
+2025-04-25,UK,Footwear,Leather Sneakers,Online Store,2,228.36,82.77
+2025-04-26,Australia,Womenswear,Denim Jacket,Online Store,1,189.97,76.67
+2025-04-26,Canada,Menswear,Chino Pants,Online Store,2,122.92,65.06
+2025-04-27,Germany,Footwear,Ankle Boots,Online Store,3,271.92,127.68
+2025-04-28,Germany,Footwear,Leather Sneakers,Online Store,4,632.2,279.89
+2025-04-28,Canada,Menswear,Bomber Jacket,Online Store,2,169.52,79.48
+2025-04-29,USA,Footwear,Sandals,Online Store,3,594.54,290.39
+2025-04-29,UK,Menswear,Chino Pants,Online Store,4,117.0,41.54
+2025-04-29,Australia,Womenswear,Denim Jacket,Online Store,1,206.9,111.98
+2025-04-30,UK,Womenswear,Wide-Leg Trousers,Online Store,2,378.48,157.72
+2025-04-30,UK,Menswear,Chino Pants,Online Store,2,169.74,73.93
+2025-04-30,Germany,Footwear,Sandals,Online Store,4,506.88,222.73
+2025-04-30,USA,Accessories,Tote Bag,Online Store,1,139.59,54.56
+2025-05-01,Canada,Accessories,Leather Belt,Online Store,1,75.69,30.34
+2025-05-02,USA,Footwear,Ankle Boots,Online Store,4,220.44,100.62
+2025-05-02,USA,Accessories,Tote Bag,Online Store,1,73.12,32.52
+2025-05-03,Canada,Menswear,Bomber Jacket,Online Store,2,52.1,25.51
+2025-05-03,Australia,Footwear,Sandals,Online Store,4,294.76,130.82
+2025-05-04,USA,Footwear,Leather Sneakers,Online Store,1,31.11,16.46
+2025-05-05,Australia,Accessories,Sunglasses,Online Store,1,156.55,59.74
+2025-05-06,USA,Accessories,Leather Belt,Online Store,1,92.15,44.63
+2025-05-08,USA,Footwear,Ankle Boots,Online Store,1,16.56,6.95
+2025-05-08,Australia,Footwear,Ankle Boots,Online Store,3,562.17,197.06
+2025-05-09,UK,Menswear,Bomber Jacket,Online Store,1,33.38,11.8
+2025-05-10,USA,Womenswear,Floral Dress,Online Store,2,401.24,184.73
+2025-05-11,Australia,Accessories,Sunglasses,Online Store,2,289.16,151.58
+2025-05-11,Australia,Footwear,Sandals,Online Store,4,378.96,173.27
+2025-05-12,USA,Menswear,Chino Pants,Online Store,3,535.53,214.48
+2025-05-12,USA,Womenswear,Denim Jacket,Online Store,2,308.36,115.66
+2025-05-12,Australia,Womenswear,Floral Dress,Online Store,1,210.49,102.64
+2025-05-13,USA,Footwear,Leather Sneakers,Online Store,4,302.24,151.89
+2025-05-13,UK,Menswear,Chino Pants,Online Store,2,157.9,61.28
+2025-05-13,UK,Womenswear,Floral Dress,Online Store,4,642.04,260.81
+2025-05-15,Australia,Menswear,Bomber Jacket,Online Store,2,39.86,19.47
+2025-05-15,Australia,Accessories,Tote Bag,Online Store,2,301.86,122.71
+2025-05-16,Australia,Accessories,Leather Belt,Online Store,2,380.12,180.3
+2025-05-17,Germany,Womenswear,Floral Dress,Online Store,2,373.68,134.3
+2025-05-17,Canada,Accessories,Leather Belt,Online Store,2,335.1,119.16
+2025-05-17,Australia,Accessories,Sunglasses,Online Store,4,683.56,301.18
+2025-05-18,Australia,Accessories,Leather Belt,Online Store,4,498.52,226.48
+2025-05-19,Canada,Womenswear,Denim Jacket,Online Store,4,764.2,357.46
+2025-05-19,Germany,Accessories,Sunglasses,Online Store,2,375.58,204.35
+2025-05-20,Australia,Womenswear,Denim Jacket,Online Store,4,807.96,429.6
+2025-05-20,Germany,Accessories,Leather Belt,Online Store,2,273.6,113.72
+2025-05-23,Canada,Accessories,Leather Belt,Online Store,2,113.86,41.76
+2025-05-24,UK,Womenswear,Wide-Leg Trousers,Online Store,1,177.39,69.76
+2025-05-25,Australia,Footwear,Leather Sneakers,Online Store,1,147.2,58.46
+2025-05-25,Canada,Menswear,Bomber Jacket,Online Store,1,139.0,64.55
+2025-05-25,Canada,Footwear,Leather Sneakers,Online Store,4,73.16,28.41
+2025-05-26,Canada,Footwear,Ankle Boots,Online Store,3,241.62,90.9
+2025-05-27,Australia,Accessories,Tote Bag,Online Store,4,624.04,284.07
+2025-05-28,Canada,Menswear,Bomber Jacket,Online Store,1,161.49,65.16
+2025-05-29,UK,Footwear,Ankle Boots,Online Store,4,648.04,304.48
+2025-05-29,Germany,Accessories,Leather Belt,Online Store,1,84.93,30.62
+2025-05-29,Australia,Womenswear,Floral Dress,Online Store,3,393.66,192.94
+2025-05-30,UK,Accessories,Tote Bag,Online Store,2,252.98,105.35
+2025-05-31,Germany,Menswear,Chino Pants,Online Store,3,241.38,105.31
+2025-06-01,Australia,Womenswear,Floral Dress,Online Store,2,304.66,134.99
+2025-06-02,Australia,Footwear,Ankle Boots,Online Store,3,132.87,53.03
+2025-06-02,Canada,Accessories,Tote Bag,Online Store,2,181.86,79.42
+2025-06-03,Canada,Footwear,Ankle Boots,Online Store,1,181.9,70.76
+2025-06-03,Australia,Footwear,Ankle Boots,Online Store,2,154.5,72.91
+2025-06-03,USA,Accessories,Sunglasses,Online Store,4,380.24,146.84
+2025-06-04,UK,Footwear,Leather Sneakers,Online Store,4,200.48,72.05
+2025-06-04,Germany,Womenswear,Denim Jacket,Online Store,1,70.43,25.89
+2025-06-07,Australia,Womenswear,Denim Jacket,Online Store,2,372.84,197.91
+2025-06-07,Germany,Womenswear,Denim Jacket,Online Store,2,87.08,46.64
+2025-06-07,Germany,Accessories,Tote Bag,Online Store,2,265.72,130.39
+2025-06-07,UK,Womenswear,Denim Jacket,Online Store,3,511.89,198.35
+2025-06-07,Australia,Womenswear,Floral Dress,Online Store,4,327.12,158.96
+2025-06-08,Germany,Accessories,Sunglasses,Online Store,1,139.69,62.2
+2025-06-09,UK,Accessories,Leather Belt,Online Store,4,865.52,322.87
+2025-06-09,Canada,Accessories,Sunglasses,Online Store,1,89.96,36.96
+2025-06-10,USA,Footwear,Leather Sneakers,Online Store,1,93.04,41.86
+2025-06-10,Australia,Womenswear,Wide-Leg Trousers,Online Store,4,428.4,228.06
+2025-06-10,USA,Accessories,Leather Belt,Online Store,1,42.69,22.49
+2025-06-10,Australia,Accessories,Leather Belt,Online Store,4,784.36,366.79
+2025-06-12,USA,Womenswear,Wide-Leg Trousers,Online Store,2,157.58,58.07
+2025-06-12,Germany,Accessories,Leather Belt,Online Store,2,212.0,92.09
+2025-06-13,USA,Accessories,Tote Bag,Online Store,2,239.54,93.31
+2025-06-13,USA,Footwear,Leather Sneakers,Online Store,1,20.89,10.67
+2025-06-13,Germany,Menswear,Bomber Jacket,Online Store,3,656.19,243.59
+2025-06-14,Australia,Menswear,Chino Pants,Online Store,2,140.58,70.06
+2025-06-15,UK,Menswear,Chino Pants,Online Store,1,24.27,9.8
+2025-06-15,Canada,Accessories,Tote Bag,Online Store,4,332.2,175.58
+2025-06-15,Canada,Footwear,Leather Sneakers,Online Store,2,128.76,50.97
+2025-06-16,USA,Womenswear,Wide-Leg Trousers,Online Store,3,273.39,97.58
+2025-06-16,Germany,Menswear,Bomber Jacket,Online Store,4,208.56,89.65
+2025-06-18,Australia,Footwear,Sandals,Online Store,1,106.41,47.04
+2025-06-18,Australia,Womenswear,Denim Jacket,Online Store,4,182.28,82.76
+2025-06-19,Germany,Womenswear,Floral Dress,Online Store,2,117.08,48.09
+2025-06-19,Germany,Footwear,Sandals,Online Store,2,46.26,17.09
+2025-06-20,USA,Accessories,Leather Belt,Online Store,3,301.89,137.47
+2025-06-21,UK,Accessories,Tote Bag,Online Store,3,96.84,38.4
+2025-06-21,UK,Accessories,Leather Belt,Online Store,3,368.76,149.21
+2025-06-21,Canada,Accessories,Sunglasses,Online Store,2,344.34,171.41
+2025-06-21,USA,Footwear,Sandals,Online Store,4,171.8,77.71
+2025-06-22,USA,Menswear,Oxford Shirt,Online Store,2,249.44,129.9
+2025-06-24,Germany,Menswear,Oxford Shirt,Online Store,1,203.52,88.93
+2025-06-25,USA,Menswear,Oxford Shirt,Online Store,4,327.88,172.11
+2025-06-26,UK,Footwear,Ankle Boots,Online Store,4,553.56,257.69
+2025-06-27,USA,Accessories,Sunglasses,Online Store,4,781.84,412.51
+2025-06-27,Australia,Footwear,Ankle Boots,Online Store,2,397.72,191.81
+2025-06-28,USA,Footwear,Leather Sneakers,Online Store,1,92.3,40.79
+2025-06-28,UK,Footwear,Sandals,Online Store,3,143.52,68.76
+2025-06-30,UK,Footwear,Ankle Boots,Online Store,3,135.48,65.21
+2025-07-02,Australia,Accessories,Sunglasses,Online Store,1,213.93,89.64
+2025-07-03,USA,Menswear,Oxford Shirt,Online Store,3,213.54,85.56
+2025-07-03,UK,Menswear,Oxford Shirt,Online Store,3,584.28,236.72
+2025-07-04,Australia,Footwear,Leather Sneakers,Online Store,3,544.14,191.96
+2025-07-04,UK,Menswear,Chino Pants,Online Store,2,251.78,96.08
+2025-07-05,UK,Accessories,Tote Bag,Online Store,3,201.78,74.21
+2025-07-05,USA,Footwear,Leather Sneakers,Online Store,3,86.55,34.66
+2025-07-05,UK,Womenswear,Floral Dress,Online Store,1,55.02,30.17
+2025-07-06,Australia,Womenswear,Denim Jacket,Online Store,2,209.14,96.68
+2025-07-06,Australia,Footwear,Sandals,Online Store,3,265.29,126.29
+2025-07-08,UK,Accessories,Sunglasses,Online Store,2,165.44,68.71
+2025-07-08,Canada,Womenswear,Floral Dress,Online Store,3,586.38,295.54
+2025-07-08,USA,Accessories,Leather Belt,Online Store,2,100.72,37.12
+2025-07-09,Australia,Accessories,Leather Belt,Online Store,3,478.17,177.82
+2025-07-10,UK,Accessories,Tote Bag,Online Store,4,840.68,458.53
+2025-07-12,Australia,Accessories,Tote Bag,Online Store,2,44.28,17.52
+2025-07-13,UK,Accessories,Sunglasses,Online Store,3,313.92,148.54
+2025-07-13,UK,Footwear,Leather Sneakers,Online Store,1,91.62,39.05
+2025-07-13,UK,Menswear,Chino Pants,Online Store,3,333.45,160.33
+2025-07-15,Germany,Footwear,Leather Sneakers,Online Store,4,697.56,350.81
+2025-07-15,Australia,Footwear,Sandals,Online Store,4,494.56,213.22
+2025-07-15,USA,Accessories,Sunglasses,Online Store,3,270.9,120.42
+2025-07-16,USA,Womenswear,Denim Jacket,Online Store,4,733.4,303.6
+2025-07-16,UK,Womenswear,Wide-Leg Trousers,Online Store,4,546.92,214.46
+2025-07-17,Australia,Menswear,Chino Pants,Online Store,1,86.3,42.6
+2025-07-17,UK,Menswear,Oxford Shirt,Online Store,1,168.45,72.03
+2025-07-17,UK,Menswear,Oxford Shirt,Online Store,2,72.16,38.67
+2025-07-17,UK,Womenswear,Wide-Leg Trousers,Online Store,1,113.86,43.32
+2025-07-18,UK,Menswear,Chino Pants,Online Store,4,390.32,208.5
+2025-07-18,USA,Footwear,Sandals,Online Store,4,301.04,149.83
+2025-07-18,Canada,Menswear,Chino Pants,Online Store,2,387.1,184.26
+2025-07-20,Australia,Footwear,Leather Sneakers,Online Store,1,90.84,33.91
+2025-07-21,USA,Womenswear,Floral Dress,Online Store,4,860.88,457.9
+2025-07-21,USA,Footwear,Leather Sneakers,Online Store,1,17.56,6.57
+2025-07-22,Germany,Womenswear,Wide-Leg Trousers,Online Store,2,255.28,111.19
+2025-07-22,Australia,Accessories,Tote Bag,Online Store,3,418.62,194.78
+2025-07-23,USA,Menswear,Bomber Jacket,Online Store,1,121.34,65.41
+2025-07-23,Australia,Accessories,Tote Bag,Online Store,4,476.92,166.99
+2025-07-25,Australia,Accessories,Sunglasses,Online Store,2,248.36,100.85
+2025-07-25,UK,Womenswear,Floral Dress,Online Store,2,83.5,39.68
+2025-07-26,UK,Footwear,Sandals,Online Store,4,330.76,133.73
+2025-07-28,USA,Menswear,Bomber Jacket,Online Store,4,461.52,204.43
+2025-07-28,Germany,Footwear,Leather Sneakers,Online Store,3,176.25,86.3
+2025-07-29,Canada,Menswear,Bomber Jacket,Online Store,2,163.78,79.31
+2025-07-29,UK,Womenswear,Floral Dress,Online Store,4,242.4,120.58
+2025-07-30,USA,Womenswear,Denim Jacket,Online Store,4,499.0,243.95
+2025-07-30,UK,Accessories,Leather Belt,Online Store,1,200.47,99.59
+2025-07-31,Australia,Menswear,Bomber Jacket,Online Store,2,429.92,178.46
+2025-08-01,Canada,Footwear,Leather Sneakers,Online Store,2,79.54,31.3
+2025-08-02,Canada,Menswear,Oxford Shirt,Online Store,2,339.16,184.91
+2025-08-02,USA,Womenswear,Wide-Leg Trousers,Online Store,4,323.6,136.98
+2025-08-05,Australia,Footwear,Sandals,Online Store,3,167.7,72.23
+2025-08-06,Germany,Footwear,Leather Sneakers,Online Store,1,43.37,15.73
+2025-08-06,USA,Footwear,Ankle Boots,Online Store,4,137.24,70.88
+2025-08-06,Canada,Footwear,Sandals,Online Store,1,81.79,39.97
+2025-08-07,Germany,Accessories,Leather Belt,Online Store,4,283.4,105.04
+2025-08-07,Australia,Womenswear,Floral Dress,Online Store,4,693.52,293.27
+2025-08-08,Canada,Menswear,Oxford Shirt,Online Store,3,77.94,31.11
+2025-08-09,USA,Accessories,Leather Belt,Online Store,2,79.86,33.18
+2025-08-12,UK,Footwear,Leather Sneakers,Online Store,4,555.28,254.91
+2025-08-12,Germany,Footwear,Sandals,Online Store,4,557.6,236.12
+2025-08-12,Australia,Accessories,Leather Belt,Online Store,4,257.4,110.69
+2025-08-13,Canada,Accessories,Sunglasses,Online Store,4,458.36,208.82
+2025-08-13,Canada,Menswear,Oxford Shirt,Online Store,3,642.39,315.7
+2025-08-13,Australia,Menswear,Oxford Shirt,Online Store,1,218.45,112.91
+2025-08-14,Germany,Footwear,Leather Sneakers,Online Store,1,43.68,15.49
+2025-08-15,USA,Womenswear,Denim Jacket,Online Store,2,240.88,91.97

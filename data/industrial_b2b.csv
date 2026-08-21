@@ -1,0 +1,501 @@
+Date,Region,Category,Product,Salesperson,Units,Revenue,Cost
+2023-09-01,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Devon Ashworth,13,38544.22,22708.44
+2023-09-04,Central Plains,Valves,Gate Valve 4in,Devon Ashworth,5,12479.5,8330.31
+2023-09-08,Pacific NW,Pumps,Centrifugal Pump A200,Miriam Cole,25,8193.5,5722.0
+2023-09-08,Pacific NW,Pumps,Centrifugal Pump A200,Hank Osgood,10,2868.3,1764.41
+2023-09-08,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Hank Osgood,7,12402.32,8355.93
+2023-09-09,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,7,9164.61,6047.67
+2023-09-09,Mid-Atlantic,Motors,Servo Motor SX10,Devon Ashworth,12,10465.08,6304.29
+2023-09-10,Central Plains,Valves,Gate Valve 4in,Hank Osgood,14,28199.78,18432.8
+2023-09-11,Pacific NW,Pumps,Diaphragm Pump D50,Devon Ashworth,9,10899.27,6772.32
+2023-09-12,Gulf Coast,Pumps,Centrifugal Pump A200,Layla Haddad,3,7857.24,4602.96
+2023-09-12,Mid-Atlantic,Motors,Servo Motor SX10,Layla Haddad,5,10286.0,6708.71
+2023-09-14,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,4,6457.12,4122.0
+2023-09-15,Gulf Coast,Safety Equipment,Hard Hat Pack,Layla Haddad,19,28470.55,16527.81
+2023-09-17,Pacific NW,Pumps,Diaphragm Pump D50,Miriam Cole,14,6148.38,3797.24
+2023-09-19,Central Plains,Safety Equipment,Safety Harness Kit,Miriam Cole,19,38850.44,19984.73
+2023-09-21,Pacific NW,Pumps,Centrifugal Pump A200,Devon Ashworth,19,6641.07,3675.74
+2023-09-24,Gulf Coast,Motors,Servo Motor SX10,Devon Ashworth,20,47554.4,29938.23
+2023-09-24,Central Plains,Pumps,Diaphragm Pump D50,Layla Haddad,23,36023.98,25045.06
+2023-09-25,Gulf Coast,Valves,Ball Valve 2in,Layla Haddad,23,39914.66,24849.52
+2023-09-25,Great Lakes,Safety Equipment,Hard Hat Pack,Devon Ashworth,19,32165.29,16100.17
+2023-09-25,Pacific NW,Pumps,Centrifugal Pump A200,Miriam Cole,22,11765.16,6809.94
+2023-09-27,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,19,22399.29,11381.51
+2023-09-27,Mid-Atlantic,Motors,3-Phase Motor 5HP,Devon Ashworth,11,4238.19,2645.63
+2023-09-27,Central Plains,Pumps,Diaphragm Pump D50,Hank Osgood,20,20038.4,12190.85
+2023-09-27,Central Plains,Safety Equipment,Safety Harness Kit,Miriam Cole,13,9312.42,5431.73
+2023-09-28,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,23,62438.56,34388.94
+2023-09-30,Central Plains,Safety Equipment,Hard Hat Pack,Layla Haddad,19,11832.44,7412.75
+2023-10-03,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,1,2353.79,1557.62
+2023-10-03,Central Plains,Pumps,Diaphragm Pump D50,Hank Osgood,13,1997.45,1261.8
+2023-10-04,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,2,2046.42,1324.69
+2023-10-04,Great Lakes,Pumps,Centrifugal Pump A200,Hank Osgood,23,55376.41,35573.36
+2023-10-04,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,3,3655.29,2451.33
+2023-10-06,Pacific NW,Pumps,Diaphragm Pump D50,Miriam Cole,10,21098.8,13411.86
+2023-10-07,Pacific NW,Safety Equipment,Hard Hat Pack,Miriam Cole,13,18552.43,10081.32
+2023-10-08,Great Lakes,Safety Equipment,Hard Hat Pack,Layla Haddad,21,28846.23,15387.61
+2023-10-08,Mid-Atlantic,Valves,Ball Valve 2in,Devon Ashworth,16,9496.16,6479.5
+2023-10-10,Gulf Coast,Motors,Servo Motor SX10,Devon Ashworth,2,2643.86,1756.45
+2023-10-12,Central Plains,Valves,Gate Valve 4in,Miriam Cole,19,13684.18,9080.31
+2023-10-13,Great Lakes,Motors,3-Phase Motor 5HP,Devon Ashworth,22,56193.5,30930.9
+2023-10-15,Gulf Coast,Safety Equipment,Hard Hat Pack,Devon Ashworth,25,76949.5,49223.61
+2023-10-15,Central Plains,Valves,Gate Valve 4in,Hank Osgood,14,8972.04,6072.0
+2023-10-18,Pacific NW,Motors,3-Phase Motor 5HP,Hank Osgood,9,4146.93,2758.37
+2023-10-18,Pacific NW,Pumps,Diaphragm Pump D50,Miriam Cole,11,5358.21,3695.5
+2023-10-22,Pacific NW,Valves,Gate Valve 4in,Miriam Cole,18,35867.88,21626.09
+2023-10-28,Pacific NW,Valves,Gate Valve 4in,Layla Haddad,7,15603.0,8521.06
+2023-10-30,Pacific NW,Safety Equipment,Safety Harness Kit,Devon Ashworth,20,49084.0,32042.86
+2023-10-31,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Devon Ashworth,5,700.75,457.97
+2023-11-05,Gulf Coast,Safety Equipment,Safety Harness Kit,Hank Osgood,18,14091.12,7723.24
+2023-11-07,Great Lakes,Safety Equipment,Hard Hat Pack,Miriam Cole,23,11477.0,6838.35
+2023-11-11,Gulf Coast,Motors,3-Phase Motor 5HP,Layla Haddad,3,1046.28,627.36
+2023-11-13,Great Lakes,Pumps,Diaphragm Pump D50,Hank Osgood,1,1444.43,813.33
+2023-11-13,Gulf Coast,Valves,Ball Valve 2in,Layla Haddad,2,3534.62,1875.93
+2023-11-14,Great Lakes,Safety Equipment,Hard Hat Pack,Miriam Cole,23,21180.01,13668.76
+2023-11-15,Mid-Atlantic,Pumps,Diaphragm Pump D50,Hank Osgood,19,3784.99,1893.98
+2023-11-19,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,5,5481.95,3346.85
+2023-11-21,Gulf Coast,Motors,3-Phase Motor 5HP,Miriam Cole,10,13368.3,8232.05
+2023-11-22,Mid-Atlantic,Motors,3-Phase Motor 5HP,Miriam Cole,13,16848.39,8932.01
+2023-11-23,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,22,60897.76,31379.64
+2023-11-25,Central Plains,Safety Equipment,Safety Harness Kit,Devon Ashworth,11,1786.18,1215.17
+2023-11-25,Great Lakes,Valves,Ball Valve 2in,Hank Osgood,19,20102.76,12704.49
+2023-11-26,Mid-Atlantic,Motors,3-Phase Motor 5HP,Hank Osgood,22,43096.9,23237.75
+2023-11-28,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,23,66638.13,33770.63
+2023-11-30,Mid-Atlantic,Motors,3-Phase Motor 5HP,Layla Haddad,23,12253.48,8426.59
+2023-12-01,Central Plains,Motors,3-Phase Motor 5HP,Miriam Cole,25,61846.5,31220.03
+2023-12-02,Central Plains,Safety Equipment,Safety Harness Kit,Devon Ashworth,11,26309.69,14715.92
+2023-12-02,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,15,30732.3,20766.94
+2023-12-03,Central Plains,Valves,Gate Valve 4in,Miriam Cole,6,670.26,405.75
+2023-12-03,Great Lakes,Safety Equipment,Hard Hat Pack,Hank Osgood,20,15362.4,8147.23
+2023-12-04,Central Plains,Valves,Gate Valve 4in,Layla Haddad,7,1650.6,961.3
+2023-12-07,Gulf Coast,Motors,3-Phase Motor 5HP,Hank Osgood,10,21509.7,12850.8
+2023-12-07,Pacific NW,Motors,Servo Motor SX10,Hank Osgood,22,55969.1,35839.13
+2023-12-10,Gulf Coast,Motors,3-Phase Motor 5HP,Hank Osgood,10,8133.3,5332.79
+2023-12-12,Central Plains,Safety Equipment,Safety Harness Kit,Hank Osgood,7,3948.91,2084.35
+2023-12-13,Great Lakes,Pumps,Centrifugal Pump A200,Hank Osgood,25,13367.5,7630.77
+2023-12-13,Great Lakes,Motors,3-Phase Motor 5HP,Layla Haddad,25,68832.0,42951.98
+2023-12-14,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,3,4167.81,2247.12
+2023-12-18,Central Plains,Motors,Servo Motor SX10,Devon Ashworth,1,1811.71,1018.54
+2023-12-18,Central Plains,Motors,3-Phase Motor 5HP,Devon Ashworth,14,6208.02,3874.53
+2023-12-21,Great Lakes,Valves,Gate Valve 4in,Miriam Cole,22,40779.42,21500.8
+2023-12-23,Great Lakes,Motors,Servo Motor SX10,Devon Ashworth,20,25393.6,15898.39
+2023-12-25,Gulf Coast,Valves,Ball Valve 2in,Layla Haddad,11,16082.22,8605.88
+2023-12-26,Pacific NW,Pumps,Centrifugal Pump A200,Layla Haddad,24,64420.08,45059.44
+2023-12-26,Gulf Coast,Valves,Gate Valve 4in,Layla Haddad,2,4362.48,2426.23
+2023-12-26,Gulf Coast,Safety Equipment,Safety Harness Kit,Hank Osgood,17,28651.12,19330.29
+2023-12-26,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,24,31958.4,18242.78
+2023-12-27,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,15,6818.1,4718.55
+2023-12-31,Gulf Coast,Safety Equipment,Hard Hat Pack,Hank Osgood,1,3159.31,1624.79
+2024-01-01,Great Lakes,Motors,Servo Motor SX10,Miriam Cole,8,9707.68,5576.35
+2024-01-03,Gulf Coast,Valves,Ball Valve 2in,Miriam Cole,17,17861.05,8935.44
+2024-01-03,Great Lakes,Motors,3-Phase Motor 5HP,Hank Osgood,14,43876.56,22977.42
+2024-01-03,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Layla Haddad,23,48431.33,33394.97
+2024-01-03,Mid-Atlantic,Pumps,Diaphragm Pump D50,Layla Haddad,11,20028.25,13016.76
+2024-01-06,Mid-Atlantic,Pumps,Diaphragm Pump D50,Layla Haddad,22,6821.54,4662.4
+2024-01-06,Great Lakes,Pumps,Centrifugal Pump A200,Miriam Cole,21,6699.0,3424.81
+2024-01-09,Gulf Coast,Safety Equipment,Hard Hat Pack,Hank Osgood,14,28704.34,19452.65
+2024-01-10,Great Lakes,Safety Equipment,Hard Hat Pack,Miriam Cole,8,18912.96,9975.96
+2024-01-15,Central Plains,Motors,3-Phase Motor 5HP,Layla Haddad,5,7333.35,4224.48
+2024-01-16,Central Plains,Valves,Gate Valve 4in,Hank Osgood,6,18595.56,9486.93
+2024-01-17,Central Plains,Motors,Servo Motor SX10,Devon Ashworth,25,52314.75,30270.28
+2024-01-24,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Hank Osgood,19,8448.92,5847.68
+2024-01-24,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,12,8568.48,5895.29
+2024-01-25,Pacific NW,Safety Equipment,Hard Hat Pack,Miriam Cole,14,18929.54,12873.78
+2024-01-28,Gulf Coast,Pumps,Centrifugal Pump A200,Layla Haddad,4,6348.92,4157.42
+2024-01-28,Central Plains,Pumps,Centrifugal Pump A200,Hank Osgood,25,74612.0,41307.71
+2024-01-29,Central Plains,Pumps,Centrifugal Pump A200,Devon Ashworth,21,61918.5,36713.4
+2024-02-02,Central Plains,Pumps,Diaphragm Pump D50,Miriam Cole,6,807.84,471.43
+2024-02-11,Pacific NW,Pumps,Centrifugal Pump A200,Devon Ashworth,14,28571.2,14750.67
+2024-02-11,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,20,46607.2,31039.64
+2024-02-12,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,17,1809.48,1042.8
+2024-02-14,Mid-Atlantic,Valves,Ball Valve 2in,Miriam Cole,22,3722.84,2139.35
+2024-02-16,Gulf Coast,Valves,Gate Valve 4in,Layla Haddad,11,24005.85,14220.85
+2024-02-16,Mid-Atlantic,Valves,Gate Valve 4in,Hank Osgood,23,29580.07,19268.44
+2024-02-17,Pacific NW,Valves,Gate Valve 4in,Hank Osgood,11,27555.88,16816.68
+2024-02-17,Pacific NW,Safety Equipment,Safety Harness Kit,Hank Osgood,11,28695.37,14855.18
+2024-02-18,Central Plains,Valves,Gate Valve 4in,Hank Osgood,19,51178.21,34349.12
+2024-02-20,Central Plains,Safety Equipment,Safety Harness Kit,Devon Ashworth,8,11229.92,6146.67
+2024-02-21,Gulf Coast,Valves,Gate Valve 4in,Devon Ashworth,8,8358.56,4965.76
+2024-02-21,Gulf Coast,Safety Equipment,Hard Hat Pack,Devon Ashworth,8,25163.52,16955.32
+2024-02-22,Gulf Coast,Pumps,Centrifugal Pump A200,Devon Ashworth,23,70320.66,35276.7
+2024-02-23,Pacific NW,Pumps,Centrifugal Pump A200,Layla Haddad,21,42467.04,23366.26
+2024-02-24,Central Plains,Motors,3-Phase Motor 5HP,Layla Haddad,18,5553.0,2849.95
+2024-02-24,Great Lakes,Valves,Ball Valve 2in,Devon Ashworth,19,37583.52,23374.96
+2024-02-25,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Hank Osgood,20,22682.8,14001.57
+2024-02-29,Mid-Atlantic,Pumps,Diaphragm Pump D50,Devon Ashworth,7,768.11,431.59
+2024-03-01,Central Plains,Pumps,Diaphragm Pump D50,Layla Haddad,2,4696.08,2701.01
+2024-03-01,Gulf Coast,Valves,Ball Valve 2in,Hank Osgood,7,8957.9,5281.61
+2024-03-05,Pacific NW,Motors,Servo Motor SX10,Layla Haddad,15,1075.95,590.71
+2024-03-06,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,18,25395.66,15296.74
+2024-03-06,Gulf Coast,Valves,Gate Valve 4in,Layla Haddad,23,26709.9,14544.62
+2024-03-08,Mid-Atlantic,Pumps,Diaphragm Pump D50,Layla Haddad,1,3167.74,2157.98
+2024-03-09,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,5,12656.5,8527.84
+2024-03-11,Great Lakes,Safety Equipment,Safety Harness Kit,Devon Ashworth,9,6763.41,3820.72
+2024-03-19,Gulf Coast,Motors,3-Phase Motor 5HP,Miriam Cole,17,21077.62,12808.97
+2024-03-22,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,12,1140.48,685.47
+2024-03-24,Central Plains,Valves,Gate Valve 4in,Layla Haddad,5,10594.75,7025.67
+2024-03-25,Central Plains,Pumps,Diaphragm Pump D50,Devon Ashworth,24,12531.84,7267.0
+2024-03-25,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,20,25188.2,12808.83
+2024-03-26,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,6,1743.48,906.58
+2024-03-27,Pacific NW,Valves,Ball Valve 2in,Hank Osgood,4,3694.36,2155.44
+2024-03-29,Great Lakes,Pumps,Centrifugal Pump A200,Hank Osgood,11,12402.83,7129.28
+2024-04-04,Central Plains,Pumps,Centrifugal Pump A200,Hank Osgood,23,40071.52,23057.52
+2024-04-04,Central Plains,Pumps,Diaphragm Pump D50,Miriam Cole,12,29388.6,19858.03
+2024-04-06,Pacific NW,Pumps,Centrifugal Pump A200,Devon Ashworth,8,25313.2,14105.4
+2024-04-07,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,5,8873.3,5135.86
+2024-04-13,Great Lakes,Valves,Gate Valve 4in,Hank Osgood,13,32632.08,20504.65
+2024-04-16,Central Plains,Safety Equipment,Hard Hat Pack,Layla Haddad,19,40711.11,24743.6
+2024-04-17,Great Lakes,Valves,Ball Valve 2in,Hank Osgood,23,64186.1,41190.39
+2024-04-17,Mid-Atlantic,Motors,Servo Motor SX10,Layla Haddad,18,41081.94,26673.26
+2024-04-19,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Devon Ashworth,1,417.17,266.15
+2024-04-22,Great Lakes,Valves,Gate Valve 4in,Miriam Cole,20,10543.2,6058.36
+2024-04-23,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,7,11117.54,7318.9
+2024-04-24,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,8,7842.64,4527.46
+2024-04-25,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,23,31176.27,16683.35
+2024-04-26,Great Lakes,Safety Equipment,Hard Hat Pack,Hank Osgood,19,58192.25,35182.81
+2024-04-28,Mid-Atlantic,Motors,Servo Motor SX10,Layla Haddad,9,12622.05,8780.52
+2024-04-29,Gulf Coast,Pumps,Centrifugal Pump A200,Miriam Cole,8,10814.8,6827.07
+2024-04-30,Great Lakes,Pumps,Diaphragm Pump D50,Layla Haddad,5,6608.45,4378.91
+2024-05-01,Mid-Atlantic,Valves,Ball Valve 2in,Devon Ashworth,12,2485.8,1649.24
+2024-05-01,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Layla Haddad,23,67497.18,46160.56
+2024-05-01,Great Lakes,Valves,Ball Valve 2in,Miriam Cole,11,20928.93,11297.88
+2024-05-06,Gulf Coast,Motors,3-Phase Motor 5HP,Devon Ashworth,13,30189.51,18025.71
+2024-05-08,Central Plains,Valves,Ball Valve 2in,Hank Osgood,6,5441.46,2817.89
+2024-05-09,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,19,56233.16,33053.18
+2024-05-11,Central Plains,Pumps,Diaphragm Pump D50,Hank Osgood,4,3308.8,1817.92
+2024-05-11,Great Lakes,Valves,Gate Valve 4in,Layla Haddad,19,4147.51,2754.13
+2024-05-11,Central Plains,Motors,Servo Motor SX10,Devon Ashworth,1,2417.41,1300.25
+2024-05-13,Gulf Coast,Pumps,Diaphragm Pump D50,Devon Ashworth,14,43220.24,30225.95
+2024-05-14,Pacific NW,Pumps,Centrifugal Pump A200,Hank Osgood,7,9365.23,5040.56
+2024-05-17,Pacific NW,Motors,Servo Motor SX10,Miriam Cole,21,40845.63,26546.66
+2024-05-18,Gulf Coast,Pumps,Centrifugal Pump A200,Miriam Cole,2,3040.86,1927.68
+2024-05-19,Central Plains,Safety Equipment,Safety Harness Kit,Hank Osgood,9,18910.98,11836.96
+2024-05-19,Central Plains,Motors,3-Phase Motor 5HP,Layla Haddad,23,66011.61,36091.61
+2024-05-21,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,18,56741.04,34930.68
+2024-05-22,Pacific NW,Valves,Ball Valve 2in,Hank Osgood,8,9906.48,6023.88
+2024-05-22,Pacific NW,Valves,Ball Valve 2in,Hank Osgood,11,19421.82,10005.39
+2024-05-23,Great Lakes,Valves,Gate Valve 4in,Hank Osgood,18,14756.76,10316.04
+2024-05-24,Central Plains,Valves,Ball Valve 2in,Devon Ashworth,10,23031.4,12611.65
+2024-05-24,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,6,3856.68,2067.18
+2024-05-24,Mid-Atlantic,Motors,3-Phase Motor 5HP,Hank Osgood,13,28902.51,19885.89
+2024-05-25,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,8,2129.2,1080.13
+2024-05-25,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,22,68689.28,45520.31
+2024-05-26,Great Lakes,Valves,Gate Valve 4in,Devon Ashworth,3,438.69,249.45
+2024-05-27,Pacific NW,Valves,Ball Valve 2in,Devon Ashworth,7,7833.77,4870.22
+2024-05-27,Mid-Atlantic,Motors,3-Phase Motor 5HP,Miriam Cole,6,17146.68,9768.66
+2024-05-28,Great Lakes,Motors,3-Phase Motor 5HP,Layla Haddad,21,40279.47,28068.42
+2024-05-29,Gulf Coast,Pumps,Diaphragm Pump D50,Hank Osgood,18,18532.98,9536.28
+2024-05-29,Great Lakes,Motors,Servo Motor SX10,Layla Haddad,20,32981.4,23035.7
+2024-05-30,Gulf Coast,Motors,Servo Motor SX10,Devon Ashworth,22,18476.48,10669.87
+2024-05-30,Mid-Atlantic,Pumps,Diaphragm Pump D50,Hank Osgood,25,59572.25,36033.65
+2024-05-30,Mid-Atlantic,Pumps,Centrifugal Pump A200,Miriam Cole,12,29491.2,17427.52
+2024-06-02,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,19,41359.39,24614.97
+2024-06-02,Pacific NW,Safety Equipment,Safety Harness Kit,Devon Ashworth,11,14392.62,8285.99
+2024-06-07,Pacific NW,Motors,3-Phase Motor 5HP,Miriam Cole,14,26305.58,15607.45
+2024-06-12,Gulf Coast,Pumps,Centrifugal Pump A200,Miriam Cole,16,27745.76,19189.62
+2024-06-16,Gulf Coast,Pumps,Centrifugal Pump A200,Miriam Cole,22,11995.5,7796.47
+2024-06-19,Mid-Atlantic,Valves,Ball Valve 2in,Devon Ashworth,14,39052.16,23680.27
+2024-06-21,Mid-Atlantic,Motors,Servo Motor SX10,Devon Ashworth,14,9003.54,5420.69
+2024-06-26,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,25,11687.25,7992.53
+2024-06-29,Gulf Coast,Motors,Servo Motor SX10,Miriam Cole,14,17702.02,10721.06
+2024-06-29,Central Plains,Pumps,Diaphragm Pump D50,Devon Ashworth,7,21900.62,14811.59
+2024-07-01,Central Plains,Motors,Servo Motor SX10,Miriam Cole,16,26651.2,15410.01
+2024-07-04,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Layla Haddad,13,1171.69,730.27
+2024-07-07,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,20,12874.4,8319.6
+2024-07-08,Great Lakes,Motors,Servo Motor SX10,Devon Ashworth,17,47889.17,25145.12
+2024-07-09,Great Lakes,Motors,Servo Motor SX10,Devon Ashworth,13,21932.95,12803.59
+2024-07-10,Central Plains,Motors,Servo Motor SX10,Hank Osgood,2,738.82,481.73
+2024-07-11,Pacific NW,Valves,Ball Valve 2in,Hank Osgood,2,304.46,193.03
+2024-07-11,Gulf Coast,Safety Equipment,Safety Harness Kit,Layla Haddad,23,50642.32,32914.33
+2024-07-15,Gulf Coast,Safety Equipment,Hard Hat Pack,Devon Ashworth,22,25217.28,15415.76
+2024-07-16,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,19,55198.23,32310.54
+2024-07-17,Mid-Atlantic,Motors,3-Phase Motor 5HP,Miriam Cole,10,27468.0,16081.23
+2024-07-17,Gulf Coast,Motors,Servo Motor SX10,Hank Osgood,10,10731.8,6180.52
+2024-07-17,Great Lakes,Pumps,Centrifugal Pump A200,Layla Haddad,25,76160.25,40426.62
+2024-07-20,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,19,28915.15,20019.9
+2024-07-24,Great Lakes,Pumps,Diaphragm Pump D50,Layla Haddad,3,6990.66,4817.78
+2024-07-25,Central Plains,Valves,Ball Valve 2in,Miriam Cole,21,52677.87,29768.11
+2024-07-26,Mid-Atlantic,Pumps,Diaphragm Pump D50,Miriam Cole,1,2227.46,1162.34
+2024-07-26,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,17,7482.89,3763.69
+2024-07-27,Pacific NW,Valves,Gate Valve 4in,Layla Haddad,19,53183.66,34493.17
+2024-07-28,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,10,10989.4,7260.9
+2024-07-30,Great Lakes,Pumps,Centrifugal Pump A200,Devon Ashworth,15,38676.15,25955.42
+2024-07-30,Great Lakes,Motors,3-Phase Motor 5HP,Hank Osgood,3,1237.47,634.14
+2024-07-31,Pacific NW,Valves,Gate Valve 4in,Hank Osgood,11,6017.44,3821.91
+2024-08-02,Mid-Atlantic,Valves,Gate Valve 4in,Layla Haddad,7,21413.28,13136.93
+2024-08-02,Central Plains,Safety Equipment,Safety Harness Kit,Hank Osgood,8,22812.08,13640.27
+2024-08-03,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,18,53881.74,33439.0
+2024-08-03,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,15,26174.7,13972.58
+2024-08-05,Gulf Coast,Safety Equipment,Safety Harness Kit,Hank Osgood,13,23143.12,13798.76
+2024-08-05,Central Plains,Valves,Ball Valve 2in,Layla Haddad,12,26577.96,15513.62
+2024-08-05,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,15,37778.25,26212.83
+2024-08-05,Pacific NW,Motors,3-Phase Motor 5HP,Hank Osgood,1,764.36,509.75
+2024-08-07,Gulf Coast,Safety Equipment,Hard Hat Pack,Hank Osgood,5,15547.65,8731.22
+2024-08-08,Pacific NW,Motors,3-Phase Motor 5HP,Miriam Cole,5,2678.7,1389.18
+2024-08-09,Mid-Atlantic,Pumps,Centrifugal Pump A200,Devon Ashworth,20,22539.8,14852.35
+2024-08-11,Central Plains,Motors,Servo Motor SX10,Hank Osgood,8,11064.8,5672.21
+2024-08-12,Great Lakes,Valves,Gate Valve 4in,Layla Haddad,22,28310.7,14311.13
+2024-08-12,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,5,13995.95,7273.63
+2024-08-14,Pacific NW,Safety Equipment,Safety Harness Kit,Miriam Cole,3,9247.86,5811.56
+2024-08-16,Central Plains,Safety Equipment,Safety Harness Kit,Hank Osgood,10,28625.2,16307.34
+2024-08-21,Mid-Atlantic,Valves,Ball Valve 2in,Layla Haddad,16,26385.12,15004.25
+2024-08-21,Gulf Coast,Valves,Gate Valve 4in,Devon Ashworth,4,3271.44,1938.34
+2024-08-23,Gulf Coast,Safety Equipment,Hard Hat Pack,Layla Haddad,19,25613.9,17519.59
+2024-08-26,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Layla Haddad,19,32261.43,19941.41
+2024-08-28,Mid-Atlantic,Valves,Gate Valve 4in,Miriam Cole,25,41225.5,20940.57
+2024-08-29,Central Plains,Safety Equipment,Hard Hat Pack,Layla Haddad,21,2708.58,1814.39
+2024-08-29,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,8,4881.68,2559.01
+2024-08-29,Gulf Coast,Valves,Gate Valve 4in,Miriam Cole,2,2072.94,1067.95
+2024-08-30,Gulf Coast,Motors,3-Phase Motor 5HP,Devon Ashworth,9,18481.5,11162.43
+2024-08-30,Pacific NW,Valves,Gate Valve 4in,Devon Ashworth,24,66693.6,39949.64
+2024-09-02,Pacific NW,Valves,Ball Valve 2in,Devon Ashworth,11,24246.86,12878.65
+2024-09-02,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,12,20216.4,11947.52
+2024-09-02,Central Plains,Motors,Servo Motor SX10,Hank Osgood,11,12700.49,7209.18
+2024-09-04,Mid-Atlantic,Pumps,Diaphragm Pump D50,Miriam Cole,25,53555.75,30146.47
+2024-09-05,Central Plains,Valves,Gate Valve 4in,Devon Ashworth,7,6256.81,3501.55
+2024-09-05,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,15,10219.65,5539.27
+2024-09-06,Central Plains,Valves,Ball Valve 2in,Devon Ashworth,25,62980.25,41931.1
+2024-09-06,Pacific NW,Motors,Servo Motor SX10,Devon Ashworth,21,24254.58,14530.76
+2024-09-08,Central Plains,Motors,Servo Motor SX10,Hank Osgood,19,36420.72,18982.54
+2024-09-11,Gulf Coast,Safety Equipment,Hard Hat Pack,Devon Ashworth,25,12403.25,6932.17
+2024-09-11,Central Plains,Valves,Ball Valve 2in,Hank Osgood,3,3209.82,2173.36
+2024-09-11,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,6,15982.98,10980.05
+2024-09-12,Gulf Coast,Valves,Ball Valve 2in,Devon Ashworth,24,57393.36,36480.66
+2024-09-14,Gulf Coast,Pumps,Diaphragm Pump D50,Devon Ashworth,17,45425.87,27562.25
+2024-09-14,Gulf Coast,Pumps,Diaphragm Pump D50,Layla Haddad,15,43936.5,24888.19
+2024-09-15,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,1,881.98,544.54
+2024-09-15,Mid-Atlantic,Pumps,Diaphragm Pump D50,Miriam Cole,21,40402.74,26442.23
+2024-09-16,Central Plains,Safety Equipment,Safety Harness Kit,Hank Osgood,20,20018.0,10934.54
+2024-09-18,Pacific NW,Pumps,Centrifugal Pump A200,Miriam Cole,23,5846.6,3221.5
+2024-09-19,Great Lakes,Safety Equipment,Safety Harness Kit,Devon Ashworth,7,808.29,418.84
+2024-09-19,Great Lakes,Safety Equipment,Safety Harness Kit,Devon Ashworth,10,28421.5,14810.5
+2024-09-20,Pacific NW,Motors,Servo Motor SX10,Devon Ashworth,22,61378.9,41386.19
+2024-09-20,Central Plains,Safety Equipment,Safety Harness Kit,Layla Haddad,11,7438.97,4630.24
+2024-09-22,Gulf Coast,Valves,Gate Valve 4in,Layla Haddad,25,44068.0,27044.21
+2024-09-22,Pacific NW,Motors,3-Phase Motor 5HP,Miriam Cole,14,21410.06,12778.13
+2024-09-23,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,22,30596.94,20557.08
+2024-09-25,Mid-Atlantic,Valves,Ball Valve 2in,Miriam Cole,15,39372.75,27274.79
+2024-09-25,Pacific NW,Pumps,Centrifugal Pump A200,Miriam Cole,14,26464.9,13767.88
+2024-09-28,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,7,18744.18,10236.9
+2024-09-28,Great Lakes,Pumps,Diaphragm Pump D50,Miriam Cole,9,17624.61,9973.31
+2024-10-01,Pacific NW,Safety Equipment,Hard Hat Pack,Hank Osgood,3,626.94,419.61
+2024-10-02,Mid-Atlantic,Valves,Gate Valve 4in,Miriam Cole,20,28223.0,14349.17
+2024-10-02,Mid-Atlantic,Pumps,Diaphragm Pump D50,Devon Ashworth,20,55010.0,37753.95
+2024-10-03,Mid-Atlantic,Valves,Ball Valve 2in,Hank Osgood,20,29422.6,17598.79
+2024-10-04,Central Plains,Pumps,Diaphragm Pump D50,Miriam Cole,7,1961.26,1163.83
+2024-10-04,Pacific NW,Valves,Ball Valve 2in,Layla Haddad,12,1619.88,1036.33
+2024-10-06,Gulf Coast,Safety Equipment,Hard Hat Pack,Miriam Cole,4,3914.88,2279.93
+2024-10-07,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Devon Ashworth,4,1926.2,1072.84
+2024-10-08,Pacific NW,Safety Equipment,Safety Harness Kit,Miriam Cole,17,46900.11,27106.8
+2024-10-10,Pacific NW,Motors,3-Phase Motor 5HP,Devon Ashworth,8,22513.52,11526.21
+2024-10-11,Mid-Atlantic,Motors,3-Phase Motor 5HP,Hank Osgood,3,2089.08,1435.68
+2024-10-13,Gulf Coast,Safety Equipment,Safety Harness Kit,Devon Ashworth,21,34315.05,23892.57
+2024-10-15,Gulf Coast,Motors,3-Phase Motor 5HP,Hank Osgood,12,22814.28,14011.81
+2024-10-15,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,5,6940.85,4582.79
+2024-10-18,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,6,7318.32,5000.46
+2024-10-19,Central Plains,Safety Equipment,Hard Hat Pack,Miriam Cole,24,8583.84,4312.21
+2024-10-19,Pacific NW,Valves,Gate Valve 4in,Hank Osgood,4,11971.88,7260.95
+2024-10-21,Mid-Atlantic,Motors,Servo Motor SX10,Miriam Cole,12,5178.84,2612.93
+2024-10-21,Mid-Atlantic,Motors,Servo Motor SX10,Devon Ashworth,19,54976.69,30598.9
+2024-10-24,Great Lakes,Valves,Gate Valve 4in,Layla Haddad,17,41843.46,27733.99
+2024-10-26,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,8,23244.56,13197.51
+2024-10-26,Central Plains,Pumps,Centrifugal Pump A200,Hank Osgood,18,35835.12,20446.82
+2024-10-27,Great Lakes,Pumps,Centrifugal Pump A200,Layla Haddad,25,19962.25,13134.55
+2024-10-28,Gulf Coast,Pumps,Centrifugal Pump A200,Hank Osgood,15,32911.35,21274.61
+2024-10-28,Pacific NW,Valves,Ball Valve 2in,Layla Haddad,7,18476.71,10035.62
+2024-10-28,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,1,1821.65,1069.5
+2024-10-28,Great Lakes,Pumps,Diaphragm Pump D50,Hank Osgood,1,2943.42,1700.22
+2024-10-30,Mid-Atlantic,Valves,Ball Valve 2in,Miriam Cole,5,5336.65,2815.44
+2024-10-31,Gulf Coast,Safety Equipment,Hard Hat Pack,Miriam Cole,8,13528.32,8356.2
+2024-11-01,Pacific NW,Safety Equipment,Safety Harness Kit,Layla Haddad,7,4911.34,3417.72
+2024-11-05,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,1,1735.85,1049.39
+2024-11-05,Mid-Atlantic,Pumps,Diaphragm Pump D50,Devon Ashworth,23,50297.55,31244.63
+2024-11-05,Mid-Atlantic,Valves,Gate Valve 4in,Miriam Cole,17,34617.1,19501.89
+2024-11-06,Pacific NW,Valves,Ball Valve 2in,Layla Haddad,14,22200.92,11766.81
+2024-11-07,Mid-Atlantic,Motors,3-Phase Motor 5HP,Devon Ashworth,17,33012.47,20702.94
+2024-11-07,Pacific NW,Motors,3-Phase Motor 5HP,Hank Osgood,3,3128.7,1855.68
+2024-11-11,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,22,35890.58,18408.17
+2024-11-12,Great Lakes,Safety Equipment,Hard Hat Pack,Miriam Cole,1,198.16,99.82
+2024-11-13,Gulf Coast,Pumps,Diaphragm Pump D50,Miriam Cole,10,16240.3,10807.73
+2024-11-19,Gulf Coast,Motors,3-Phase Motor 5HP,Layla Haddad,11,22393.47,11264.63
+2024-11-22,Great Lakes,Pumps,Diaphragm Pump D50,Hank Osgood,18,32337.54,16537.03
+2024-11-24,Gulf Coast,Pumps,Diaphragm Pump D50,Hank Osgood,14,25621.68,13529.42
+2024-11-26,Mid-Atlantic,Valves,Ball Valve 2in,Devon Ashworth,6,8803.62,5773.74
+2024-11-29,Great Lakes,Safety Equipment,Hard Hat Pack,Devon Ashworth,4,9766.44,4934.41
+2024-11-30,Mid-Atlantic,Motors,3-Phase Motor 5HP,Devon Ashworth,4,2740.04,1894.67
+2024-12-07,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,23,35462.55,17838.14
+2024-12-07,Pacific NW,Safety Equipment,Hard Hat Pack,Layla Haddad,17,42357.88,28370.03
+2024-12-09,Central Plains,Pumps,Diaphragm Pump D50,Miriam Cole,5,12153.3,7235.83
+2024-12-09,Central Plains,Pumps,Diaphragm Pump D50,Layla Haddad,18,3218.76,2135.71
+2024-12-09,Mid-Atlantic,Valves,Gate Valve 4in,Miriam Cole,12,17843.4,10781.94
+2024-12-11,Great Lakes,Motors,Servo Motor SX10,Miriam Cole,22,32040.8,16766.36
+2024-12-14,Central Plains,Valves,Gate Valve 4in,Miriam Cole,22,12930.06,8677.73
+2024-12-15,Central Plains,Valves,Gate Valve 4in,Miriam Cole,22,57207.04,39283.78
+2024-12-15,Pacific NW,Pumps,Diaphragm Pump D50,Miriam Cole,20,38034.6,23952.66
+2024-12-16,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,13,11003.33,5777.09
+2024-12-17,Central Plains,Safety Equipment,Hard Hat Pack,Devon Ashworth,24,65938.32,34651.86
+2024-12-19,Central Plains,Valves,Ball Valve 2in,Devon Ashworth,6,18302.22,9689.47
+2024-12-22,Central Plains,Safety Equipment,Safety Harness Kit,Miriam Cole,17,30837.83,20063.97
+2024-12-22,Gulf Coast,Pumps,Centrifugal Pump A200,Devon Ashworth,10,5478.8,2746.12
+2024-12-24,Gulf Coast,Safety Equipment,Hard Hat Pack,Miriam Cole,24,22247.04,12186.43
+2024-12-24,Gulf Coast,Motors,Servo Motor SX10,Devon Ashworth,20,30958.0,21186.79
+2024-12-24,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,6,1436.04,855.44
+2024-12-25,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,12,12477.0,7734.75
+2024-12-29,Great Lakes,Safety Equipment,Safety Harness Kit,Hank Osgood,13,5507.58,3431.09
+2024-12-30,Central Plains,Safety Equipment,Hard Hat Pack,Devon Ashworth,20,45709.0,30994.33
+2024-12-30,Great Lakes,Pumps,Diaphragm Pump D50,Hank Osgood,20,32236.2,16455.36
+2024-12-31,Mid-Atlantic,Valves,Gate Valve 4in,Hank Osgood,5,4167.85,2412.87
+2024-12-31,Pacific NW,Pumps,Centrifugal Pump A200,Devon Ashworth,20,36282.8,24567.4
+2025-01-03,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,23,29617.79,15903.98
+2025-01-05,Pacific NW,Pumps,Diaphragm Pump D50,Devon Ashworth,14,36099.14,24294.6
+2025-01-07,Gulf Coast,Valves,Ball Valve 2in,Layla Haddad,13,11478.74,6349.65
+2025-01-07,Mid-Atlantic,Motors,Servo Motor SX10,Devon Ashworth,22,30479.02,19218.96
+2025-01-09,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Layla Haddad,10,11552.9,7658.11
+2025-01-10,Central Plains,Motors,3-Phase Motor 5HP,Hank Osgood,7,10853.57,6118.57
+2025-01-11,Gulf Coast,Safety Equipment,Safety Harness Kit,Layla Haddad,15,20511.9,13760.09
+2025-01-11,Mid-Atlantic,Valves,Ball Valve 2in,Miriam Cole,18,11097.54,6899.87
+2025-01-12,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,4,2180.2,1239.95
+2025-01-13,Great Lakes,Safety Equipment,Hard Hat Pack,Miriam Cole,6,2223.24,1549.02
+2025-01-16,Mid-Atlantic,Safety Equipment,Safety Harness Kit,Miriam Cole,10,18377.6,9842.27
+2025-01-16,Pacific NW,Safety Equipment,Safety Harness Kit,Hank Osgood,10,3370.9,1985.9
+2025-01-17,Gulf Coast,Safety Equipment,Hard Hat Pack,Hank Osgood,25,60568.75,35842.9
+2025-01-18,Great Lakes,Safety Equipment,Hard Hat Pack,Hank Osgood,11,30174.87,20277.52
+2025-01-18,Mid-Atlantic,Pumps,Centrifugal Pump A200,Devon Ashworth,12,4292.64,2551.2
+2025-01-19,Pacific NW,Valves,Gate Valve 4in,Layla Haddad,20,41021.8,23894.54
+2025-01-20,Pacific NW,Safety Equipment,Hard Hat Pack,Layla Haddad,7,5947.9,3436.9
+2025-01-22,Mid-Atlantic,Pumps,Diaphragm Pump D50,Hank Osgood,20,44309.2,22375.47
+2025-01-22,Gulf Coast,Safety Equipment,Safety Harness Kit,Miriam Cole,18,17606.34,11401.4
+2025-01-24,Central Plains,Pumps,Diaphragm Pump D50,Layla Haddad,25,79265.25,40282.59
+2025-01-25,Mid-Atlantic,Pumps,Centrifugal Pump A200,Devon Ashworth,11,21492.02,11148.28
+2025-01-25,Gulf Coast,Safety Equipment,Safety Harness Kit,Devon Ashworth,13,12618.58,7988.68
+2025-01-27,Pacific NW,Safety Equipment,Hard Hat Pack,Devon Ashworth,3,3351.33,2181.55
+2025-01-27,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,17,4869.31,3239.24
+2025-01-27,Great Lakes,Pumps,Diaphragm Pump D50,Hank Osgood,3,2287.44,1479.94
+2025-01-28,Pacific NW,Safety Equipment,Safety Harness Kit,Devon Ashworth,12,31751.88,18825.53
+2025-01-28,Mid-Atlantic,Motors,Servo Motor SX10,Hank Osgood,23,70629.32,49217.3
+2025-01-30,Mid-Atlantic,Valves,Gate Valve 4in,Miriam Cole,5,4894.8,2915.54
+2025-01-30,Central Plains,Pumps,Diaphragm Pump D50,Hank Osgood,20,49202.8,30671.8
+2025-01-30,Central Plains,Motors,Servo Motor SX10,Hank Osgood,19,39311.38,20596.62
+2025-01-31,Great Lakes,Safety Equipment,Safety Harness Kit,Hank Osgood,25,72607.0,46231.14
+2025-01-31,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,21,59700.27,38056.61
+2025-02-03,Great Lakes,Motors,Servo Motor SX10,Miriam Cole,5,764.1,512.53
+2025-02-04,Central Plains,Pumps,Centrifugal Pump A200,Miriam Cole,23,32919.44,22188.94
+2025-02-04,Gulf Coast,Motors,Servo Motor SX10,Hank Osgood,11,25770.03,17306.38
+2025-02-06,Gulf Coast,Pumps,Centrifugal Pump A200,Miriam Cole,24,16656.24,11215.07
+2025-02-07,Central Plains,Pumps,Diaphragm Pump D50,Hank Osgood,1,1173.74,744.25
+2025-02-07,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Devon Ashworth,6,10068.48,5897.02
+2025-02-08,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Miriam Cole,15,28138.95,19018.22
+2025-02-09,Pacific NW,Valves,Gate Valve 4in,Miriam Cole,10,16109.8,10746.25
+2025-02-09,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,18,50529.96,33732.76
+2025-02-13,Gulf Coast,Motors,Servo Motor SX10,Miriam Cole,14,6024.9,3737.21
+2025-02-14,Pacific NW,Safety Equipment,Safety Harness Kit,Devon Ashworth,18,7669.08,4704.85
+2025-02-15,Mid-Atlantic,Pumps,Centrifugal Pump A200,Miriam Cole,3,3280.47,1946.8
+2025-02-17,Central Plains,Motors,3-Phase Motor 5HP,Devon Ashworth,6,9035.64,5346.27
+2025-02-18,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,15,3063.0,1567.11
+2025-02-18,Gulf Coast,Motors,Servo Motor SX10,Devon Ashworth,22,34565.52,22514.01
+2025-02-18,Great Lakes,Valves,Gate Valve 4in,Layla Haddad,16,40710.56,22953.07
+2025-02-19,Pacific NW,Motors,3-Phase Motor 5HP,Miriam Cole,25,16144.0,11151.32
+2025-02-19,Pacific NW,Pumps,Centrifugal Pump A200,Devon Ashworth,15,36670.05,24091.76
+2025-02-20,Gulf Coast,Motors,3-Phase Motor 5HP,Layla Haddad,7,8795.08,4661.71
+2025-02-22,Central Plains,Valves,Ball Valve 2in,Hank Osgood,14,44220.26,25982.88
+2025-02-28,Gulf Coast,Valves,Ball Valve 2in,Miriam Cole,19,29822.78,15612.59
+2025-03-01,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,11,30163.87,15738.86
+2025-03-04,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,4,2801.12,1583.36
+2025-03-04,Great Lakes,Pumps,Diaphragm Pump D50,Miriam Cole,23,49635.61,25858.82
+2025-03-05,Pacific NW,Valves,Gate Valve 4in,Miriam Cole,17,48836.24,31381.25
+2025-03-06,Central Plains,Motors,Servo Motor SX10,Hank Osgood,19,18397.7,9839.83
+2025-03-10,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,9,5221.8,3581.96
+2025-03-10,Central Plains,Valves,Gate Valve 4in,Layla Haddad,3,6122.55,3741.65
+2025-03-11,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,3,7023.63,4510.86
+2025-03-12,Pacific NW,Motors,3-Phase Motor 5HP,Hank Osgood,23,62752.05,42424.54
+2025-03-13,Gulf Coast,Valves,Ball Valve 2in,Layla Haddad,23,6685.41,4215.46
+2025-03-15,Central Plains,Valves,Gate Valve 4in,Devon Ashworth,15,18330.0,11576.18
+2025-03-15,Central Plains,Pumps,Diaphragm Pump D50,Miriam Cole,7,14840.84,9679.99
+2025-03-17,Central Plains,Pumps,Centrifugal Pump A200,Miriam Cole,6,11641.44,6860.35
+2025-03-18,Gulf Coast,Pumps,Centrifugal Pump A200,Devon Ashworth,15,39578.55,20124.67
+2025-03-20,Great Lakes,Safety Equipment,Safety Harness Kit,Devon Ashworth,3,6286.41,3758.14
+2025-03-20,Mid-Atlantic,Valves,Gate Valve 4in,Layla Haddad,17,51290.87,25874.9
+2025-03-21,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,13,38301.38,21748.44
+2025-03-21,Great Lakes,Pumps,Centrifugal Pump A200,Layla Haddad,18,40298.04,27484.76
+2025-03-23,Gulf Coast,Pumps,Centrifugal Pump A200,Hank Osgood,19,5697.72,3360.3
+2025-03-25,Great Lakes,Motors,Servo Motor SX10,Layla Haddad,8,20373.36,13629.18
+2025-03-26,Pacific NW,Pumps,Diaphragm Pump D50,Hank Osgood,23,46310.04,29577.95
+2025-03-26,Gulf Coast,Pumps,Centrifugal Pump A200,Hank Osgood,18,45440.1,25333.33
+2025-03-27,Central Plains,Safety Equipment,Hard Hat Pack,Miriam Cole,9,6072.21,3442.44
+2025-03-29,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,21,30821.49,18237.18
+2025-03-29,Gulf Coast,Motors,Servo Motor SX10,Layla Haddad,7,13051.22,7999.93
+2025-04-03,Gulf Coast,Valves,Gate Valve 4in,Devon Ashworth,4,1638.28,826.31
+2025-04-04,Pacific NW,Valves,Ball Valve 2in,Hank Osgood,12,33977.16,17207.86
+2025-04-04,Central Plains,Pumps,Centrifugal Pump A200,Hank Osgood,6,11652.78,6179.02
+2025-04-07,Great Lakes,Valves,Gate Valve 4in,Miriam Cole,25,49080.0,27298.49
+2025-04-08,Pacific NW,Valves,Ball Valve 2in,Layla Haddad,15,32685.9,17325.72
+2025-04-10,Great Lakes,Valves,Ball Valve 2in,Miriam Cole,12,24272.76,16257.11
+2025-04-10,Central Plains,Valves,Gate Valve 4in,Miriam Cole,21,66176.25,43678.45
+2025-04-11,Central Plains,Valves,Gate Valve 4in,Miriam Cole,7,4438.63,2643.72
+2025-04-13,Great Lakes,Safety Equipment,Safety Harness Kit,Layla Haddad,24,57321.84,37376.83
+2025-04-13,Pacific NW,Safety Equipment,Safety Harness Kit,Layla Haddad,8,11643.84,7966.48
+2025-04-14,Pacific NW,Safety Equipment,Safety Harness Kit,Miriam Cole,6,9901.56,6588.93
+2025-04-14,Mid-Atlantic,Motors,Servo Motor SX10,Devon Ashworth,12,17676.24,11739.22
+2025-04-18,Great Lakes,Pumps,Centrifugal Pump A200,Layla Haddad,15,29357.1,15302.45
+2025-04-19,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,4,9882.68,5527.29
+2025-04-24,Pacific NW,Motors,Servo Motor SX10,Devon Ashworth,4,6909.72,3721.8
+2025-04-24,Pacific NW,Motors,3-Phase Motor 5HP,Layla Haddad,9,8025.03,4047.21
+2025-04-24,Pacific NW,Safety Equipment,Safety Harness Kit,Hank Osgood,10,27009.4,14606.03
+2025-04-26,Mid-Atlantic,Pumps,Centrifugal Pump A200,Devon Ashworth,12,20096.76,12019.94
+2025-05-04,Great Lakes,Motors,3-Phase Motor 5HP,Layla Haddad,7,18582.48,12139.59
+2025-05-05,Great Lakes,Safety Equipment,Hard Hat Pack,Devon Ashworth,20,20940.2,12746.08
+2025-05-06,Gulf Coast,Pumps,Centrifugal Pump A200,Devon Ashworth,5,8357.95,5704.84
+2025-05-07,Mid-Atlantic,Valves,Gate Valve 4in,Layla Haddad,1,1105.74,683.09
+2025-05-08,Pacific NW,Valves,Gate Valve 4in,Layla Haddad,14,2051.28,1365.52
+2025-05-09,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,19,46062.65,25468.0
+2025-05-11,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,19,34153.07,23675.03
+2025-05-12,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Hank Osgood,24,28129.2,17149.9
+2025-05-14,Gulf Coast,Valves,Gate Valve 4in,Devon Ashworth,19,58209.73,30396.19
+2025-05-14,Pacific NW,Valves,Gate Valve 4in,Miriam Cole,13,4599.92,2559.9
+2025-05-16,Gulf Coast,Pumps,Centrifugal Pump A200,Devon Ashworth,3,2950.68,1946.73
+2025-05-16,Central Plains,Safety Equipment,Safety Harness Kit,Layla Haddad,5,11191.65,7823.3
+2025-05-17,Central Plains,Safety Equipment,Safety Harness Kit,Miriam Cole,13,1960.01,1074.54
+2025-05-17,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,6,11403.54,7457.4
+2025-05-18,Great Lakes,Pumps,Centrifugal Pump A200,Devon Ashworth,12,36640.8,20125.49
+2025-05-21,Mid-Atlantic,Valves,Gate Valve 4in,Hank Osgood,22,46125.64,25711.85
+2025-05-23,Mid-Atlantic,Motors,3-Phase Motor 5HP,Layla Haddad,1,1383.48,715.19
+2025-05-24,Gulf Coast,Safety Equipment,Hard Hat Pack,Devon Ashworth,7,11173.89,6786.78
+2025-05-29,Gulf Coast,Valves,Gate Valve 4in,Hank Osgood,16,45179.68,23202.42
+2025-05-30,Pacific NW,Valves,Ball Valve 2in,Miriam Cole,9,23855.49,12491.07
+2025-06-01,Gulf Coast,Motors,Servo Motor SX10,Layla Haddad,10,15048.4,8981.76
+2025-06-02,Central Plains,Motors,Servo Motor SX10,Devon Ashworth,24,17726.88,11290.73
+2025-06-02,Mid-Atlantic,Motors,3-Phase Motor 5HP,Hank Osgood,16,14979.84,9416.72
+2025-06-04,Central Plains,Pumps,Diaphragm Pump D50,Devon Ashworth,5,4272.15,2242.82
+2025-06-05,Gulf Coast,Safety Equipment,Safety Harness Kit,Devon Ashworth,17,42273.73,26816.98
+2025-06-05,Mid-Atlantic,Motors,3-Phase Motor 5HP,Layla Haddad,24,22192.8,13156.55
+2025-06-09,Pacific NW,Valves,Gate Valve 4in,Devon Ashworth,24,30856.8,21513.5
+2025-06-10,Great Lakes,Motors,3-Phase Motor 5HP,Miriam Cole,4,12194.48,8371.35
+2025-06-12,Great Lakes,Valves,Gate Valve 4in,Miriam Cole,22,34841.18,17724.7
+2025-06-12,Mid-Atlantic,Motors,3-Phase Motor 5HP,Miriam Cole,22,63652.16,41901.21
+2025-06-17,Mid-Atlantic,Valves,Ball Valve 2in,Miriam Cole,18,20131.74,10156.89
+2025-06-19,Mid-Atlantic,Pumps,Centrifugal Pump A200,Layla Haddad,13,15178.02,7659.51
+2025-06-20,Mid-Atlantic,Motors,Servo Motor SX10,Layla Haddad,16,24127.04,12339.81
+2025-06-20,Gulf Coast,Safety Equipment,Safety Harness Kit,Miriam Cole,6,5588.88,3076.02
+2025-06-21,Central Plains,Safety Equipment,Safety Harness Kit,Miriam Cole,12,33156.96,19756.28
+2025-06-23,Pacific NW,Pumps,Diaphragm Pump D50,Miriam Cole,18,22712.58,15058.55
+2025-06-24,Pacific NW,Motors,3-Phase Motor 5HP,Hank Osgood,21,12857.88,7073.02
+2025-06-27,Gulf Coast,Motors,Servo Motor SX10,Layla Haddad,1,1642.69,910.57
+2025-07-03,Gulf Coast,Valves,Ball Valve 2in,Miriam Cole,10,4831.7,3245.45
+2025-07-05,Great Lakes,Pumps,Centrifugal Pump A200,Layla Haddad,9,19316.43,10833.69
+2025-07-05,Pacific NW,Pumps,Diaphragm Pump D50,Layla Haddad,15,40201.65,20637.31
+2025-07-06,Great Lakes,Valves,Gate Valve 4in,Devon Ashworth,10,21919.6,11553.77
+2025-07-07,Central Plains,Valves,Gate Valve 4in,Devon Ashworth,24,14981.04,9605.7
+2025-07-07,Central Plains,Valves,Gate Valve 4in,Hank Osgood,18,25085.16,16333.93
+2025-07-08,Central Plains,Motors,3-Phase Motor 5HP,Layla Haddad,2,986.1,588.71
+2025-07-08,Mid-Atlantic,Pumps,Centrifugal Pump A200,Hank Osgood,23,39781.26,26889.55
+2025-07-09,Central Plains,Valves,Ball Valve 2in,Miriam Cole,6,11853.6,8245.19
+2025-07-13,Pacific NW,Valves,Gate Valve 4in,Devon Ashworth,18,6886.44,4079.48
+2025-07-14,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,24,1768.56,1210.43
+2025-07-19,Mid-Atlantic,Safety Equipment,Hard Hat Pack,Layla Haddad,16,49536.48,28660.14
+2025-07-19,Great Lakes,Motors,Servo Motor SX10,Hank Osgood,17,49805.41,25896.01
+2025-07-24,Central Plains,Valves,Gate Valve 4in,Miriam Cole,11,24524.39,13902.15
+2025-07-24,Central Plains,Motors,Servo Motor SX10,Miriam Cole,1,846.32,548.38
+2025-07-26,Great Lakes,Safety Equipment,Hard Hat Pack,Layla Haddad,16,28337.76,19444.91
+2025-07-26,Great Lakes,Motors,3-Phase Motor 5HP,Devon Ashworth,24,34481.52,21612.47
+2025-07-29,Great Lakes,Pumps,Diaphragm Pump D50,Devon Ashworth,12,9740.76,6717.2
+2025-07-31,Pacific NW,Pumps,Centrifugal Pump A200,Layla Haddad,5,5404.1,3402.25

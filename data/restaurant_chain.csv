@@ -1,0 +1,901 @@
+Date,Region,Category,Product,Salesperson,Units,Revenue,Cost
+2025-01-01,Suburbs,Beverages,House Wine,Server: Maya,5,131.2,51.59
+2025-01-01,Mall Location,Desserts,Cheesecake,Server: Priya,4,135.08,38.51
+2025-01-01,Uptown,Appetizers,Bruschetta,Server: Elin,1,7.47,2.13
+2025-01-01,Uptown,Appetizers,Loaded Nachos,Server: Maya,3,99.9,37.67
+2025-01-01,Mall Location,Appetizers,Loaded Nachos,Server: Priya,4,75.36,26.65
+2025-01-01,Mall Location,Desserts,Chocolate Lava Cake,Server: Elin,6,86.34,25.4
+2025-01-02,Airport,Appetizers,Calamari,Server: Jonah,3,98.97,33.71
+2025-01-02,Uptown,Appetizers,Calamari,Server: Priya,2,40.46,12.32
+2025-01-02,Mall Location,Entrees,Ribeye Steak,Server: Jonah,1,25.31,9.76
+2025-01-02,Downtown,Desserts,Tiramisu,Server: Elin,2,10.88,3.91
+2025-01-02,Downtown,Desserts,Tiramisu,Server: Jonah,3,68.46,23.83
+2025-01-02,Airport,Entrees,Grilled Salmon,Server: Priya,5,86.35,31.1
+2025-01-03,Downtown,Entrees,Grilled Salmon,Server: Diego,4,24.6,8.18
+2025-01-03,Downtown,Beverages,Iced Tea,Server: Diego,6,92.82,34.41
+2025-01-03,Uptown,Beverages,Espresso,Server: Elin,2,20.9,6.18
+2025-01-04,Mall Location,Beverages,Iced Tea,Server: Jonah,2,68.7,24.91
+2025-01-04,Suburbs,Appetizers,Calamari,Server: Diego,4,51.8,19.71
+2025-01-05,Mall Location,Beverages,Espresso,Server: Maya,2,69.8,22.26
+2025-01-05,Uptown,Beverages,Espresso,Server: Diego,4,141.08,53.81
+2025-01-06,Suburbs,Beverages,Iced Tea,Server: Diego,2,11.44,3.98
+2025-01-06,Mall Location,Entrees,Veggie Burger,Server: Maya,2,72.96,23.29
+2025-01-06,Downtown,Entrees,Grilled Salmon,Server: Maya,5,186.7,57.16
+2025-01-06,Uptown,Entrees,Chicken Alfredo,Server: Priya,3,53.52,15.03
+2025-01-07,Suburbs,Desserts,Tiramisu,Server: Diego,2,35.44,12.78
+2025-01-07,Suburbs,Desserts,Cheesecake,Server: Diego,1,35.69,10.71
+2025-01-07,Downtown,Beverages,Espresso,Server: Maya,3,129.51,44.22
+2025-01-07,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,5,121.15,37.23
+2025-01-07,Uptown,Beverages,Espresso,Server: Jonah,6,67.62,21.64
+2025-01-08,Uptown,Entrees,Ribeye Steak,Server: Elin,1,33.96,11.4
+2025-01-08,Downtown,Appetizers,Calamari,Server: Elin,3,76.89,29.2
+2025-01-08,Airport,Appetizers,Bruschetta,Server: Diego,2,52.48,20.93
+2025-01-08,Uptown,Beverages,Craft Beer,Server: Priya,1,30.42,11.93
+2025-01-08,Suburbs,Entrees,Veggie Burger,Server: Maya,2,51.9,16.2
+2025-01-08,Mall Location,Beverages,Espresso,Server: Diego,1,37.33,13.3
+2025-01-09,Uptown,Entrees,Grilled Salmon,Server: Maya,2,37.98,11.34
+2025-01-10,Uptown,Beverages,Iced Tea,Server: Priya,2,22.66,7.11
+2025-01-10,Downtown,Desserts,Cheesecake,Server: Maya,4,67.4,21.86
+2025-01-10,Airport,Desserts,Tiramisu,Server: Priya,1,41.55,16.47
+2025-01-10,Uptown,Beverages,Craft Beer,Server: Diego,2,33.38,12.76
+2025-01-10,Downtown,Entrees,Ribeye Steak,Server: Jonah,4,82.68,31.74
+2025-01-10,Suburbs,Appetizers,Loaded Nachos,Server: Priya,5,152.8,55.68
+2025-01-11,Downtown,Beverages,Craft Beer,Server: Maya,1,30.04,8.62
+2025-01-11,Suburbs,Beverages,Craft Beer,Server: Diego,5,37.65,11.44
+2025-01-12,Mall Location,Beverages,Espresso,Server: Maya,5,120.9,38.29
+2025-01-12,Downtown,Beverages,Espresso,Server: Maya,5,181.3,58.65
+2025-01-13,Mall Location,Desserts,Tiramisu,Server: Maya,2,79.74,23.98
+2025-01-13,Uptown,Appetizers,Bruschetta,Server: Elin,5,29.95,10.56
+2025-01-13,Suburbs,Entrees,Grilled Salmon,Server: Priya,4,72.68,21.51
+2025-01-13,Airport,Desserts,Chocolate Lava Cake,Server: Elin,2,59.98,17.53
+2025-01-13,Mall Location,Beverages,House Wine,Server: Elin,3,32.97,10.48
+2025-01-14,Suburbs,Entrees,Veggie Burger,Server: Elin,1,4.21,1.41
+2025-01-14,Downtown,Entrees,Ribeye Steak,Server: Maya,6,76.92,23.35
+2025-01-14,Mall Location,Appetizers,Calamari,Server: Diego,5,80.25,23.59
+2025-01-14,Uptown,Entrees,Veggie Burger,Server: Maya,4,94.12,31.2
+2025-01-15,Downtown,Appetizers,Bruschetta,Server: Jonah,5,168.35,63.44
+2025-01-17,Airport,Beverages,Iced Tea,Server: Priya,1,20.92,7.4
+2025-01-17,Suburbs,Desserts,Chocolate Lava Cake,Server: Diego,5,182.3,53.44
+2025-01-17,Downtown,Desserts,Chocolate Lava Cake,Server: Priya,6,143.82,45.64
+2025-01-18,Suburbs,Appetizers,Loaded Nachos,Server: Elin,6,133.68,49.77
+2025-01-18,Airport,Beverages,Espresso,Server: Diego,1,39.35,15.59
+2025-01-18,Suburbs,Desserts,Cheesecake,Server: Jonah,4,77.44,21.94
+2025-01-19,Uptown,Appetizers,Loaded Nachos,Server: Elin,6,55.44,19.87
+2025-01-19,Suburbs,Desserts,Cheesecake,Server: Jonah,3,32.97,10.43
+2025-01-19,Downtown,Appetizers,Calamari,Server: Jonah,5,198.8,77.34
+2025-01-19,Airport,Appetizers,Bruschetta,Server: Maya,4,131.48,44.88
+2025-01-20,Mall Location,Beverages,House Wine,Server: Diego,6,240.42,77.3
+2025-01-20,Suburbs,Beverages,Craft Beer,Server: Diego,3,103.5,31.74
+2025-01-20,Suburbs,Entrees,Veggie Burger,Server: Diego,1,17.27,6.15
+2025-01-20,Downtown,Desserts,Chocolate Lava Cake,Server: Maya,4,57.36,20.19
+2025-01-21,Suburbs,Entrees,Ribeye Steak,Server: Priya,6,135.0,42.42
+2025-01-21,Suburbs,Beverages,Iced Tea,Server: Maya,5,21.95,6.89
+2025-01-21,Airport,Desserts,Chocolate Lava Cake,Server: Priya,2,88.74,32.01
+2025-01-21,Mall Location,Entrees,Ribeye Steak,Server: Elin,4,143.24,53.06
+2025-01-21,Uptown,Entrees,Ribeye Steak,Server: Jonah,5,42.55,15.72
+2025-01-21,Uptown,Appetizers,Loaded Nachos,Server: Priya,5,39.35,14.57
+2025-01-21,Suburbs,Desserts,Cheesecake,Server: Priya,4,16.84,5.7
+2025-01-21,Airport,Beverages,House Wine,Server: Elin,4,179.8,69.56
+2025-01-22,Downtown,Entrees,Grilled Salmon,Server: Diego,1,32.66,10.47
+2025-01-23,Downtown,Desserts,Tiramisu,Server: Elin,1,17.24,6.12
+2025-01-24,Airport,Desserts,Cheesecake,Server: Diego,6,182.1,56.36
+2025-01-25,Uptown,Entrees,Chicken Alfredo,Server: Maya,5,191.4,67.79
+2025-01-25,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,3,70.53,19.96
+2025-01-25,Mall Location,Appetizers,Calamari,Server: Jonah,3,127.38,47.15
+2025-01-26,Airport,Beverages,Craft Beer,Server: Jonah,1,9.46,3.16
+2025-01-26,Airport,Appetizers,Loaded Nachos,Server: Maya,5,207.55,65.86
+2025-01-26,Mall Location,Appetizers,Bruschetta,Server: Diego,6,178.14,67.5
+2025-01-26,Uptown,Appetizers,Bruschetta,Server: Jonah,6,41.04,16.0
+2025-01-27,Suburbs,Desserts,Cheesecake,Server: Jonah,5,127.9,43.81
+2025-01-27,Suburbs,Appetizers,Loaded Nachos,Server: Priya,3,88.65,26.45
+2025-01-27,Downtown,Appetizers,Loaded Nachos,Server: Priya,3,29.82,10.84
+2025-01-28,Mall Location,Beverages,Craft Beer,Server: Elin,1,39.36,13.3
+2025-01-28,Uptown,Beverages,Espresso,Server: Maya,6,229.8,79.25
+2025-01-28,Suburbs,Desserts,Chocolate Lava Cake,Server: Elin,3,106.17,36.36
+2025-01-28,Mall Location,Beverages,Espresso,Server: Elin,2,44.88,16.24
+2025-01-28,Downtown,Beverages,Espresso,Server: Maya,6,40.44,15.28
+2025-01-29,Suburbs,Beverages,House Wine,Server: Jonah,4,151.4,43.18
+2025-01-30,Mall Location,Desserts,Chocolate Lava Cake,Server: Diego,1,41.24,12.52
+2025-01-30,Mall Location,Entrees,Veggie Burger,Server: Priya,5,63.5,24.24
+2025-01-31,Mall Location,Beverages,Craft Beer,Server: Priya,1,6.21,2.04
+2025-01-31,Downtown,Appetizers,Bruschetta,Server: Elin,3,29.52,9.58
+2025-01-31,Uptown,Entrees,Veggie Burger,Server: Elin,4,43.12,12.5
+2025-01-31,Uptown,Beverages,House Wine,Server: Diego,2,63.9,18.0
+2025-01-31,Downtown,Appetizers,Bruschetta,Server: Priya,6,238.2,85.55
+2025-01-31,Airport,Appetizers,Calamari,Server: Diego,2,39.02,11.84
+2025-02-01,Mall Location,Beverages,Espresso,Server: Elin,4,75.8,22.13
+2025-02-01,Downtown,Beverages,Iced Tea,Server: Elin,6,72.6,23.04
+2025-02-01,Mall Location,Desserts,Tiramisu,Server: Priya,4,75.84,26.36
+2025-02-02,Mall Location,Beverages,House Wine,Server: Elin,2,88.88,29.11
+2025-02-02,Suburbs,Entrees,Grilled Salmon,Server: Jonah,2,73.14,29.05
+2025-02-02,Uptown,Desserts,Cheesecake,Server: Priya,5,39.65,15.74
+2025-02-02,Airport,Appetizers,Calamari,Server: Elin,3,87.99,26.24
+2025-02-02,Suburbs,Beverages,Espresso,Server: Jonah,4,138.16,40.16
+2025-02-03,Mall Location,Desserts,Tiramisu,Server: Jonah,4,117.28,41.41
+2025-02-04,Mall Location,Beverages,Craft Beer,Server: Diego,6,63.3,23.09
+2025-02-04,Mall Location,Desserts,Tiramisu,Server: Elin,1,23.44,8.89
+2025-02-04,Suburbs,Entrees,Veggie Burger,Server: Jonah,4,107.4,33.08
+2025-02-04,Mall Location,Beverages,Iced Tea,Server: Jonah,2,31.26,10.97
+2025-02-04,Uptown,Entrees,Ribeye Steak,Server: Diego,6,124.8,37.21
+2025-02-04,Uptown,Entrees,Grilled Salmon,Server: Diego,1,43.79,16.53
+2025-02-05,Mall Location,Beverages,Craft Beer,Server: Diego,2,33.34,12.63
+2025-02-05,Suburbs,Beverages,Iced Tea,Server: Diego,2,33.7,9.52
+2025-02-06,Mall Location,Entrees,Grilled Salmon,Server: Jonah,4,78.4,22.58
+2025-02-06,Suburbs,Appetizers,Loaded Nachos,Server: Maya,4,40.92,16.05
+2025-02-06,Uptown,Appetizers,Calamari,Server: Maya,5,138.15,47.4
+2025-02-06,Airport,Desserts,Chocolate Lava Cake,Server: Diego,1,39.42,11.06
+2025-02-07,Airport,Desserts,Chocolate Lava Cake,Server: Elin,5,41.25,15.93
+2025-02-07,Mall Location,Desserts,Cheesecake,Server: Priya,5,156.0,51.62
+2025-02-07,Airport,Entrees,Veggie Burger,Server: Elin,4,105.72,40.15
+2025-02-07,Mall Location,Desserts,Cheesecake,Server: Priya,1,18.78,6.88
+2025-02-07,Airport,Desserts,Chocolate Lava Cake,Server: Elin,2,65.94,23.01
+2025-02-07,Uptown,Desserts,Chocolate Lava Cake,Server: Diego,4,86.48,28.75
+2025-02-08,Mall Location,Desserts,Chocolate Lava Cake,Server: Priya,5,40.05,14.82
+2025-02-08,Downtown,Desserts,Cheesecake,Server: Elin,2,26.38,8.26
+2025-02-08,Downtown,Appetizers,Loaded Nachos,Server: Priya,5,168.35,51.8
+2025-02-08,Downtown,Desserts,Cheesecake,Server: Elin,6,187.32,61.25
+2025-02-09,Downtown,Appetizers,Bruschetta,Server: Diego,5,185.0,68.14
+2025-02-10,Mall Location,Appetizers,Loaded Nachos,Server: Elin,4,33.08,10.66
+2025-02-10,Airport,Entrees,Ribeye Steak,Server: Jonah,2,59.34,17.24
+2025-02-10,Mall Location,Entrees,Veggie Burger,Server: Elin,3,47.97,19.06
+2025-02-11,Mall Location,Entrees,Chicken Alfredo,Server: Elin,2,38.34,11.26
+2025-02-11,Uptown,Desserts,Tiramisu,Server: Diego,6,97.32,38.17
+2025-02-11,Uptown,Appetizers,Bruschetta,Server: Maya,3,94.41,27.79
+2025-02-11,Downtown,Desserts,Chocolate Lava Cake,Server: Diego,5,165.1,46.7
+2025-02-12,Mall Location,Beverages,Espresso,Server: Jonah,5,83.25,30.38
+2025-02-12,Uptown,Entrees,Veggie Burger,Server: Diego,1,42.07,12.58
+2025-02-12,Suburbs,Beverages,House Wine,Server: Diego,5,148.95,51.81
+2025-02-12,Airport,Appetizers,Loaded Nachos,Server: Jonah,2,23.62,9.04
+2025-02-13,Suburbs,Desserts,Cheesecake,Server: Elin,5,76.3,24.71
+2025-02-13,Mall Location,Beverages,House Wine,Server: Maya,5,22.4,7.69
+2025-02-13,Uptown,Desserts,Tiramisu,Server: Jonah,6,142.74,49.46
+2025-02-13,Downtown,Desserts,Cheesecake,Server: Jonah,1,32.82,9.49
+2025-02-13,Uptown,Desserts,Tiramisu,Server: Jonah,1,13.36,4.27
+2025-02-14,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,4,140.32,40.43
+2025-02-14,Uptown,Appetizers,Loaded Nachos,Server: Elin,5,186.8,68.86
+2025-02-14,Downtown,Desserts,Chocolate Lava Cake,Server: Jonah,2,70.42,24.45
+2025-02-15,Mall Location,Desserts,Cheesecake,Server: Diego,5,34.45,10.59
+2025-02-15,Suburbs,Appetizers,Loaded Nachos,Server: Maya,4,33.4,13.09
+2025-02-15,Downtown,Appetizers,Bruschetta,Server: Priya,2,61.36,18.02
+2025-02-16,Downtown,Appetizers,Bruschetta,Server: Elin,4,22.08,6.33
+2025-02-16,Suburbs,Desserts,Chocolate Lava Cake,Server: Maya,3,48.63,18.48
+2025-02-16,Mall Location,Appetizers,Bruschetta,Server: Priya,4,166.76,47.77
+2025-02-17,Uptown,Beverages,Espresso,Server: Priya,3,123.78,39.18
+2025-02-18,Mall Location,Beverages,House Wine,Server: Maya,6,198.9,61.0
+2025-02-18,Suburbs,Beverages,Espresso,Server: Maya,3,30.9,11.18
+2025-02-18,Mall Location,Entrees,Chicken Alfredo,Server: Elin,3,59.19,20.54
+2025-02-18,Uptown,Desserts,Cheesecake,Server: Jonah,6,102.0,30.12
+2025-02-19,Mall Location,Appetizers,Calamari,Server: Elin,4,159.64,63.21
+2025-02-19,Downtown,Beverages,Espresso,Server: Elin,1,33.68,10.5
+2025-02-19,Airport,Entrees,Chicken Alfredo,Server: Elin,5,218.35,65.52
+2025-02-19,Uptown,Beverages,House Wine,Server: Diego,2,38.66,14.01
+2025-02-19,Airport,Desserts,Tiramisu,Server: Diego,5,203.35,77.76
+2025-02-20,Suburbs,Appetizers,Loaded Nachos,Server: Priya,6,131.52,40.91
+2025-02-20,Uptown,Appetizers,Bruschetta,Server: Diego,6,93.06,26.73
+2025-02-20,Suburbs,Entrees,Ribeye Steak,Server: Priya,4,165.56,48.07
+2025-02-20,Downtown,Entrees,Chicken Alfredo,Server: Elin,5,125.55,46.62
+2025-02-20,Uptown,Desserts,Tiramisu,Server: Maya,2,70.24,24.43
+2025-02-21,Downtown,Desserts,Chocolate Lava Cake,Server: Elin,6,218.1,64.78
+2025-02-21,Airport,Desserts,Tiramisu,Server: Priya,5,95.15,36.53
+2025-02-21,Mall Location,Beverages,Iced Tea,Server: Elin,5,26.35,9.3
+2025-02-21,Downtown,Appetizers,Loaded Nachos,Server: Diego,5,163.2,48.07
+2025-02-21,Suburbs,Beverages,Iced Tea,Server: Maya,5,194.8,70.21
+2025-02-22,Mall Location,Beverages,House Wine,Server: Elin,5,167.15,64.31
+2025-02-22,Mall Location,Beverages,Craft Beer,Server: Priya,5,27.2,8.18
+2025-02-22,Uptown,Desserts,Tiramisu,Server: Diego,5,72.0,21.61
+2025-02-23,Suburbs,Desserts,Chocolate Lava Cake,Server: Diego,4,131.28,52.29
+2025-02-23,Mall Location,Entrees,Ribeye Steak,Server: Maya,4,177.44,53.22
+2025-02-23,Airport,Beverages,Craft Beer,Server: Jonah,6,159.78,49.46
+2025-02-23,Airport,Desserts,Cheesecake,Server: Diego,2,49.44,19.62
+2025-02-24,Downtown,Appetizers,Bruschetta,Server: Maya,2,30.22,11.21
+2025-02-25,Downtown,Appetizers,Calamari,Server: Jonah,4,107.4,34.86
+2025-02-25,Uptown,Appetizers,Bruschetta,Server: Priya,6,78.12,23.1
+2025-02-25,Uptown,Appetizers,Loaded Nachos,Server: Diego,1,29.11,9.17
+2025-02-25,Uptown,Beverages,House Wine,Server: Elin,2,77.1,24.34
+2025-02-25,Downtown,Entrees,Chicken Alfredo,Server: Jonah,6,134.22,53.63
+2025-02-25,Downtown,Beverages,Espresso,Server: Priya,3,96.21,36.09
+2025-02-25,Suburbs,Appetizers,Loaded Nachos,Server: Priya,4,133.84,47.13
+2025-02-25,Downtown,Beverages,House Wine,Server: Jonah,5,129.8,39.58
+2025-02-25,Downtown,Appetizers,Calamari,Server: Diego,2,71.12,21.28
+2025-02-26,Suburbs,Beverages,House Wine,Server: Elin,4,162.44,63.07
+2025-02-26,Uptown,Desserts,Tiramisu,Server: Priya,6,171.0,50.13
+2025-02-27,Suburbs,Entrees,Veggie Burger,Server: Elin,3,94.77,29.76
+2025-02-27,Uptown,Appetizers,Loaded Nachos,Server: Elin,4,164.28,61.09
+2025-02-27,Mall Location,Appetizers,Calamari,Server: Maya,5,146.5,43.24
+2025-02-27,Mall Location,Appetizers,Loaded Nachos,Server: Elin,6,229.2,69.9
+2025-02-27,Airport,Entrees,Veggie Burger,Server: Priya,3,90.06,33.58
+2025-02-28,Mall Location,Beverages,Iced Tea,Server: Diego,2,15.22,4.57
+2025-02-28,Uptown,Entrees,Ribeye Steak,Server: Elin,2,83.66,24.58
+2025-02-28,Downtown,Appetizers,Bruschetta,Server: Diego,4,85.24,24.33
+2025-02-28,Mall Location,Beverages,Espresso,Server: Diego,3,77.16,26.18
+2025-02-28,Mall Location,Beverages,Espresso,Server: Maya,5,169.65,58.49
+2025-03-01,Airport,Appetizers,Bruschetta,Server: Jonah,2,22.62,7.22
+2025-03-01,Downtown,Entrees,Veggie Burger,Server: Priya,5,187.9,52.96
+2025-03-01,Uptown,Desserts,Cheesecake,Server: Maya,2,24.84,7.11
+2025-03-01,Airport,Desserts,Chocolate Lava Cake,Server: Diego,3,36.99,12.34
+2025-03-02,Suburbs,Desserts,Chocolate Lava Cake,Server: Maya,4,111.36,39.12
+2025-03-02,Airport,Beverages,Craft Beer,Server: Jonah,1,36.77,11.33
+2025-03-02,Airport,Appetizers,Bruschetta,Server: Diego,3,118.8,46.7
+2025-03-02,Airport,Desserts,Cheesecake,Server: Maya,6,126.72,49.89
+2025-03-02,Downtown,Entrees,Ribeye Steak,Server: Elin,2,61.46,22.47
+2025-03-03,Mall Location,Entrees,Veggie Burger,Server: Maya,2,34.34,11.01
+2025-03-03,Airport,Appetizers,Loaded Nachos,Server: Elin,1,33.44,12.94
+2025-03-03,Mall Location,Beverages,Espresso,Server: Elin,5,42.5,13.71
+2025-03-03,Mall Location,Desserts,Cheesecake,Server: Jonah,3,120.27,45.42
+2025-03-03,Suburbs,Beverages,Iced Tea,Server: Diego,1,28.06,9.11
+2025-03-03,Mall Location,Appetizers,Bruschetta,Server: Elin,6,135.66,52.05
+2025-03-03,Airport,Beverages,Espresso,Server: Diego,1,32.87,10.38
+2025-03-04,Uptown,Entrees,Ribeye Steak,Server: Diego,2,53.5,19.76
+2025-03-04,Airport,Beverages,Espresso,Server: Elin,5,69.45,23.31
+2025-03-04,Airport,Entrees,Grilled Salmon,Server: Elin,3,101.67,39.47
+2025-03-04,Mall Location,Entrees,Ribeye Steak,Server: Diego,3,126.99,36.62
+2025-03-04,Suburbs,Desserts,Tiramisu,Server: Priya,5,71.85,25.89
+2025-03-05,Uptown,Appetizers,Bruschetta,Server: Diego,3,83.94,25.39
+2025-03-06,Downtown,Appetizers,Calamari,Server: Priya,5,151.5,42.95
+2025-03-06,Suburbs,Desserts,Chocolate Lava Cake,Server: Maya,6,26.52,10.4
+2025-03-06,Uptown,Desserts,Cheesecake,Server: Elin,1,44.33,16.17
+2025-03-06,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,3,132.42,52.0
+2025-03-07,Airport,Beverages,Craft Beer,Server: Maya,1,36.7,14.2
+2025-03-08,Uptown,Appetizers,Calamari,Server: Elin,1,7.17,2.41
+2025-03-08,Uptown,Entrees,Veggie Burger,Server: Jonah,2,30.62,10.99
+2025-03-08,Uptown,Entrees,Ribeye Steak,Server: Maya,2,88.86,35.52
+2025-03-09,Downtown,Entrees,Chicken Alfredo,Server: Diego,3,102.18,39.98
+2025-03-09,Mall Location,Appetizers,Bruschetta,Server: Diego,1,27.23,8.86
+2025-03-09,Mall Location,Desserts,Cheesecake,Server: Priya,6,225.84,79.76
+2025-03-09,Suburbs,Appetizers,Bruschetta,Server: Maya,5,210.3,65.4
+2025-03-10,Suburbs,Entrees,Ribeye Steak,Server: Priya,1,25.96,7.56
+2025-03-10,Mall Location,Appetizers,Calamari,Server: Priya,5,224.45,87.62
+2025-03-11,Suburbs,Appetizers,Bruschetta,Server: Elin,2,52.6,15.62
+2025-03-11,Mall Location,Entrees,Ribeye Steak,Server: Jonah,3,70.11,27.01
+2025-03-11,Mall Location,Beverages,Craft Beer,Server: Diego,1,42.31,13.69
+2025-03-11,Uptown,Beverages,Espresso,Server: Maya,5,98.95,31.23
+2025-03-11,Downtown,Entrees,Grilled Salmon,Server: Diego,2,50.98,14.37
+2025-03-12,Airport,Desserts,Cheesecake,Server: Diego,4,90.84,36.21
+2025-03-13,Mall Location,Desserts,Cheesecake,Server: Jonah,4,176.36,68.63
+2025-03-13,Suburbs,Appetizers,Calamari,Server: Jonah,6,112.5,38.84
+2025-03-14,Airport,Desserts,Cheesecake,Server: Diego,2,73.46,29.05
+2025-03-14,Uptown,Entrees,Veggie Burger,Server: Priya,6,162.6,49.54
+2025-03-14,Suburbs,Desserts,Tiramisu,Server: Maya,6,42.12,13.69
+2025-03-14,Uptown,Entrees,Chicken Alfredo,Server: Diego,6,44.7,14.51
+2025-03-14,Airport,Appetizers,Calamari,Server: Diego,2,35.24,12.19
+2025-03-14,Mall Location,Appetizers,Calamari,Server: Priya,1,17.93,5.56
+2025-03-14,Uptown,Entrees,Chicken Alfredo,Server: Elin,6,51.18,16.67
+2025-03-15,Downtown,Entrees,Chicken Alfredo,Server: Jonah,3,19.02,7.49
+2025-03-15,Mall Location,Beverages,Espresso,Server: Jonah,3,46.29,17.67
+2025-03-15,Uptown,Beverages,Iced Tea,Server: Priya,3,70.65,20.26
+2025-03-15,Mall Location,Desserts,Cheesecake,Server: Elin,3,16.98,6.54
+2025-03-15,Downtown,Appetizers,Calamari,Server: Diego,1,22.09,8.25
+2025-03-16,Downtown,Appetizers,Calamari,Server: Priya,5,167.95,66.44
+2025-03-16,Airport,Entrees,Veggie Burger,Server: Jonah,4,32.92,10.65
+2025-03-17,Downtown,Desserts,Chocolate Lava Cake,Server: Priya,2,16.64,5.05
+2025-03-18,Uptown,Entrees,Chicken Alfredo,Server: Diego,3,13.68,5.32
+2025-03-18,Suburbs,Entrees,Chicken Alfredo,Server: Diego,5,159.65,58.35
+2025-03-18,Suburbs,Beverages,Iced Tea,Server: Maya,4,119.64,41.78
+2025-03-18,Uptown,Desserts,Chocolate Lava Cake,Server: Elin,2,31.0,12.03
+2025-03-18,Mall Location,Entrees,Chicken Alfredo,Server: Maya,5,193.0,62.68
+2025-03-18,Uptown,Beverages,Craft Beer,Server: Priya,1,11.79,3.67
+2025-03-18,Downtown,Appetizers,Bruschetta,Server: Jonah,5,171.8,48.85
+2025-03-19,Uptown,Beverages,House Wine,Server: Maya,2,61.46,20.82
+2025-03-19,Uptown,Beverages,Craft Beer,Server: Elin,4,25.16,9.17
+2025-03-19,Mall Location,Desserts,Cheesecake,Server: Priya,6,45.6,15.54
+2025-03-19,Downtown,Beverages,Espresso,Server: Jonah,5,81.55,31.64
+2025-03-19,Airport,Desserts,Tiramisu,Server: Jonah,5,96.25,28.92
+2025-03-19,Airport,Appetizers,Loaded Nachos,Server: Elin,1,15.36,5.38
+2025-03-20,Downtown,Beverages,Espresso,Server: Diego,6,207.18,58.16
+2025-03-20,Downtown,Desserts,Cheesecake,Server: Diego,1,5.02,1.44
+2025-03-21,Downtown,Beverages,Craft Beer,Server: Maya,6,248.64,93.37
+2025-03-21,Downtown,Entrees,Chicken Alfredo,Server: Elin,3,120.03,43.42
+2025-03-22,Airport,Desserts,Cheesecake,Server: Maya,1,18.95,5.83
+2025-03-22,Airport,Entrees,Ribeye Steak,Server: Jonah,6,113.04,32.81
+2025-03-22,Uptown,Beverages,Iced Tea,Server: Diego,4,39.04,11.73
+2025-03-22,Mall Location,Entrees,Chicken Alfredo,Server: Maya,2,81.86,29.16
+2025-03-23,Airport,Entrees,Chicken Alfredo,Server: Diego,5,180.55,68.47
+2025-03-23,Suburbs,Beverages,House Wine,Server: Jonah,1,20.15,5.68
+2025-03-23,Suburbs,Entrees,Grilled Salmon,Server: Maya,6,50.7,15.12
+2025-03-23,Uptown,Appetizers,Loaded Nachos,Server: Maya,2,43.66,15.57
+2025-03-23,Suburbs,Beverages,Craft Beer,Server: Priya,5,45.65,16.28
+2025-03-23,Airport,Appetizers,Calamari,Server: Diego,1,25.48,8.02
+2025-03-24,Mall Location,Entrees,Grilled Salmon,Server: Maya,3,108.18,41.36
+2025-03-24,Downtown,Beverages,Espresso,Server: Diego,1,16.44,5.87
+2025-03-24,Mall Location,Entrees,Veggie Burger,Server: Maya,6,103.26,37.33
+2025-03-24,Suburbs,Beverages,Espresso,Server: Diego,1,20.77,7.78
+2025-03-24,Downtown,Desserts,Chocolate Lava Cake,Server: Maya,6,80.04,28.0
+2025-03-24,Downtown,Desserts,Tiramisu,Server: Priya,3,41.82,15.9
+2025-03-26,Airport,Beverages,House Wine,Server: Elin,5,175.85,68.59
+2025-03-26,Downtown,Desserts,Cheesecake,Server: Jonah,3,41.22,13.41
+2025-03-26,Uptown,Beverages,Craft Beer,Server: Maya,6,94.92,36.51
+2025-03-26,Uptown,Appetizers,Loaded Nachos,Server: Jonah,3,98.28,29.8
+2025-03-26,Suburbs,Desserts,Cheesecake,Server: Diego,2,85.14,28.68
+2025-03-26,Uptown,Appetizers,Calamari,Server: Priya,5,60.45,19.26
+2025-03-26,Suburbs,Desserts,Chocolate Lava Cake,Server: Jonah,6,266.4,101.15
+2025-03-26,Mall Location,Beverages,Iced Tea,Server: Elin,4,23.84,7.74
+2025-03-26,Downtown,Appetizers,Calamari,Server: Priya,6,77.52,24.78
+2025-03-27,Airport,Appetizers,Bruschetta,Server: Elin,2,27.64,8.41
+2025-03-27,Downtown,Beverages,Espresso,Server: Priya,2,79.6,30.52
+2025-03-27,Suburbs,Beverages,Craft Beer,Server: Maya,2,30.02,11.79
+2025-03-28,Downtown,Entrees,Chicken Alfredo,Server: Maya,2,43.76,12.49
+2025-03-28,Uptown,Beverages,Iced Tea,Server: Elin,1,11.71,3.46
+2025-03-28,Suburbs,Beverages,Craft Beer,Server: Priya,3,124.89,40.81
+2025-03-28,Uptown,Appetizers,Bruschetta,Server: Maya,2,23.94,7.36
+2025-03-28,Downtown,Appetizers,Calamari,Server: Diego,5,85.6,25.25
+2025-03-28,Mall Location,Beverages,Iced Tea,Server: Diego,4,46.96,13.54
+2025-03-29,Airport,Beverages,Craft Beer,Server: Elin,2,18.4,6.75
+2025-03-29,Mall Location,Entrees,Grilled Salmon,Server: Jonah,6,209.04,81.17
+2025-03-29,Downtown,Entrees,Veggie Burger,Server: Diego,6,117.24,42.7
+2025-03-29,Mall Location,Entrees,Ribeye Steak,Server: Maya,6,65.52,19.54
+2025-03-29,Mall Location,Desserts,Tiramisu,Server: Diego,6,221.28,87.25
+2025-03-30,Suburbs,Beverages,House Wine,Server: Priya,4,27.92,10.33
+2025-03-30,Uptown,Beverages,Espresso,Server: Maya,5,99.65,30.81
+2025-03-30,Suburbs,Appetizers,Calamari,Server: Maya,2,8.16,2.84
+2025-03-30,Downtown,Desserts,Cheesecake,Server: Diego,2,68.28,24.34
+2025-03-30,Airport,Beverages,Craft Beer,Server: Elin,2,84.7,25.76
+2025-03-30,Uptown,Appetizers,Loaded Nachos,Server: Jonah,5,107.05,33.08
+2025-03-31,Uptown,Beverages,Iced Tea,Server: Maya,1,4.94,1.72
+2025-03-31,Uptown,Beverages,House Wine,Server: Diego,1,32.26,11.55
+2025-04-01,Airport,Desserts,Chocolate Lava Cake,Server: Priya,3,45.9,17.88
+2025-04-01,Uptown,Appetizers,Bruschetta,Server: Priya,2,29.06,10.62
+2025-04-01,Airport,Entrees,Ribeye Steak,Server: Elin,6,198.3,58.19
+2025-04-02,Mall Location,Appetizers,Bruschetta,Server: Diego,4,178.08,49.92
+2025-04-02,Uptown,Beverages,Iced Tea,Server: Elin,5,153.1,56.14
+2025-04-02,Airport,Entrees,Ribeye Steak,Server: Jonah,3,33.12,12.1
+2025-04-03,Airport,Beverages,Iced Tea,Server: Maya,4,29.36,9.39
+2025-04-03,Airport,Entrees,Grilled Salmon,Server: Jonah,1,35.4,11.65
+2025-04-03,Downtown,Appetizers,Loaded Nachos,Server: Maya,2,59.4,21.53
+2025-04-04,Uptown,Entrees,Grilled Salmon,Server: Diego,3,59.85,17.55
+2025-04-04,Mall Location,Entrees,Ribeye Steak,Server: Diego,1,22.2,6.7
+2025-04-04,Downtown,Entrees,Grilled Salmon,Server: Elin,4,32.12,10.83
+2025-04-05,Uptown,Entrees,Veggie Burger,Server: Priya,1,12.11,3.58
+2025-04-05,Uptown,Desserts,Cheesecake,Server: Jonah,1,5.51,1.73
+2025-04-05,Mall Location,Desserts,Cheesecake,Server: Maya,6,233.58,79.72
+2025-04-05,Uptown,Beverages,Iced Tea,Server: Maya,5,104.6,34.4
+2025-04-06,Downtown,Beverages,Craft Beer,Server: Elin,5,101.95,40.53
+2025-04-06,Airport,Desserts,Chocolate Lava Cake,Server: Priya,5,50.2,16.72
+2025-04-07,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,2,22.04,8.65
+2025-04-07,Downtown,Beverages,House Wine,Server: Priya,4,154.16,60.93
+2025-04-07,Airport,Appetizers,Bruschetta,Server: Elin,4,74.64,26.25
+2025-04-07,Uptown,Appetizers,Bruschetta,Server: Diego,6,167.28,51.82
+2025-04-07,Airport,Beverages,House Wine,Server: Diego,2,57.16,16.01
+2025-04-07,Downtown,Beverages,House Wine,Server: Diego,4,139.4,55.56
+2025-04-08,Mall Location,Desserts,Tiramisu,Server: Diego,6,263.94,85.19
+2025-04-09,Suburbs,Appetizers,Loaded Nachos,Server: Maya,2,14.12,4.62
+2025-04-09,Uptown,Beverages,Espresso,Server: Jonah,1,23.44,6.79
+2025-04-09,Uptown,Beverages,Iced Tea,Server: Diego,2,39.42,15.08
+2025-04-09,Airport,Entrees,Veggie Burger,Server: Diego,3,105.42,37.36
+2025-04-09,Uptown,Entrees,Grilled Salmon,Server: Diego,2,54.02,15.23
+2025-04-09,Suburbs,Entrees,Ribeye Steak,Server: Elin,5,93.55,30.61
+2025-04-09,Suburbs,Entrees,Chicken Alfredo,Server: Elin,6,122.28,34.61
+2025-04-10,Uptown,Appetizers,Loaded Nachos,Server: Elin,2,42.5,12.95
+2025-04-10,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,5,189.0,67.92
+2025-04-10,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,5,215.5,60.54
+2025-04-10,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,1,20.67,6.22
+2025-04-10,Suburbs,Desserts,Tiramisu,Server: Elin,3,132.45,39.66
+2025-04-10,Downtown,Entrees,Grilled Salmon,Server: Diego,4,133.28,39.85
+2025-04-10,Mall Location,Entrees,Chicken Alfredo,Server: Diego,6,136.44,42.16
+2025-04-11,Airport,Beverages,Iced Tea,Server: Elin,1,23.6,7.73
+2025-04-11,Suburbs,Entrees,Grilled Salmon,Server: Elin,2,36.34,12.7
+2025-04-11,Downtown,Entrees,Grilled Salmon,Server: Priya,6,30.06,10.32
+2025-04-11,Uptown,Appetizers,Loaded Nachos,Server: Maya,5,77.05,27.99
+2025-04-11,Suburbs,Desserts,Chocolate Lava Cake,Server: Diego,2,43.62,12.5
+2025-04-12,Uptown,Appetizers,Bruschetta,Server: Elin,2,62.3,21.3
+2025-04-12,Suburbs,Desserts,Tiramisu,Server: Maya,6,222.96,72.96
+2025-04-12,Mall Location,Desserts,Cheesecake,Server: Elin,4,23.88,9.36
+2025-04-12,Downtown,Beverages,House Wine,Server: Diego,6,268.92,82.93
+2025-04-12,Airport,Beverages,House Wine,Server: Maya,6,48.18,18.54
+2025-04-13,Mall Location,Desserts,Cheesecake,Server: Priya,6,133.44,42.63
+2025-04-13,Uptown,Appetizers,Bruschetta,Server: Elin,3,36.18,11.95
+2025-04-13,Uptown,Beverages,Iced Tea,Server: Diego,3,106.74,37.09
+2025-04-14,Mall Location,Appetizers,Bruschetta,Server: Maya,2,35.46,10.16
+2025-04-14,Airport,Appetizers,Loaded Nachos,Server: Diego,6,210.36,67.52
+2025-04-14,Downtown,Appetizers,Calamari,Server: Elin,4,33.0,12.66
+2025-04-14,Mall Location,Desserts,Chocolate Lava Cake,Server: Jonah,5,29.15,11.4
+2025-04-14,Downtown,Desserts,Tiramisu,Server: Priya,4,50.68,14.78
+2025-04-14,Uptown,Beverages,Espresso,Server: Priya,4,130.52,37.46
+2025-04-14,Airport,Desserts,Cheesecake,Server: Priya,1,12.53,4.1
+2025-04-14,Downtown,Desserts,Cheesecake,Server: Jonah,2,77.58,26.5
+2025-04-15,Mall Location,Entrees,Ribeye Steak,Server: Elin,6,165.9,65.47
+2025-04-15,Uptown,Appetizers,Bruschetta,Server: Elin,3,128.55,46.94
+2025-04-15,Airport,Entrees,Grilled Salmon,Server: Priya,5,130.7,52.11
+2025-04-15,Suburbs,Entrees,Veggie Burger,Server: Diego,1,21.97,6.17
+2025-04-15,Mall Location,Appetizers,Loaded Nachos,Server: Maya,4,146.88,46.67
+2025-04-15,Suburbs,Desserts,Chocolate Lava Cake,Server: Priya,6,113.16,45.2
+2025-04-16,Suburbs,Appetizers,Calamari,Server: Diego,2,30.72,11.76
+2025-04-16,Downtown,Entrees,Grilled Salmon,Server: Elin,6,135.9,40.97
+2025-04-16,Mall Location,Entrees,Grilled Salmon,Server: Diego,3,128.82,43.7
+2025-04-17,Suburbs,Entrees,Chicken Alfredo,Server: Elin,4,174.2,58.23
+2025-04-17,Uptown,Appetizers,Loaded Nachos,Server: Elin,3,108.03,35.02
+2025-04-18,Airport,Appetizers,Bruschetta,Server: Priya,5,127.25,36.63
+2025-04-18,Mall Location,Beverages,Espresso,Server: Jonah,1,36.51,11.39
+2025-04-18,Downtown,Beverages,Craft Beer,Server: Priya,5,24.35,9.19
+2025-04-18,Uptown,Appetizers,Calamari,Server: Diego,6,77.7,30.61
+2025-04-18,Uptown,Appetizers,Bruschetta,Server: Elin,4,170.68,52.6
+2025-04-18,Suburbs,Appetizers,Bruschetta,Server: Maya,5,39.15,13.98
+2025-04-19,Mall Location,Beverages,House Wine,Server: Diego,2,39.52,13.22
+2025-04-19,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,5,82.5,25.83
+2025-04-20,Mall Location,Desserts,Cheesecake,Server: Jonah,3,47.55,16.4
+2025-04-20,Suburbs,Beverages,Iced Tea,Server: Elin,2,26.86,9.58
+2025-04-20,Uptown,Appetizers,Calamari,Server: Jonah,5,167.75,51.72
+2025-04-20,Downtown,Appetizers,Loaded Nachos,Server: Diego,4,64.28,21.74
+2025-04-20,Downtown,Appetizers,Calamari,Server: Priya,5,205.85,58.17
+2025-04-20,Airport,Desserts,Tiramisu,Server: Maya,4,61.2,18.74
+2025-04-20,Airport,Beverages,House Wine,Server: Maya,3,100.83,33.13
+2025-04-21,Suburbs,Beverages,Craft Beer,Server: Elin,1,25.86,9.58
+2025-04-21,Airport,Desserts,Cheesecake,Server: Diego,5,40.6,12.3
+2025-04-21,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,5,111.45,38.0
+2025-04-21,Airport,Desserts,Chocolate Lava Cake,Server: Diego,1,39.21,13.83
+2025-04-21,Downtown,Appetizers,Calamari,Server: Jonah,3,95.58,35.12
+2025-04-22,Downtown,Desserts,Chocolate Lava Cake,Server: Jonah,4,48.6,19.2
+2025-04-22,Suburbs,Appetizers,Bruschetta,Server: Maya,2,22.76,9.0
+2025-04-22,Uptown,Entrees,Ribeye Steak,Server: Jonah,4,28.36,9.85
+2025-04-22,Mall Location,Entrees,Veggie Burger,Server: Elin,4,163.08,55.69
+2025-04-22,Suburbs,Beverages,House Wine,Server: Maya,2,48.94,17.36
+2025-04-22,Uptown,Desserts,Cheesecake,Server: Diego,2,47.98,14.97
+2025-04-22,Suburbs,Entrees,Ribeye Steak,Server: Diego,2,50.14,18.98
+2025-04-23,Downtown,Desserts,Chocolate Lava Cake,Server: Diego,6,118.14,43.22
+2025-04-23,Suburbs,Desserts,Chocolate Lava Cake,Server: Priya,4,158.56,53.77
+2025-04-23,Airport,Entrees,Grilled Salmon,Server: Diego,1,26.3,8.24
+2025-04-24,Uptown,Desserts,Tiramisu,Server: Maya,5,74.25,26.94
+2025-04-24,Airport,Entrees,Chicken Alfredo,Server: Priya,3,51.93,17.28
+2025-04-24,Uptown,Desserts,Chocolate Lava Cake,Server: Maya,2,34.4,11.41
+2025-04-24,Suburbs,Beverages,Iced Tea,Server: Jonah,3,110.01,32.33
+2025-04-25,Mall Location,Desserts,Chocolate Lava Cake,Server: Priya,1,13.57,5.0
+2025-04-25,Mall Location,Beverages,Craft Beer,Server: Priya,4,39.48,11.66
+2025-04-25,Suburbs,Entrees,Grilled Salmon,Server: Jonah,6,70.08,21.56
+2025-04-25,Suburbs,Beverages,House Wine,Server: Jonah,4,74.68,28.35
+2025-04-26,Uptown,Beverages,Craft Beer,Server: Elin,4,57.28,18.93
+2025-04-26,Suburbs,Appetizers,Loaded Nachos,Server: Priya,4,19.96,7.89
+2025-04-26,Uptown,Appetizers,Loaded Nachos,Server: Diego,4,44.88,16.32
+2025-04-26,Mall Location,Desserts,Tiramisu,Server: Jonah,1,8.08,2.65
+2025-04-26,Uptown,Beverages,Espresso,Server: Jonah,5,135.8,39.57
+2025-04-26,Mall Location,Appetizers,Calamari,Server: Jonah,6,167.82,48.76
+2025-04-27,Mall Location,Appetizers,Loaded Nachos,Server: Jonah,1,18.99,6.25
+2025-04-27,Uptown,Entrees,Veggie Burger,Server: Maya,1,36.0,10.51
+2025-04-27,Downtown,Appetizers,Bruschetta,Server: Maya,4,144.96,53.57
+2025-04-27,Airport,Entrees,Ribeye Steak,Server: Jonah,2,19.0,7.1
+2025-04-27,Uptown,Beverages,Espresso,Server: Priya,6,168.96,56.21
+2025-04-28,Suburbs,Entrees,Grilled Salmon,Server: Priya,1,28.8,10.59
+2025-04-28,Airport,Desserts,Tiramisu,Server: Diego,3,92.97,34.47
+2025-04-28,Uptown,Appetizers,Loaded Nachos,Server: Elin,6,237.06,73.71
+2025-04-28,Downtown,Appetizers,Calamari,Server: Maya,5,137.85,45.06
+2025-04-28,Mall Location,Beverages,Iced Tea,Server: Maya,4,159.0,59.03
+2025-04-29,Uptown,Beverages,House Wine,Server: Jonah,5,199.15,75.22
+2025-04-29,Suburbs,Entrees,Chicken Alfredo,Server: Elin,4,110.96,36.2
+2025-04-29,Suburbs,Appetizers,Loaded Nachos,Server: Jonah,4,97.28,31.79
+2025-04-29,Mall Location,Desserts,Tiramisu,Server: Maya,3,20.91,6.86
+2025-04-30,Downtown,Appetizers,Bruschetta,Server: Diego,5,118.45,43.79
+2025-04-30,Uptown,Beverages,Iced Tea,Server: Elin,4,152.72,50.46
+2025-04-30,Downtown,Appetizers,Calamari,Server: Elin,1,39.94,13.45
+2025-04-30,Suburbs,Beverages,Espresso,Server: Jonah,5,59.9,22.84
+2025-04-30,Downtown,Appetizers,Bruschetta,Server: Maya,6,233.1,79.36
+2025-04-30,Uptown,Beverages,House Wine,Server: Elin,1,32.49,10.56
+2025-05-01,Downtown,Entrees,Grilled Salmon,Server: Elin,1,11.02,4.19
+2025-05-01,Mall Location,Desserts,Tiramisu,Server: Diego,1,8.74,2.81
+2025-05-02,Airport,Desserts,Chocolate Lava Cake,Server: Diego,3,81.9,29.67
+2025-05-02,Suburbs,Appetizers,Bruschetta,Server: Diego,2,38.12,14.81
+2025-05-02,Uptown,Beverages,Iced Tea,Server: Jonah,5,141.9,53.0
+2025-05-02,Airport,Entrees,Chicken Alfredo,Server: Maya,3,84.36,30.96
+2025-05-02,Suburbs,Beverages,Craft Beer,Server: Elin,2,50.12,18.64
+2025-05-02,Mall Location,Beverages,House Wine,Server: Elin,4,131.08,48.71
+2025-05-02,Airport,Beverages,House Wine,Server: Diego,1,29.53,9.04
+2025-05-03,Airport,Appetizers,Calamari,Server: Priya,1,9.2,3.54
+2025-05-03,Airport,Beverages,House Wine,Server: Diego,6,180.84,55.67
+2025-05-03,Uptown,Desserts,Chocolate Lava Cake,Server: Diego,4,87.48,29.19
+2025-05-03,Airport,Entrees,Ribeye Steak,Server: Diego,5,84.05,29.82
+2025-05-03,Mall Location,Entrees,Chicken Alfredo,Server: Maya,2,16.38,5.2
+2025-05-03,Airport,Beverages,House Wine,Server: Priya,4,50.04,18.56
+2025-05-03,Uptown,Entrees,Chicken Alfredo,Server: Priya,2,54.78,18.77
+2025-05-03,Airport,Entrees,Grilled Salmon,Server: Jonah,5,73.0,23.29
+2025-05-03,Mall Location,Appetizers,Calamari,Server: Elin,2,30.22,10.33
+2025-05-04,Downtown,Beverages,Espresso,Server: Diego,6,177.36,50.11
+2025-05-04,Suburbs,Appetizers,Loaded Nachos,Server: Priya,1,24.11,8.57
+2025-05-04,Airport,Beverages,Iced Tea,Server: Diego,5,23.0,9.04
+2025-05-04,Mall Location,Appetizers,Loaded Nachos,Server: Jonah,5,92.85,28.26
+2025-05-04,Downtown,Appetizers,Bruschetta,Server: Maya,5,203.15,63.45
+2025-05-04,Suburbs,Appetizers,Loaded Nachos,Server: Priya,2,35.54,10.32
+2025-05-05,Mall Location,Beverages,Espresso,Server: Jonah,2,9.58,3.35
+2025-05-05,Downtown,Appetizers,Bruschetta,Server: Jonah,5,107.7,42.79
+2025-05-05,Airport,Desserts,Cheesecake,Server: Diego,1,35.96,11.98
+2025-05-06,Uptown,Entrees,Chicken Alfredo,Server: Jonah,6,207.48,79.04
+2025-05-06,Mall Location,Appetizers,Loaded Nachos,Server: Maya,2,80.06,31.95
+2025-05-06,Uptown,Entrees,Veggie Burger,Server: Diego,6,171.36,50.23
+2025-05-06,Suburbs,Appetizers,Calamari,Server: Priya,2,55.94,18.73
+2025-05-06,Uptown,Beverages,Craft Beer,Server: Maya,1,15.7,5.65
+2025-05-07,Mall Location,Beverages,Craft Beer,Server: Diego,2,40.4,16.05
+2025-05-07,Downtown,Appetizers,Loaded Nachos,Server: Jonah,6,128.58,39.53
+2025-05-08,Mall Location,Desserts,Cheesecake,Server: Maya,4,89.48,27.55
+2025-05-08,Airport,Beverages,Iced Tea,Server: Jonah,5,153.65,50.34
+2025-05-08,Airport,Beverages,House Wine,Server: Diego,5,33.0,9.42
+2025-05-08,Uptown,Appetizers,Calamari,Server: Priya,6,76.74,26.4
+2025-05-09,Uptown,Desserts,Chocolate Lava Cake,Server: Maya,4,72.76,28.07
+2025-05-09,Uptown,Desserts,Cheesecake,Server: Priya,2,66.82,22.52
+2025-05-09,Downtown,Beverages,Iced Tea,Server: Priya,1,31.98,10.83
+2025-05-09,Uptown,Appetizers,Calamari,Server: Diego,3,40.08,15.77
+2025-05-10,Downtown,Desserts,Chocolate Lava Cake,Server: Jonah,2,89.86,32.98
+2025-05-10,Mall Location,Desserts,Tiramisu,Server: Jonah,5,209.2,79.76
+2025-05-10,Suburbs,Entrees,Chicken Alfredo,Server: Jonah,5,206.85,64.47
+2025-05-10,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,3,33.66,13.19
+2025-05-10,Mall Location,Entrees,Veggie Burger,Server: Diego,1,12.73,4.99
+2025-05-10,Downtown,Desserts,Chocolate Lava Cake,Server: Jonah,1,22.47,7.24
+2025-05-11,Uptown,Entrees,Ribeye Steak,Server: Diego,2,55.38,15.8
+2025-05-12,Downtown,Beverages,Espresso,Server: Priya,4,62.4,23.28
+2025-05-12,Suburbs,Beverages,Espresso,Server: Priya,4,59.32,20.98
+2025-05-12,Suburbs,Beverages,Iced Tea,Server: Maya,1,40.21,11.59
+2025-05-12,Suburbs,Beverages,Iced Tea,Server: Maya,5,177.6,63.03
+2025-05-12,Mall Location,Beverages,Espresso,Server: Priya,4,45.84,13.91
+2025-05-13,Suburbs,Entrees,Ribeye Steak,Server: Elin,5,144.3,51.12
+2025-05-13,Downtown,Entrees,Veggie Burger,Server: Priya,4,77.28,27.7
+2025-05-13,Airport,Appetizers,Bruschetta,Server: Diego,1,11.33,3.67
+2025-05-13,Suburbs,Beverages,House Wine,Server: Diego,2,29.08,8.68
+2025-05-13,Suburbs,Desserts,Cheesecake,Server: Elin,3,83.7,23.63
+2025-05-14,Suburbs,Appetizers,Loaded Nachos,Server: Diego,2,9.34,3.66
+2025-05-14,Airport,Appetizers,Bruschetta,Server: Priya,4,120.88,40.81
+2025-05-14,Suburbs,Desserts,Chocolate Lava Cake,Server: Priya,6,46.68,13.56
+2025-05-15,Airport,Desserts,Cheesecake,Server: Elin,1,16.42,4.86
+2025-05-15,Airport,Appetizers,Bruschetta,Server: Maya,6,72.24,27.0
+2025-05-15,Airport,Appetizers,Bruschetta,Server: Elin,1,15.63,5.11
+2025-05-16,Airport,Entrees,Veggie Burger,Server: Elin,4,152.16,47.96
+2025-05-16,Downtown,Beverages,House Wine,Server: Elin,3,90.93,26.9
+2025-05-16,Suburbs,Entrees,Chicken Alfredo,Server: Elin,2,28.58,10.62
+2025-05-16,Suburbs,Entrees,Grilled Salmon,Server: Jonah,5,31.25,12.28
+2025-05-17,Downtown,Appetizers,Loaded Nachos,Server: Elin,5,80.9,31.54
+2025-05-17,Uptown,Appetizers,Loaded Nachos,Server: Jonah,4,140.64,54.97
+2025-05-18,Mall Location,Entrees,Grilled Salmon,Server: Jonah,3,87.48,26.24
+2025-05-18,Suburbs,Appetizers,Calamari,Server: Priya,5,108.5,41.87
+2025-05-18,Airport,Desserts,Chocolate Lava Cake,Server: Diego,5,96.75,37.44
+2025-05-18,Airport,Appetizers,Bruschetta,Server: Jonah,1,25.49,7.18
+2025-05-18,Suburbs,Desserts,Chocolate Lava Cake,Server: Diego,3,54.21,19.2
+2025-05-19,Mall Location,Beverages,Espresso,Server: Maya,2,88.26,29.36
+2025-05-19,Mall Location,Desserts,Chocolate Lava Cake,Server: Jonah,1,15.2,4.5
+2025-05-19,Suburbs,Desserts,Chocolate Lava Cake,Server: Maya,1,6.37,2.43
+2025-05-19,Mall Location,Desserts,Tiramisu,Server: Jonah,6,200.34,67.68
+2025-05-19,Suburbs,Desserts,Cheesecake,Server: Elin,2,43.62,14.47
+2025-05-20,Suburbs,Entrees,Veggie Burger,Server: Diego,3,90.66,32.99
+2025-05-21,Downtown,Beverages,Craft Beer,Server: Priya,5,73.0,23.62
+2025-05-21,Airport,Appetizers,Bruschetta,Server: Maya,5,117.25,45.11
+2025-05-21,Uptown,Entrees,Veggie Burger,Server: Jonah,2,59.82,19.12
+2025-05-22,Suburbs,Desserts,Cheesecake,Server: Maya,6,231.72,75.37
+2025-05-22,Suburbs,Beverages,Craft Beer,Server: Jonah,4,95.88,30.13
+2025-05-22,Mall Location,Appetizers,Bruschetta,Server: Jonah,1,5.52,2.13
+2025-05-22,Mall Location,Desserts,Cheesecake,Server: Jonah,6,60.12,23.28
+2025-05-23,Mall Location,Beverages,Craft Beer,Server: Diego,6,101.76,39.29
+2025-05-23,Downtown,Entrees,Grilled Salmon,Server: Jonah,4,67.44,26.13
+2025-05-23,Downtown,Appetizers,Calamari,Server: Elin,4,95.76,27.59
+2025-05-24,Mall Location,Appetizers,Calamari,Server: Diego,4,78.44,30.08
+2025-05-24,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,1,18.43,7.07
+2025-05-24,Downtown,Entrees,Ribeye Steak,Server: Diego,6,237.6,93.99
+2025-05-24,Uptown,Entrees,Veggie Burger,Server: Elin,4,143.92,44.16
+2025-05-25,Airport,Entrees,Veggie Burger,Server: Priya,2,37.8,11.24
+2025-05-25,Mall Location,Desserts,Chocolate Lava Cake,Server: Jonah,4,56.28,21.37
+2025-05-26,Uptown,Desserts,Chocolate Lava Cake,Server: Elin,4,138.8,43.3
+2025-05-26,Airport,Desserts,Tiramisu,Server: Elin,5,180.2,58.23
+2025-05-26,Airport,Entrees,Chicken Alfredo,Server: Jonah,3,30.93,9.74
+2025-05-26,Downtown,Beverages,Craft Beer,Server: Diego,3,22.56,7.75
+2025-05-27,Airport,Desserts,Cheesecake,Server: Priya,6,80.58,29.0
+2025-05-27,Suburbs,Beverages,Espresso,Server: Priya,5,116.65,33.07
+2025-05-27,Suburbs,Beverages,House Wine,Server: Elin,1,17.41,6.04
+2025-05-27,Downtown,Entrees,Chicken Alfredo,Server: Priya,6,123.78,47.49
+2025-05-27,Airport,Appetizers,Bruschetta,Server: Elin,2,35.8,12.53
+2025-05-27,Mall Location,Appetizers,Bruschetta,Server: Priya,3,52.83,16.21
+2025-05-28,Suburbs,Entrees,Ribeye Steak,Server: Jonah,3,42.15,14.42
+2025-05-28,Downtown,Appetizers,Calamari,Server: Priya,3,77.82,27.12
+2025-05-28,Uptown,Appetizers,Bruschetta,Server: Diego,6,68.1,22.18
+2025-05-29,Mall Location,Beverages,Espresso,Server: Jonah,6,117.48,41.7
+2025-05-29,Airport,Appetizers,Loaded Nachos,Server: Priya,4,171.04,48.15
+2025-05-29,Mall Location,Desserts,Tiramisu,Server: Elin,5,70.1,25.03
+2025-05-30,Downtown,Desserts,Cheesecake,Server: Jonah,4,51.68,16.94
+2025-05-30,Suburbs,Beverages,Craft Beer,Server: Maya,3,22.29,6.67
+2025-05-31,Uptown,Appetizers,Calamari,Server: Elin,5,193.65,70.31
+2025-05-31,Mall Location,Entrees,Veggie Burger,Server: Priya,1,25.41,8.05
+2025-05-31,Uptown,Beverages,Espresso,Server: Priya,6,243.9,94.28
+2025-05-31,Suburbs,Desserts,Cheesecake,Server: Diego,6,47.76,13.73
+2025-06-01,Suburbs,Desserts,Tiramisu,Server: Priya,2,67.92,27.05
+2025-06-01,Mall Location,Appetizers,Loaded Nachos,Server: Maya,1,32.74,9.89
+2025-06-01,Mall Location,Beverages,Espresso,Server: Jonah,6,203.52,78.61
+2025-06-01,Suburbs,Beverages,Craft Beer,Server: Diego,1,14.58,4.74
+2025-06-02,Mall Location,Beverages,Espresso,Server: Jonah,2,47.4,14.02
+2025-06-03,Downtown,Desserts,Chocolate Lava Cake,Server: Jonah,1,19.27,7.04
+2025-06-03,Uptown,Desserts,Cheesecake,Server: Elin,6,103.74,37.78
+2025-06-03,Mall Location,Entrees,Grilled Salmon,Server: Elin,6,84.42,25.67
+2025-06-04,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,6,232.8,91.18
+2025-06-04,Airport,Desserts,Chocolate Lava Cake,Server: Elin,2,36.64,13.14
+2025-06-04,Suburbs,Desserts,Cheesecake,Server: Priya,6,208.38,65.86
+2025-06-04,Uptown,Entrees,Veggie Burger,Server: Priya,1,41.31,12.68
+2025-06-04,Uptown,Beverages,Craft Beer,Server: Diego,3,122.82,41.39
+2025-06-04,Suburbs,Appetizers,Loaded Nachos,Server: Diego,4,134.92,47.7
+2025-06-05,Airport,Beverages,Espresso,Server: Jonah,4,54.16,19.77
+2025-06-06,Airport,Desserts,Chocolate Lava Cake,Server: Priya,1,17.8,6.99
+2025-06-06,Suburbs,Entrees,Grilled Salmon,Server: Jonah,5,44.2,14.05
+2025-06-06,Downtown,Appetizers,Calamari,Server: Elin,2,40.2,12.43
+2025-06-06,Airport,Entrees,Chicken Alfredo,Server: Diego,6,141.0,43.19
+2025-06-07,Suburbs,Entrees,Ribeye Steak,Server: Jonah,6,47.22,14.93
+2025-06-07,Airport,Appetizers,Loaded Nachos,Server: Jonah,6,134.88,46.03
+2025-06-07,Downtown,Beverages,Craft Beer,Server: Priya,6,161.64,52.39
+2025-06-08,Suburbs,Desserts,Chocolate Lava Cake,Server: Jonah,6,61.92,18.99
+2025-06-08,Suburbs,Entrees,Veggie Burger,Server: Maya,3,86.49,33.11
+2025-06-08,Airport,Desserts,Chocolate Lava Cake,Server: Elin,5,22.2,8.08
+2025-06-09,Suburbs,Beverages,Espresso,Server: Maya,5,105.3,32.08
+2025-06-09,Airport,Desserts,Cheesecake,Server: Priya,2,80.16,30.32
+2025-06-09,Uptown,Beverages,Espresso,Server: Priya,2,86.98,31.18
+2025-06-09,Uptown,Appetizers,Calamari,Server: Jonah,4,26.92,9.2
+2025-06-09,Downtown,Appetizers,Calamari,Server: Diego,3,34.44,11.79
+2025-06-10,Airport,Desserts,Chocolate Lava Cake,Server: Elin,3,97.29,38.03
+2025-06-10,Airport,Beverages,Espresso,Server: Maya,5,104.75,33.41
+2025-06-10,Downtown,Desserts,Cheesecake,Server: Priya,2,46.04,14.24
+2025-06-10,Suburbs,Entrees,Veggie Burger,Server: Priya,1,42.48,14.62
+2025-06-11,Uptown,Desserts,Cheesecake,Server: Elin,2,87.98,35.05
+2025-06-12,Suburbs,Appetizers,Loaded Nachos,Server: Maya,6,204.9,75.94
+2025-06-12,Suburbs,Beverages,Iced Tea,Server: Priya,2,13.92,4.55
+2025-06-12,Suburbs,Appetizers,Bruschetta,Server: Jonah,4,99.12,29.59
+2025-06-12,Uptown,Appetizers,Loaded Nachos,Server: Priya,4,66.04,22.2
+2025-06-12,Mall Location,Entrees,Veggie Burger,Server: Jonah,3,94.23,29.57
+2025-06-12,Downtown,Entrees,Chicken Alfredo,Server: Diego,1,30.71,11.63
+2025-06-13,Downtown,Desserts,Chocolate Lava Cake,Server: Maya,1,33.3,13.13
+2025-06-13,Uptown,Appetizers,Calamari,Server: Maya,5,116.25,41.69
+2025-06-13,Airport,Appetizers,Loaded Nachos,Server: Elin,1,5.71,2.23
+2025-06-14,Uptown,Appetizers,Loaded Nachos,Server: Maya,2,46.48,17.18
+2025-06-14,Airport,Beverages,Iced Tea,Server: Priya,5,115.55,34.48
+2025-06-14,Mall Location,Desserts,Chocolate Lava Cake,Server: Priya,3,29.91,11.11
+2025-06-14,Airport,Appetizers,Bruschetta,Server: Diego,5,89.3,26.87
+2025-06-14,Airport,Beverages,House Wine,Server: Jonah,1,26.74,8.09
+2025-06-14,Mall Location,Desserts,Cheesecake,Server: Jonah,5,110.45,43.04
+2025-06-15,Downtown,Beverages,Craft Beer,Server: Elin,2,66.46,25.3
+2025-06-16,Downtown,Entrees,Ribeye Steak,Server: Jonah,2,36.64,10.87
+2025-06-16,Airport,Beverages,Espresso,Server: Diego,3,116.19,41.59
+2025-06-17,Uptown,Appetizers,Bruschetta,Server: Maya,6,152.16,60.43
+2025-06-17,Airport,Appetizers,Loaded Nachos,Server: Jonah,2,50.46,18.84
+2025-06-17,Mall Location,Appetizers,Calamari,Server: Diego,1,41.13,12.54
+2025-06-18,Downtown,Beverages,Iced Tea,Server: Diego,5,23.9,7.71
+2025-06-18,Uptown,Desserts,Chocolate Lava Cake,Server: Elin,1,34.09,10.28
+2025-06-18,Downtown,Beverages,Espresso,Server: Maya,5,136.35,52.36
+2025-06-19,Downtown,Entrees,Grilled Salmon,Server: Maya,5,158.45,53.28
+2025-06-19,Airport,Desserts,Chocolate Lava Cake,Server: Jonah,6,133.14,44.11
+2025-06-19,Downtown,Desserts,Chocolate Lava Cake,Server: Elin,3,69.99,23.39
+2025-06-19,Uptown,Entrees,Veggie Burger,Server: Priya,2,76.98,22.65
+2025-06-19,Suburbs,Desserts,Chocolate Lava Cake,Server: Jonah,6,236.1,68.74
+2025-06-19,Airport,Beverages,Espresso,Server: Jonah,6,109.32,33.74
+2025-06-19,Suburbs,Entrees,Grilled Salmon,Server: Elin,6,133.56,50.85
+2025-06-20,Downtown,Beverages,House Wine,Server: Maya,1,18.97,5.78
+2025-06-20,Mall Location,Appetizers,Calamari,Server: Priya,4,123.68,35.76
+2025-06-20,Uptown,Beverages,Craft Beer,Server: Diego,5,158.25,52.95
+2025-06-20,Mall Location,Beverages,House Wine,Server: Maya,2,76.66,28.86
+2025-06-20,Suburbs,Beverages,House Wine,Server: Elin,2,29.64,9.86
+2025-06-20,Downtown,Beverages,Iced Tea,Server: Jonah,2,68.0,25.96
+2025-06-20,Suburbs,Desserts,Tiramisu,Server: Maya,1,23.76,8.93
+2025-06-21,Uptown,Desserts,Cheesecake,Server: Maya,4,120.0,44.76
+2025-06-21,Uptown,Desserts,Tiramisu,Server: Priya,4,60.92,21.3
+2025-06-21,Suburbs,Beverages,Espresso,Server: Maya,1,9.44,3.26
+2025-06-21,Uptown,Beverages,Iced Tea,Server: Jonah,6,110.16,40.59
+2025-06-21,Mall Location,Appetizers,Loaded Nachos,Server: Maya,1,30.71,9.55
+2025-06-21,Downtown,Desserts,Cheesecake,Server: Diego,6,222.3,64.45
+2025-06-21,Mall Location,Desserts,Cheesecake,Server: Diego,4,82.04,26.27
+2025-06-21,Uptown,Desserts,Cheesecake,Server: Priya,2,63.36,24.65
+2025-06-21,Airport,Beverages,House Wine,Server: Maya,3,111.39,37.42
+2025-06-22,Downtown,Beverages,Craft Beer,Server: Elin,3,15.33,4.62
+2025-06-22,Airport,Beverages,Iced Tea,Server: Diego,1,28.14,8.93
+2025-06-23,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,5,140.85,53.12
+2025-06-23,Uptown,Beverages,Craft Beer,Server: Jonah,6,205.2,59.03
+2025-06-23,Airport,Beverages,House Wine,Server: Maya,1,11.3,3.61
+2025-06-23,Suburbs,Beverages,House Wine,Server: Elin,4,150.96,60.0
+2025-06-23,Uptown,Appetizers,Loaded Nachos,Server: Diego,6,37.92,13.07
+2025-06-23,Downtown,Desserts,Tiramisu,Server: Jonah,6,99.54,29.27
+2025-06-24,Uptown,Desserts,Chocolate Lava Cake,Server: Diego,4,110.08,35.31
+2025-06-24,Suburbs,Beverages,Espresso,Server: Jonah,2,74.8,23.49
+2025-06-24,Airport,Beverages,Craft Beer,Server: Elin,4,173.12,56.1
+2025-06-24,Uptown,Beverages,Espresso,Server: Jonah,3,18.72,7.12
+2025-06-24,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,1,16.96,6.75
+2025-06-25,Airport,Entrees,Grilled Salmon,Server: Jonah,3,134.7,52.7
+2025-06-25,Suburbs,Entrees,Veggie Burger,Server: Jonah,1,44.31,12.96
+2025-06-25,Mall Location,Appetizers,Bruschetta,Server: Elin,4,129.6,38.89
+2025-06-26,Downtown,Entrees,Grilled Salmon,Server: Diego,2,48.96,18.48
+2025-06-26,Suburbs,Appetizers,Loaded Nachos,Server: Elin,3,23.22,7.1
+2025-06-26,Mall Location,Beverages,House Wine,Server: Priya,2,30.2,11.87
+2025-06-26,Mall Location,Appetizers,Calamari,Server: Priya,2,70.26,20.49
+2025-06-26,Suburbs,Appetizers,Calamari,Server: Priya,3,118.5,41.99
+2025-06-26,Uptown,Desserts,Tiramisu,Server: Jonah,5,205.35,61.44
+2025-06-27,Uptown,Desserts,Tiramisu,Server: Diego,5,95.95,36.53
+2025-06-27,Downtown,Appetizers,Loaded Nachos,Server: Maya,6,44.64,16.81
+2025-06-27,Downtown,Desserts,Cheesecake,Server: Maya,2,46.62,18.41
+2025-06-27,Suburbs,Desserts,Cheesecake,Server: Maya,5,169.4,47.7
+2025-06-28,Airport,Appetizers,Bruschetta,Server: Priya,4,58.08,21.85
+2025-06-28,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,6,66.9,26.46
+2025-06-28,Airport,Appetizers,Calamari,Server: Maya,2,47.34,15.43
+2025-06-28,Suburbs,Beverages,Iced Tea,Server: Maya,5,72.1,25.39
+2025-06-29,Airport,Entrees,Veggie Burger,Server: Maya,3,23.58,7.43
+2025-06-29,Uptown,Entrees,Ribeye Steak,Server: Priya,1,12.78,3.73
+2025-06-29,Uptown,Desserts,Chocolate Lava Cake,Server: Maya,6,29.76,11.07
+2025-06-30,Downtown,Appetizers,Bruschetta,Server: Elin,3,34.41,11.19
+2025-06-30,Mall Location,Appetizers,Bruschetta,Server: Elin,1,26.62,8.36
+2025-06-30,Uptown,Entrees,Grilled Salmon,Server: Maya,2,20.5,7.29
+2025-07-01,Uptown,Beverages,Iced Tea,Server: Diego,4,130.08,44.39
+2025-07-01,Uptown,Desserts,Tiramisu,Server: Maya,5,104.9,38.77
+2025-07-02,Downtown,Beverages,Craft Beer,Server: Jonah,3,81.9,23.26
+2025-07-02,Uptown,Entrees,Chicken Alfredo,Server: Elin,6,34.56,9.89
+2025-07-02,Airport,Appetizers,Calamari,Server: Maya,1,40.98,13.5
+2025-07-02,Uptown,Entrees,Chicken Alfredo,Server: Priya,3,33.72,12.12
+2025-07-03,Uptown,Desserts,Cheesecake,Server: Maya,1,40.18,11.83
+2025-07-03,Suburbs,Entrees,Veggie Burger,Server: Maya,6,99.54,35.07
+2025-07-03,Mall Location,Beverages,House Wine,Server: Elin,4,75.72,30.14
+2025-07-03,Airport,Appetizers,Bruschetta,Server: Jonah,1,12.31,3.84
+2025-07-04,Mall Location,Entrees,Grilled Salmon,Server: Elin,2,26.94,7.67
+2025-07-04,Airport,Desserts,Tiramisu,Server: Diego,1,42.13,13.58
+2025-07-04,Airport,Appetizers,Loaded Nachos,Server: Diego,5,76.4,29.22
+2025-07-04,Airport,Entrees,Veggie Burger,Server: Maya,4,55.0,18.91
+2025-07-05,Mall Location,Appetizers,Bruschetta,Server: Priya,3,25.5,8.54
+2025-07-05,Mall Location,Entrees,Ribeye Steak,Server: Jonah,3,91.14,26.0
+2025-07-05,Airport,Entrees,Chicken Alfredo,Server: Elin,3,125.94,36.75
+2025-07-05,Uptown,Beverages,House Wine,Server: Priya,4,120.24,41.11
+2025-07-05,Suburbs,Appetizers,Bruschetta,Server: Priya,5,41.55,12.51
+2025-07-05,Airport,Appetizers,Calamari,Server: Elin,1,5.84,2.23
+2025-07-05,Suburbs,Desserts,Tiramisu,Server: Maya,2,61.72,19.39
+2025-07-05,Airport,Beverages,House Wine,Server: Maya,1,44.99,14.29
+2025-07-06,Mall Location,Entrees,Grilled Salmon,Server: Elin,2,30.56,8.97
+2025-07-06,Downtown,Entrees,Grilled Salmon,Server: Diego,1,36.66,12.91
+2025-07-07,Airport,Appetizers,Loaded Nachos,Server: Jonah,1,25.11,9.58
+2025-07-07,Mall Location,Entrees,Grilled Salmon,Server: Jonah,6,37.02,14.15
+2025-07-08,Airport,Entrees,Veggie Burger,Server: Jonah,2,71.06,22.15
+2025-07-08,Mall Location,Entrees,Grilled Salmon,Server: Maya,4,131.72,37.55
+2025-07-08,Downtown,Beverages,Craft Beer,Server: Priya,1,22.6,7.17
+2025-07-08,Uptown,Appetizers,Bruschetta,Server: Priya,1,39.74,15.6
+2025-07-08,Airport,Entrees,Ribeye Steak,Server: Maya,5,134.7,45.63
+2025-07-08,Suburbs,Desserts,Cheesecake,Server: Diego,2,59.78,18.29
+2025-07-09,Airport,Entrees,Grilled Salmon,Server: Maya,6,55.68,21.72
+2025-07-09,Suburbs,Appetizers,Loaded Nachos,Server: Jonah,4,80.0,25.49
+2025-07-09,Uptown,Desserts,Tiramisu,Server: Jonah,6,162.12,50.38
+2025-07-09,Mall Location,Desserts,Cheesecake,Server: Maya,4,45.4,14.97
+2025-07-09,Mall Location,Entrees,Chicken Alfredo,Server: Elin,1,22.16,7.66
+2025-07-10,Downtown,Desserts,Chocolate Lava Cake,Server: Maya,1,32.43,11.57
+2025-07-11,Mall Location,Appetizers,Bruschetta,Server: Maya,5,198.35,55.76
+2025-07-11,Suburbs,Desserts,Chocolate Lava Cake,Server: Diego,5,55.35,17.47
+2025-07-11,Suburbs,Beverages,Iced Tea,Server: Diego,6,223.5,70.27
+2025-07-11,Suburbs,Beverages,Espresso,Server: Diego,6,46.44,15.5
+2025-07-11,Airport,Beverages,Craft Beer,Server: Jonah,2,76.24,25.5
+2025-07-12,Suburbs,Beverages,House Wine,Server: Priya,6,24.72,9.16
+2025-07-12,Downtown,Appetizers,Calamari,Server: Maya,6,226.44,69.0
+2025-07-12,Downtown,Entrees,Ribeye Steak,Server: Jonah,5,121.6,35.72
+2025-07-12,Uptown,Desserts,Chocolate Lava Cake,Server: Diego,1,14.53,5.79
+2025-07-12,Mall Location,Desserts,Cheesecake,Server: Jonah,5,163.95,48.27
+2025-07-12,Uptown,Beverages,House Wine,Server: Priya,2,14.54,5.28
+2025-07-12,Mall Location,Beverages,Craft Beer,Server: Jonah,5,43.85,14.65
+2025-07-13,Downtown,Beverages,Iced Tea,Server: Jonah,4,24.16,7.13
+2025-07-13,Suburbs,Entrees,Veggie Burger,Server: Diego,4,85.92,27.4
+2025-07-13,Mall Location,Beverages,Espresso,Server: Jonah,1,28.81,11.28
+2025-07-13,Uptown,Entrees,Grilled Salmon,Server: Jonah,4,101.32,29.0
+2025-07-13,Suburbs,Entrees,Grilled Salmon,Server: Jonah,2,75.78,25.73
+2025-07-13,Airport,Desserts,Cheesecake,Server: Maya,3,122.49,41.48
+2025-07-14,Mall Location,Desserts,Cheesecake,Server: Diego,4,57.76,20.58
+2025-07-14,Uptown,Beverages,Craft Beer,Server: Diego,6,141.3,39.96
+2025-07-14,Mall Location,Entrees,Chicken Alfredo,Server: Diego,3,121.47,45.94
+2025-07-14,Suburbs,Desserts,Tiramisu,Server: Elin,2,31.64,9.32
+2025-07-14,Suburbs,Entrees,Grilled Salmon,Server: Maya,2,81.26,26.7
+2025-07-15,Airport,Appetizers,Bruschetta,Server: Maya,4,104.52,32.16
+2025-07-15,Airport,Desserts,Cheesecake,Server: Elin,1,38.9,11.93
+2025-07-15,Downtown,Entrees,Ribeye Steak,Server: Elin,1,38.51,13.1
+2025-07-15,Uptown,Entrees,Veggie Burger,Server: Maya,5,144.4,52.38
+2025-07-15,Downtown,Appetizers,Loaded Nachos,Server: Jonah,2,62.4,24.03
+2025-07-15,Suburbs,Beverages,House Wine,Server: Elin,2,37.9,14.77
+2025-07-15,Downtown,Entrees,Ribeye Steak,Server: Maya,5,204.85,57.63
+2025-07-15,Airport,Appetizers,Bruschetta,Server: Priya,5,81.6,32.04
+2025-07-15,Suburbs,Entrees,Ribeye Steak,Server: Priya,3,70.65,20.54
+2025-07-15,Airport,Beverages,Craft Beer,Server: Diego,4,149.68,57.25
+2025-07-16,Downtown,Appetizers,Loaded Nachos,Server: Maya,6,147.66,44.78
+2025-07-16,Suburbs,Beverages,House Wine,Server: Maya,6,64.92,23.61
+2025-07-17,Uptown,Entrees,Grilled Salmon,Server: Maya,5,113.0,44.39
+2025-07-17,Suburbs,Beverages,House Wine,Server: Diego,1,31.84,11.23
+2025-07-17,Mall Location,Desserts,Chocolate Lava Cake,Server: Priya,1,31.33,11.15
+2025-07-17,Uptown,Beverages,Iced Tea,Server: Maya,6,243.0,88.52
+2025-07-18,Suburbs,Appetizers,Calamari,Server: Diego,4,178.96,56.45
+2025-07-20,Uptown,Entrees,Grilled Salmon,Server: Jonah,5,113.3,42.29
+2025-07-21,Downtown,Appetizers,Loaded Nachos,Server: Priya,3,91.11,33.04
+2025-07-22,Mall Location,Desserts,Chocolate Lava Cake,Server: Maya,4,18.04,5.33
+2025-07-22,Suburbs,Beverages,House Wine,Server: Diego,3,121.35,44.25
+2025-07-23,Downtown,Beverages,Iced Tea,Server: Diego,1,38.74,13.05
+2025-07-23,Suburbs,Beverages,Iced Tea,Server: Elin,2,66.36,19.8
+2025-07-23,Suburbs,Desserts,Chocolate Lava Cake,Server: Elin,1,16.81,5.66
+2025-07-24,Uptown,Appetizers,Calamari,Server: Jonah,5,21.35,8.48
+2025-07-24,Downtown,Beverages,Espresso,Server: Maya,4,150.96,48.6
+2025-07-24,Mall Location,Entrees,Grilled Salmon,Server: Maya,4,84.76,23.98
+2025-07-24,Suburbs,Desserts,Tiramisu,Server: Diego,2,61.78,21.4
+2025-07-24,Suburbs,Entrees,Ribeye Steak,Server: Priya,2,27.3,10.33
+2025-07-24,Downtown,Entrees,Chicken Alfredo,Server: Jonah,5,87.6,26.26
+2025-07-25,Airport,Beverages,Iced Tea,Server: Maya,3,91.47,31.94
+2025-07-25,Uptown,Entrees,Chicken Alfredo,Server: Maya,4,32.8,13.01
+2025-07-26,Downtown,Beverages,Iced Tea,Server: Maya,3,133.86,39.72
+2025-07-26,Uptown,Beverages,House Wine,Server: Maya,3,105.81,34.87
+2025-07-27,Mall Location,Entrees,Grilled Salmon,Server: Priya,3,36.99,13.05
+2025-07-27,Suburbs,Beverages,Espresso,Server: Elin,2,53.22,16.84
+2025-07-27,Mall Location,Entrees,Grilled Salmon,Server: Jonah,6,258.48,92.38
+2025-07-28,Mall Location,Desserts,Tiramisu,Server: Diego,3,64.92,20.43
+2025-07-28,Uptown,Entrees,Chicken Alfredo,Server: Priya,5,198.6,65.95
+2025-07-28,Mall Location,Beverages,House Wine,Server: Priya,3,69.78,27.68
+2025-07-29,Mall Location,Appetizers,Bruschetta,Server: Diego,3,90.72,27.19
+2025-07-29,Downtown,Desserts,Chocolate Lava Cake,Server: Diego,3,35.4,10.32
+2025-07-30,Suburbs,Appetizers,Calamari,Server: Elin,6,74.7,24.86
+2025-07-30,Downtown,Entrees,Veggie Burger,Server: Maya,3,103.08,38.93
+2025-07-30,Uptown,Appetizers,Calamari,Server: Maya,1,40.09,12.51
+2025-07-31,Downtown,Appetizers,Bruschetta,Server: Diego,1,5.51,2.03
+2025-07-31,Suburbs,Appetizers,Loaded Nachos,Server: Priya,5,41.3,12.92
+2025-07-31,Airport,Entrees,Chicken Alfredo,Server: Diego,3,59.58,20.29
+2025-07-31,Airport,Appetizers,Calamari,Server: Diego,1,6.64,1.87
+2025-08-01,Downtown,Beverages,Craft Beer,Server: Maya,2,38.16,14.57
+2025-08-01,Airport,Entrees,Ribeye Steak,Server: Diego,1,25.75,9.53
+2025-08-01,Mall Location,Entrees,Grilled Salmon,Server: Maya,5,23.35,8.96
+2025-08-02,Suburbs,Entrees,Grilled Salmon,Server: Diego,5,141.2,42.3
+2025-08-02,Mall Location,Appetizers,Calamari,Server: Maya,5,93.35,36.12
+2025-08-02,Mall Location,Appetizers,Loaded Nachos,Server: Diego,4,152.32,58.29
+2025-08-03,Suburbs,Entrees,Veggie Burger,Server: Jonah,4,129.4,42.02
+2025-08-03,Mall Location,Appetizers,Bruschetta,Server: Diego,6,67.92,26.68
+2025-08-03,Airport,Entrees,Ribeye Steak,Server: Elin,2,24.18,7.52
+2025-08-03,Downtown,Entrees,Chicken Alfredo,Server: Diego,2,39.9,12.82
+2025-08-03,Uptown,Desserts,Chocolate Lava Cake,Server: Jonah,5,133.4,50.84
+2025-08-03,Suburbs,Desserts,Chocolate Lava Cake,Server: Priya,3,90.36,33.81
+2025-08-03,Airport,Desserts,Cheesecake,Server: Priya,6,93.0,35.72
+2025-08-04,Downtown,Desserts,Tiramisu,Server: Jonah,1,7.25,2.3
+2025-08-04,Airport,Entrees,Ribeye Steak,Server: Maya,1,22.87,7.04
+2025-08-04,Downtown,Beverages,House Wine,Server: Priya,4,67.36,25.52
+2025-08-04,Uptown,Desserts,Tiramisu,Server: Elin,5,190.4,65.12
+2025-08-05,Airport,Appetizers,Bruschetta,Server: Maya,1,29.85,10.9
+2025-08-05,Airport,Appetizers,Loaded Nachos,Server: Priya,6,167.58,59.1
+2025-08-05,Uptown,Entrees,Veggie Burger,Server: Jonah,2,14.16,4.07
+2025-08-06,Mall Location,Beverages,Espresso,Server: Maya,4,92.44,33.06
+2025-08-06,Airport,Appetizers,Loaded Nachos,Server: Maya,1,39.08,14.48
+2025-08-06,Airport,Entrees,Grilled Salmon,Server: Maya,5,150.6,44.93
+2025-08-06,Airport,Appetizers,Calamari,Server: Diego,2,26.34,8.85
+2025-08-06,Suburbs,Appetizers,Calamari,Server: Elin,3,38.94,11.9
+2025-08-06,Suburbs,Appetizers,Bruschetta,Server: Maya,5,213.45,63.97
+2025-08-06,Suburbs,Appetizers,Bruschetta,Server: Jonah,1,44.73,12.88
+2025-08-06,Downtown,Beverages,Iced Tea,Server: Maya,6,245.04,81.03
+2025-08-07,Mall Location,Desserts,Tiramisu,Server: Priya,1,32.6,9.82
+2025-08-07,Uptown,Appetizers,Loaded Nachos,Server: Diego,5,169.65,48.02
+2025-08-07,Airport,Entrees,Grilled Salmon,Server: Diego,3,82.92,27.15
+2025-08-07,Airport,Entrees,Chicken Alfredo,Server: Maya,2,30.22,10.91
+2025-08-08,Suburbs,Desserts,Tiramisu,Server: Elin,6,144.24,56.04
+2025-08-08,Airport,Desserts,Chocolate Lava Cake,Server: Priya,2,12.56,4.13
+2025-08-08,Airport,Appetizers,Loaded Nachos,Server: Elin,6,221.82,85.07
+2025-08-08,Uptown,Entrees,Grilled Salmon,Server: Diego,1,18.47,6.26
+2025-08-08,Downtown,Appetizers,Calamari,Server: Jonah,2,42.58,16.48
+2025-08-08,Airport,Desserts,Chocolate Lava Cake,Server: Priya,2,57.86,22.26
+2025-08-09,Uptown,Appetizers,Loaded Nachos,Server: Priya,5,191.1,74.4
+2025-08-09,Mall Location,Desserts,Chocolate Lava Cake,Server: Elin,4,75.48,21.21
+2025-08-09,Suburbs,Beverages,Craft Beer,Server: Jonah,5,25.8,8.76
+2025-08-09,Suburbs,Entrees,Veggie Burger,Server: Maya,5,198.8,72.7
+2025-08-09,Uptown,Appetizers,Bruschetta,Server: Elin,6,194.76,75.08
+2025-08-10,Uptown,Desserts,Cheesecake,Server: Jonah,2,65.6,24.47
+2025-08-10,Downtown,Appetizers,Bruschetta,Server: Jonah,5,157.0,56.04
+2025-08-11,Downtown,Entrees,Chicken Alfredo,Server: Diego,4,47.32,14.28
+2025-08-11,Airport,Beverages,House Wine,Server: Maya,5,47.7,14.01
+2025-08-11,Suburbs,Appetizers,Bruschetta,Server: Priya,2,80.9,32.13
+2025-08-11,Airport,Entrees,Grilled Salmon,Server: Jonah,3,65.01,22.68
+2025-08-11,Mall Location,Desserts,Cheesecake,Server: Priya,2,34.52,10.49
+2025-08-11,Airport,Desserts,Tiramisu,Server: Jonah,2,21.66,8.42
+2025-08-11,Downtown,Entrees,Grilled Salmon,Server: Diego,6,174.9,60.59
+2025-08-12,Suburbs,Appetizers,Calamari,Server: Priya,6,25.26,9.91
+2025-08-12,Uptown,Appetizers,Bruschetta,Server: Jonah,4,148.96,54.45
+2025-08-12,Downtown,Entrees,Chicken Alfredo,Server: Diego,3,80.04,27.6
+2025-08-12,Suburbs,Entrees,Veggie Burger,Server: Diego,3,66.21,19.35
+2025-08-12,Uptown,Appetizers,Loaded Nachos,Server: Diego,6,99.3,28.49
+2025-08-13,Airport,Beverages,Craft Beer,Server: Maya,2,23.36,7.7
+2025-08-13,Airport,Entrees,Ribeye Steak,Server: Jonah,3,66.48,26.53
+2025-08-14,Uptown,Entrees,Veggie Burger,Server: Maya,6,103.8,35.88
+2025-08-14,Airport,Beverages,Iced Tea,Server: Diego,6,243.54,91.04
+2025-08-14,Uptown,Desserts,Cheesecake,Server: Elin,2,55.62,19.87
+2025-08-14,Downtown,Appetizers,Loaded Nachos,Server: Diego,3,42.27,12.06
+2025-08-15,Uptown,Entrees,Veggie Burger,Server: Elin,2,8.68,2.74
+2025-08-15,Downtown,Appetizers,Loaded Nachos,Server: Priya,6,156.24,54.4
+2025-08-16,Uptown,Appetizers,Bruschetta,Server: Elin,2,88.68,28.32
+2025-08-16,Suburbs,Entrees,Chicken Alfredo,Server: Diego,2,68.06,25.97
+2025-08-16,Airport,Entrees,Veggie Burger,Server: Maya,3,29.4,11.09
+2025-08-17,Uptown,Appetizers,Loaded Nachos,Server: Diego,2,26.16,7.99
+2025-08-17,Uptown,Desserts,Cheesecake,Server: Maya,1,34.12,10.92
+2025-08-17,Mall Location,Desserts,Tiramisu,Server: Maya,5,81.35,24.88
+2025-08-18,Downtown,Entrees,Ribeye Steak,Server: Maya,6,167.4,55.23
+2025-08-18,Suburbs,Desserts,Cheesecake,Server: Jonah,2,87.24,33.29
+2025-08-18,Downtown,Entrees,Grilled Salmon,Server: Diego,1,34.7,9.93
+2025-08-19,Airport,Beverages,Iced Tea,Server: Maya,6,101.52,32.25
+2025-08-19,Downtown,Entrees,Ribeye Steak,Server: Jonah,1,33.0,12.65
+2025-08-19,Downtown,Appetizers,Bruschetta,Server: Jonah,5,24.3,7.87
+2025-08-19,Suburbs,Entrees,Chicken Alfredo,Server: Jonah,3,100.65,35.01
+2025-08-20,Uptown,Desserts,Chocolate Lava Cake,Server: Elin,2,74.5,26.16
+2025-08-20,Airport,Beverages,Craft Beer,Server: Priya,6,69.0,22.89
+2025-08-20,Suburbs,Entrees,Veggie Burger,Server: Elin,1,4.67,1.62
+2025-08-20,Mall Location,Beverages,Iced Tea,Server: Maya,2,32.48,10.43
+2025-08-20,Suburbs,Beverages,Iced Tea,Server: Diego,4,90.0,29.3
+2025-08-20,Mall Location,Desserts,Cheesecake,Server: Jonah,4,105.36,38.06
